@@ -11,6 +11,8 @@ import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
 public class ModBlocks {
+    public static final Block FLOWERING_AZALEA_PLANTER = registerBlock("everycomp", "af/ecologics/flowering_azalea_planter_box", new PlanterBoxBlock(FabricBlockSettings.copyOf(Blocks.OAK_WOOD)));
+
     private static Block registerBlock(String id, String name, Block block) {
         registerBlockItem(id, name, block);
         return Registry.register(Registry.BLOCK, new Identifier(id, name), block);
@@ -21,7 +23,5 @@ public class ModBlocks {
                 new BlockItem(block, new FabricItemSettings()));
     }
 
-    public static void registerModBlocks() {
-        registerBlock("everycomp", "af/ecologics/flowering_azalea_planter_box", new PlanterBoxBlock(FabricBlockSettings.copyOf(Blocks.OAK_WOOD)));
-    }
+    public static void registerModBlocks() {}
 }

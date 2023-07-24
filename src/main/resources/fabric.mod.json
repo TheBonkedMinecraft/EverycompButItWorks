@@ -14,6 +14,9 @@
   "entrypoints": {
     "main": [
       "org.tbm.server.everycompbutitworks.EveryCompatWorking"
+    ],
+    "client": [
+      "org.tbm.server.everycompbutitworks.client.EveryCompatWorkingClient"
     ]
   },
   "mixins": [
