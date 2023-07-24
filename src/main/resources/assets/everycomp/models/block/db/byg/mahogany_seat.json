@@ -1,0 +1,7 @@
+{
+  "parent": "decorative_blocks:custom/seat",
+  "textures": {
+    "particle": "everycomp:block/db/byg/mahogany_seat",
+    "texture": "everycomp:block/db/byg/mahogany_seat"
+  }
+}

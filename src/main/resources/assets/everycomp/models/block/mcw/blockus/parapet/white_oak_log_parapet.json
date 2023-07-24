@@ -1,0 +1,7 @@
+{
+	"parent": "mcwwindows:block/parent/parapet",
+	"textures": {
+		"1": "blockus:block/white_oak_log",
+		"particle": "blockus:block/white_oak_log"      
+	}
+}

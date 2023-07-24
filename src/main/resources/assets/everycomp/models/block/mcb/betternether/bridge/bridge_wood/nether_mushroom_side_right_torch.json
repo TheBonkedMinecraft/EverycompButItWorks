@@ -1,0 +1,9 @@
+	{
+	"parent": "mcwbridges:block/bridge/bridge_wood/parent/side_right_torch",
+	"textures": {
+		"5": "betternether:block/nether_mushroom_planks",
+		"0": "betternether:block/nether_mushroom_stem_side",
+		"4": "mcwbridges:block/torch",
+		"particle": "betternether:block/nether_mushroom_stem_side"
+	}
+}

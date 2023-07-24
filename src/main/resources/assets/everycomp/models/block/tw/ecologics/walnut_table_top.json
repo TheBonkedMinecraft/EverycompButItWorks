@@ -1,0 +1,9 @@
+{
+	"parent": "twigs:block/template_table_top",
+	"textures": {
+		"side": "everycomp:block/tw/ecologics/walnut_table",
+		"bottom": "everycomp:block/tw/ecologics/walnut_table_bottom",
+		"top": "everycomp:block/tw/ecologics/walnut_table_top",
+		"particle": "ecologics:block/walnut_planks"
+	}
+}

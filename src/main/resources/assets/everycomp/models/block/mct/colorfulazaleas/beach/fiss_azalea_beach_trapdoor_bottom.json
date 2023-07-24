@@ -1,0 +1,6 @@
+{
+    "parent": "mcwtrpdoors:block/parent/template_orientable_trapdoor_bottom",
+    "textures": {
+        "texture": "everycomp:block/mct/colorfulazaleas/beach/fiss_azalea_beach_trapdoor"
+    }
+}

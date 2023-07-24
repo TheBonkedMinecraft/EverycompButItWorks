@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/wired_fence_post",
+	"textures": {
+		"1": "colorfulazaleas:block/tecal_azalea_log_top",
+		"particle": "colorfulazaleas:block/tecal_azalea_log_side",
+		"texture": "colorfulazaleas:block/tecal_azalea_log_side"
+	}
+}

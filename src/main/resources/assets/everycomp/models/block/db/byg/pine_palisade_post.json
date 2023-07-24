@@ -1,0 +1,8 @@
+{
+  "parent": "decorative_blocks:custom/palisade_post",
+  "textures": {
+    "end": "everycomp:block/db/byg/pine_palisade_end",
+    "particle": "everycomp:block/db/byg/pine_palisade_side",
+    "side": "everycomp:block/db/byg/pine_palisade_side"
+  }
+}

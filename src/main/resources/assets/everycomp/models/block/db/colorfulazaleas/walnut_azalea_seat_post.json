@@ -1,0 +1,7 @@
+{
+  "parent": "decorative_blocks:custom/seat_post",
+  "textures": {
+    "particle": "everycomp:block/db/colorfulazaleas/walnut_azalea_seat",
+    "texture": "everycomp:block/db/colorfulazaleas/walnut_azalea_seat"
+  }
+}

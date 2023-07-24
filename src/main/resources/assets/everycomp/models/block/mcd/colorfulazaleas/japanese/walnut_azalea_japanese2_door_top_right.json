@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/japanese_top_right",
+    "textures": {
+		"0": "everycomp:block/mcd/colorfulazaleas/walnut_azalea_japanese_door_lower",
+		"2": "everycomp:block/mcd/colorfulazaleas/japanese_walnut_azalea_lower",
+		"1": "everycomp:block/mcd/colorfulazaleas/walnut_azalea_japanese_door_upper",
+		"particle": "everycomp:block/mcd/colorfulazaleas/walnut_azalea_japanese_door_lower"
+    }
+}

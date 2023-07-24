@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/wired_fence_post",
+	"textures": {
+		"1": "betternether:block/nether_reed_stem_top",
+		"particle": "betternether:block/nether_reed_stem_side",
+		"texture": "betternether:block/nether_reed_stem_side"
+	}
+}

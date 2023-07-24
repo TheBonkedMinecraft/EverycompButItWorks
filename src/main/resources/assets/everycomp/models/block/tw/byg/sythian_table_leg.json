@@ -1,0 +1,9 @@
+{
+	"parent": "twigs:block/template_table_leg",
+	"textures": {
+		"side": "everycomp:block/tw/byg/sythian_table",
+		"bottom": "everycomp:block/tw/byg/sythian_table_bottom",
+		"top": "everycomp:block/tw/byg/sythian_table_top",
+		"particle": "byg:block/sythian/planks"
+	}
+}

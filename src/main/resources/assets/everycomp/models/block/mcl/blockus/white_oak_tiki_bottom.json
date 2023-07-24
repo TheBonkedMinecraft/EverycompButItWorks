@@ -1,0 +1,7 @@
+{
+	"parent": "mcwlights:block/parent/tiki_bot",
+	"textures": {
+		"0": "blockus:block/white_oak_log",
+		"particle": "blockus:block/white_oak_log"
+	}
+}

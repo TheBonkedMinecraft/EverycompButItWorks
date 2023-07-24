@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "mcwtrpdoors:block/parent/ranch_trapdoor_top",
+	"textures": {
+		"1": "colorfulazaleas:block/roze_azalea_log_side",
+		"2": "colorfulazaleas:block/stripped_roze_azalea_log_side",
+		"particle": "colorfulazaleas:block/roze_azalea_log_side"
+	}
+}

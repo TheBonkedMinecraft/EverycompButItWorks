@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/bridge/bridge_wood/parent/middle_end",
+	"textures": {
+		"5": "charm:block/azalea_planks",
+		"0": "charm:block/azalea_log",
+		"1": "charm:block/azalea_planks",
+		"particle": "charm:block/azalea_log"
+	}
+}

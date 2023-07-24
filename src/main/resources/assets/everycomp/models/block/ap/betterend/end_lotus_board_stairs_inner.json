@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "everycomp:block/ap/betterend/end_lotus_boards",
+    "side": "everycomp:block/ap/betterend/end_lotus_boards",
+    "top": "everycomp:block/ap/betterend/end_lotus_boards"
+  }
+}

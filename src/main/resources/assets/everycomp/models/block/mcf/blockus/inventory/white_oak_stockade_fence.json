@@ -1,0 +1,9 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/inventory/stockade_fence",
+	"textures": {
+		"5": "blockus:block/white_oak_log",
+		"particle": "blockus:block/white_oak_planks"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "mcwbridges:block/bridge/rope/parent/middle_end_torch",
+	"textures": {
+		"0": "mcwbridges:block/lead_knot_vert",
+		"3": "mcwbridges:block/lead_knot",
+		"4": "enderscape:block/celestial_stem",
+		"5": "enderscape:block/celestial_planks",
+		"6": "mcwbridges:block/torch",
+		"particle": "enderscape:block/celestial_planks"
+	}
+}

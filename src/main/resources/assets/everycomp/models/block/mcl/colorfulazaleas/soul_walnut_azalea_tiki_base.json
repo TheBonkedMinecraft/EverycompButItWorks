@@ -1,0 +1,9 @@
+{
+	"parent": "mcwlights:block/parent/tiki_base",
+	"textures": {
+		"0": "colorfulazaleas:block/walnut_azalea_log_side",
+		"2": "minecraft:block/soul_torch",
+		"4": "minecraft:block/scaffolding_top",
+		"particle": "colorfulazaleas:block/walnut_azalea_log_side"
+	}
+}

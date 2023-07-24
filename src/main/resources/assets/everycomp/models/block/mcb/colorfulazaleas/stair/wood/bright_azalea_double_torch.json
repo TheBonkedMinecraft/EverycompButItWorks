@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/stair/wood/parent/double_torch",
+	"textures": {
+		"2": "colorfulazaleas:block/bright_azalea_planks",
+		"particle": "colorfulazaleas:block/bright_azalea_log_side",
+		"4": "mcwbridges:block/torch",
+		"1_1": "colorfulazaleas:block/bright_azalea_log_side"
+	}
+}

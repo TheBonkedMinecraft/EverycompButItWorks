@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/bridge/rope/parent/base_end_torch",
+	"textures": {
+		"1": "byg:block/willow/planks",
+		"2": "byg:block/willow/log",
+		"3": "mcwbridges:block/torch",
+		"particle": "byg:block/willow/planks"
+	}
+}

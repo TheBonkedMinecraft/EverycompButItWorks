@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/xx_steep",
+	"textures": {
+		"particle": "blockus:block/white_oak_log",
+		"2": "blockus:block/white_oak_log"
+	}
+}

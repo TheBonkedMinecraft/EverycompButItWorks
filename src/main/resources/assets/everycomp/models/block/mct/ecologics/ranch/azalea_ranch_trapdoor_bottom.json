@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "mcwtrpdoors:block/parent/ranch_trapdoor_bottom",
+	"textures": {
+		"3": "ecologics:block/azalea_log",
+		"5": "ecologics:block/stripped_azalea_log",
+		"particle": "ecologics:block/azalea_log"
+	}
+}

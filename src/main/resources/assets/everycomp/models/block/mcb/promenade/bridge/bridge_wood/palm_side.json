@@ -1,0 +1,8 @@
+	{
+	"parent": "mcwbridges:block/bridge/bridge_wood/parent/side",
+	"textures": {
+		"5": "promenade:block/palm_planks",
+		"0": "promenade:block/palm_log/side",
+		"particle": "promenade:block/palm_log/side"
+	}
+}

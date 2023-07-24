@@ -1,0 +1,11 @@
+{
+	"parent": "mcwbridges:block/bridge/rope/parent/middle_torch",
+	"textures": {
+		"0": "mcwbridges:block/lead_knot_vert",
+		"3": "architects_palette:block/twisted_planks",
+		"4": "architects_palette:block/twisted_log",
+		"5": "mcwbridges:block/torch",
+		"particle": "architects_palette:block/twisted_planks",
+		"1_4": "mcwbridges:block/lead_knot"
+	}
+}

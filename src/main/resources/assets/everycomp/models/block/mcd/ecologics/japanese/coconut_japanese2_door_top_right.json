@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/japanese_top_right",
+    "textures": {
+		"0": "everycomp:block/mcd/ecologics/coconut_japanese_door_lower",
+		"2": "everycomp:block/mcd/ecologics/japanese_coconut_lower",
+		"1": "everycomp:block/mcd/ecologics/coconut_japanese_door_upper",
+		"particle": "everycomp:block/mcd/ecologics/coconut_japanese_door_lower"
+    }
+}

@@ -1,0 +1,10 @@
+{
+	"parent": "mcwwindows:block/parent/blinds_top_closed",
+	"textures": {
+		"1": "colorfulazaleas:block/stripped_walnut_azalea_log_side",
+		"2": "colorfulazaleas:block/walnut_azalea_log_side",
+		"3": "colorfulazaleas:block/walnut_azalea_planks",
+		"particle": "colorfulazaleas:block/walnut_azalea_planks"
+	}    
+}
+

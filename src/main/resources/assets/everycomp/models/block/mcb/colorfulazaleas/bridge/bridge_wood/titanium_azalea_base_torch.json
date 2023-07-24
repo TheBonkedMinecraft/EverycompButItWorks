@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/bridge/bridge_wood/parent/base_torch",
+	"textures": {
+		"1": "colorfulazaleas:block/titanium_azalea_log_side",
+		"4": "mcwbridges:block/torch",
+		"2": "colorfulazaleas:block/titanium_azalea_planks",
+		"particle": "colorfulazaleas:block/titanium_azalea_planks"
+	}
+}

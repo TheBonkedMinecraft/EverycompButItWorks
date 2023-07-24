@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/bridge/bridge_wood/parent/middle_end",
+	"textures": {
+		"5": "betterend:block/mossy_glowshroom_planks",
+		"0": "betterend:block/mossy_glowshroom_log_side_2",
+		"1": "betterend:block/mossy_glowshroom_planks",
+		"particle": "betterend:block/mossy_glowshroom_log_side_2"
+	}
+}

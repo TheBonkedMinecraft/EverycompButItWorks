@@ -1,0 +1,9 @@
+{
+	"parent": "mcwwindows:block/parent/blinds_lower_open",
+	"textures": {
+		"0": "ecologics:block/walnut_log",
+		"2": "ecologics:block/walnut_planks",
+		"particle": "ecologics:block/walnut_planks"
+	}    
+}
+

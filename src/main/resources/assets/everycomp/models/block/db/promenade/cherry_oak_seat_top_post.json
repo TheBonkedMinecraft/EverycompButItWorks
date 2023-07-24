@@ -1,0 +1,7 @@
+{
+  "parent": "decorative_blocks:custom/seat_top_post",
+  "textures": {
+    "particle": "everycomp:block/db/promenade/cherry_oak_seat",
+    "texture": "everycomp:block/db/promenade/cherry_oak_seat"
+  }
+}

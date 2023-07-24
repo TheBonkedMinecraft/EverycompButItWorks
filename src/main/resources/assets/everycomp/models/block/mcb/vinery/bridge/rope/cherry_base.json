@@ -1,0 +1,8 @@
+{
+	"parent": "mcwbridges:block/bridge/rope/parent/base",
+	"textures": {
+		"1": "vinery:block/cherry_planks12",
+		"2": "vinery:block/cherry_log_side",
+		"particle": "vinery:block/cherry_planks12"
+	}
+}

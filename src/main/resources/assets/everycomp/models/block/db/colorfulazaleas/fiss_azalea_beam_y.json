@@ -1,0 +1,8 @@
+{
+  "parent": "decorative_blocks:custom/beam_y",
+  "textures": {
+    "end": "everycomp:block/db/colorfulazaleas/fiss_azalea_beam_end",
+    "particle": "everycomp:block/db/colorfulazaleas/fiss_azalea_beam_side",
+    "side": "everycomp:block/db/colorfulazaleas/fiss_azalea_beam_side"
+  }
+}

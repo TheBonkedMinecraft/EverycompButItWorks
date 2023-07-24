@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "mcwtrpdoors:block/parent/trapdoor_top",
+	"textures": {
+		"1": "colorfulazaleas:block/tecal_azalea_log_side",
+		"2": "minecraft:block/glass",
+		"particle": "colorfulazaleas:block/tecal_azalea_log_side"
+	}
+}

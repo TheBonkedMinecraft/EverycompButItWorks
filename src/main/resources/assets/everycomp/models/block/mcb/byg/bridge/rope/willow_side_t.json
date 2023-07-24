@@ -1,0 +1,11 @@
+{
+	"parent": "mcwbridges:block/bridge/rope/parent/side_torch",
+	"textures": {
+		"0": "mcwbridges:block/lead_knot_vert",
+		"2": "byg:block/willow/planks",
+		"3": "byg:block/willow/log",
+		"4": "mcwbridges:block/torch",
+		"particle": "byg:block/willow/planks",
+		"1_4": "mcwbridges:block/lead_knot"
+	}
+}

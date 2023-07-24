@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/japanese_top_closed",
+    "textures": {
+		"0": "everycomp:block/mcd/betternether/japanese_wart_lower",
+		"2": "everycomp:block/mcd/betternether/japanese_wart_lower",
+		"1": "everycomp:block/mcd/betternether/japanese_wart_upper",
+		"particle": "everycomp:block/mcd/betternether/japanese_wart_lower"
+    }
+}

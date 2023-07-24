@@ -1,0 +1,14 @@
+{
+    "variants": {                                                                        
+        "facing=north":  { "model": "everycomp:block/mcw/ecologics/window_barred/walnut_window"},
+        "facing=east":  { "model": "everycomp:block/mcw/ecologics/window_barred/walnut_window","y": 90 },
+        "facing=south": { "model": "everycomp:block/mcw/ecologics/window_barred/walnut_window"},
+		"facing=west":  { "model": "everycomp:block/mcw/ecologics/window_barred/walnut_window","y": 90 }
+    }
+}
+
+
+
+
+
+

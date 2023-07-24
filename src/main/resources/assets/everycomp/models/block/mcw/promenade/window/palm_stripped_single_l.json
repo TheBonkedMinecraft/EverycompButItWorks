@@ -1,0 +1,8 @@
+{
+	"parent": "mcwwindows:block/parent/window/single_l",
+	"textures": {
+		"0": "promenade:block/stripped_palm_log/top",
+		"1": "mcwwindows:block/glass",
+		"particle": "promenade:block/stripped_palm_log/top"     
+	}
+}

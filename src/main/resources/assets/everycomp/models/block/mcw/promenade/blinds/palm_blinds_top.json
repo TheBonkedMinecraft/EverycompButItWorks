@@ -1,0 +1,10 @@
+{
+	"parent": "mcwwindows:block/parent/blinds_top",
+	"textures": {
+		"1": "promenade:block/stripped_palm_log/top",
+		"2": "promenade:block/palm_log/side",
+		"3": "promenade:block/palm_planks",
+		"particle": "promenade:block/palm_planks"
+	}    
+}
+

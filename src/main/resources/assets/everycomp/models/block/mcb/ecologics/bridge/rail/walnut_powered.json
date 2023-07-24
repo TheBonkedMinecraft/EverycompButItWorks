@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/bridge/rail/parent/rail_powered",
+	"textures": {
+		"0": "ecologics:block/stripped_walnut_log",
+		"1": "ecologics:block/walnut_log",
+		"2": "minecraft:block/redstone_block",
+		"particle": "ecologics:block/walnut_log"
+	}
+}

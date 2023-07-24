@@ -1,0 +1,11 @@
+{
+  "parent": "everycomp:block/db/vinery/cherry_support_inventory",
+  "overrides": [
+    {
+      "model": "everycomp:block/db/vinery/cherry_upside_down_support_inventory",
+      "predicate": {
+        "decorative_blocks:up": 1.0
+      }
+    }
+  ]
+}

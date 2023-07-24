@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/xx_upper_lower_outer",
+	"textures": {
+		"particle": "promenade:block/cherry_oak_log/top",
+		"1_2": "promenade:block/cherry_oak_log/top"
+	}
+}

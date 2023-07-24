@@ -1,0 +1,8 @@
+{
+    "parent": "mcwdoors:block/parent/fixed/stable_top_closed_rh",
+    "textures": {
+        "particle": "everycomp:block/mcd/enderscape/celestial_barn_door_lower",
+		"1": "everycomp:block/mcd/enderscape/celestial_barn_door_lower",
+		"bottom": "everycomp:block/mcd/enderscape/stable/celestial_stable_door_upper"
+    }
+}

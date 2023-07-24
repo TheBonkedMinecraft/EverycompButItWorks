@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/bridge/rail/parent/rail_powered",
+	"textures": {
+		"0": "promenade:block/stripped_cherry_oak_log/side",
+		"1": "promenade:block/cherry_oak_log/top",
+		"2": "minecraft:block/redstone_block",
+		"particle": "promenade:block/cherry_oak_log/top"
+	}
+}

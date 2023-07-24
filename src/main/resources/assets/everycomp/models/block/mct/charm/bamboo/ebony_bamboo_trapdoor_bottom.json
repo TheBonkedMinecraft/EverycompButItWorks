@@ -1,0 +1,6 @@
+{
+    "parent": "mcwtrpdoors:block/parent/template_orientable_trapdoor_bottom",
+    "textures": {
+        "texture": "everycomp:block/mct/charm/bamboo/ebony_bamboo_trapdoor"
+    }
+}

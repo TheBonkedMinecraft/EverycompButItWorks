@@ -1,0 +1,9 @@
+
+{
+	"parent": "mcwfences:block/parent/horse_fence_side",
+	"textures": {
+		"texture": "betternether:block/nether_reed_planks_side",
+		"particle": "betternether:block/nether_reed_planks_side",
+		"1_texture": "betternether:block/nether_reed_planks_side"
+	}
+}

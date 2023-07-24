@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/roof_inner",
+	"textures": {
+		"particle": "architects_palette:block/twisted_planks",
+		"1_2": "architects_palette:block/twisted_planks"
+	}
+}

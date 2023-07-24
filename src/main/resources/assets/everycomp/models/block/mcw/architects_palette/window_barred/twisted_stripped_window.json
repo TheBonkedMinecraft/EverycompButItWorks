@@ -1,0 +1,8 @@
+{
+	"parent": "mcwwindows:block/parent/window/window_barred",
+	"textures": {
+		"0": "minecraft:block/glass",
+		"1": "architects_palette:block/stripped_twisted_log",
+		"particle": "architects_palette:block/stripped_twisted_log"
+	}
+}

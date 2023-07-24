@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "everycomp:block/mcp/promenade/wooden/cherry_oak_planks_path"
+    },
+    "facing=north": {
+      "model": "everycomp:block/mcp/promenade/wooden/cherry_oak_planks_path",
+      "y": 270
+    },
+    "facing=south": {
+      "model": "everycomp:block/mcp/promenade/wooden/cherry_oak_planks_path",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "everycomp:block/mcp/promenade/wooden/cherry_oak_planks_path"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/wired_fence_post",
+	"textures": {
+		"1": "architects_palette:block/twisted_log_top",
+		"particle": "architects_palette:block/twisted_log",
+		"texture": "architects_palette:block/twisted_log"
+	}
+}

@@ -1,0 +1,14 @@
+{
+    "variants": {                                                                        
+        "facing=north":  { "model": "everycomp:block/mcw/promenade/window_barred/cherry_oak_four_window"},
+        "facing=east":  { "model": "everycomp:block/mcw/promenade/window_barred/cherry_oak_four_window","y": 90 },
+        "facing=south": { "model": "everycomp:block/mcw/promenade/window_barred/cherry_oak_four_window"},
+		"facing=west":  { "model": "everycomp:block/mcw/promenade/window_barred/cherry_oak_four_window","y": 90 }
+    }
+}
+
+
+
+
+
+

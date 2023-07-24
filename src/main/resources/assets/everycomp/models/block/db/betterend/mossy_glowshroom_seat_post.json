@@ -1,0 +1,7 @@
+{
+  "parent": "decorative_blocks:custom/seat_post",
+  "textures": {
+    "particle": "everycomp:block/db/betterend/mossy_glowshroom_seat",
+    "texture": "everycomp:block/db/betterend/mossy_glowshroom_seat"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "variants": {                                                                        
+        "facing=north":  { "model": "everycomp:block/mcw/architects_palette/window_barred/twisted_stripped_four_window","y": 0 },
+        "facing=east":  { "model": "everycomp:block/mcw/architects_palette/window_barred/twisted_stripped_four_window","y": 90 },
+        "facing=south": { "model": "everycomp:block/mcw/architects_palette/window_barred/twisted_stripped_four_window","y": 0},
+		"facing=west":  { "model": "everycomp:block/mcw/architects_palette/window_barred/twisted_stripped_four_window","y": 90 }
+    }
+}
+
+
+
+
+
+

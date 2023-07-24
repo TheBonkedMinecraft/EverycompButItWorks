@@ -1,0 +1,8 @@
+{
+	"parent": "mcwwindows:block/parent/window/window_barred",
+	"textures": {
+		"0": "minecraft:block/glass",
+		"1": "promenade:block/palm_log/side",
+		"particle": "promenade:block/palm_log/side"
+	}
+}

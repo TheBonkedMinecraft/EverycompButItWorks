@@ -1,0 +1,7 @@
+{
+  "parent": "architects_palette:block/boards/parent",
+  "textures": {
+    "even": "everycomp:block/ap/betterend/end_lotus_boards",
+    "odd": "everycomp:block/ap/betterend/end_lotus_boards_odd"
+  }
+}

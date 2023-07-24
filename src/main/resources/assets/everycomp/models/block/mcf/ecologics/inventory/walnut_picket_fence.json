@@ -1,0 +1,9 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/inventory/picket_fence",
+	"textures": {
+		"5": "ecologics:block/walnut_log",
+		"particle": "ecologics:block/walnut_planks"
+	}
+}

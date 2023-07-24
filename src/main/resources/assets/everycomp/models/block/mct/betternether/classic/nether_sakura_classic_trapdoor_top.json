@@ -1,0 +1,6 @@
+{
+    "parent": "mcwtrpdoors:block/parent/template_orientable_trapdoor_top",
+    "textures": {
+        "texture": "everycomp:block/mct/betternether/classic/nether_sakura_classic_trapdoor"
+    }
+}

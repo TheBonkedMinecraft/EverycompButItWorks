@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/xx_upper_steep",
+	"textures": {
+		"particle": "promenade:block/dark_amaranth_stem/top",
+		"2": "promenade:block/dark_amaranth_stem/top"
+	}
+}

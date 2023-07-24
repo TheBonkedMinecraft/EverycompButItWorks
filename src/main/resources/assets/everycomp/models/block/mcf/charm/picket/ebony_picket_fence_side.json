@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/picket_fence_side",
+	"textures": {
+		"2": "charm:block/ebony_log",
+		"particle": "charm:block/ebony_planks",
+		"texture": "charm:block/ebony_planks"
+	}
+}

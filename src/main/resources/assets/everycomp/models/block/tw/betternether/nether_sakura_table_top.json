@@ -1,0 +1,9 @@
+{
+	"parent": "twigs:block/template_table_top",
+	"textures": {
+		"side": "everycomp:block/tw/betternether/nether_sakura_table",
+		"bottom": "everycomp:block/tw/betternether/nether_sakura_table_bottom",
+		"top": "everycomp:block/tw/betternether/nether_sakura_table_top",
+		"particle": "betternether:block/nether_sakura_planks"
+	}
+}

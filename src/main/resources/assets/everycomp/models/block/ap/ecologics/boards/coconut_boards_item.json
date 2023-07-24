@@ -1,0 +1,7 @@
+{
+  "parent": "architects_palette:block/boards/parent",
+  "textures": {
+    "even": "everycomp:block/ap/ecologics/coconut_boards",
+    "odd": "everycomp:block/ap/ecologics/coconut_boards_odd"
+  }
+}

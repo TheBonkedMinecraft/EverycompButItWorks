@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/stockade_fence_side",
+	"textures": {
+		"4": "enderscape:block/celestial_planks",
+		"5": "enderscape:block/celestial_stem",
+		"particle": "enderscape:block/celestial_planks"
+	}
+}

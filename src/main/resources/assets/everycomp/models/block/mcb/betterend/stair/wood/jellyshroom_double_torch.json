@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/stair/wood/parent/double_torch",
+	"textures": {
+		"2": "betterend:block/jellyshroom_planks",
+		"particle": "betterend:block/jellyshroom_log_side",
+		"4": "mcwbridges:block/torch",
+		"1_1": "betterend:block/jellyshroom_log_side"
+	}
+}

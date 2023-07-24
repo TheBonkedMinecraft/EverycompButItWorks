@@ -1,0 +1,9 @@
+{
+	"parent": "mcwwindows:block/parent/blinds_raised",
+	"textures": {
+		"1": "architects_palette:block/twisted_planks",
+		"2": "architects_palette:block/stripped_twisted_log",
+		"particle": "architects_palette:block/twisted_planks"
+	}    
+}
+

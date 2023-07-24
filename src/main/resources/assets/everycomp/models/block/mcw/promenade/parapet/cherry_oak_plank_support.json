@@ -1,0 +1,7 @@
+{
+	"parent": "mcwwindows:block/parent/support",
+	"textures": {
+		"1": "promenade:block/cherry_oak_planks",
+		"particle": "promenade:block/cherry_oak_planks"      
+	}
+}

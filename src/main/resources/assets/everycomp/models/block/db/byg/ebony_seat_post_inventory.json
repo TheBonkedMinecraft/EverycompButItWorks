@@ -1,0 +1,7 @@
+{
+  "parent": "decorative_blocks:custom/seat_post_inventory",
+  "textures": {
+    "particle": "everycomp:block/db/byg/ebony_seat",
+    "texture": "everycomp:block/db/byg/ebony_seat"
+  }
+}

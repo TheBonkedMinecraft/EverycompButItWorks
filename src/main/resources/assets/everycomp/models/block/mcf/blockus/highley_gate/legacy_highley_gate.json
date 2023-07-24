@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/highley_gate",
+	"textures": {
+		"2": "blockus:block/legacy_planks",
+		"particle": "blockus:block/legacy_planks",
+		"texture": "blockus:block/legacy_log"
+	}
+}

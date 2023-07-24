@@ -1,0 +1,7 @@
+{
+	"parent": "mcwwindows:block/parent/shutter_closed_right",
+	"textures": {
+		"0": "everycomp:block/mcw/promenade/cherry_oak_shutter",
+		"particle": "everycomp:block/mcw/promenade/cherry_oak_shutter"
+	}    
+}

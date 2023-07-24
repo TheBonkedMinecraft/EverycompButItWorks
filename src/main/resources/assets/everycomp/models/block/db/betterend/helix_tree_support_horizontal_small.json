@@ -1,0 +1,8 @@
+{
+  "parent": "decorative_blocks:custom/support_horizontal_small",
+  "textures": {
+    "end": "everycomp:block/db/betterend/helix_tree_support_end",
+    "particle": "everycomp:block/db/betterend/helix_tree_support_side",
+    "side": "everycomp:block/db/betterend/helix_tree_support_side"
+  }
+}

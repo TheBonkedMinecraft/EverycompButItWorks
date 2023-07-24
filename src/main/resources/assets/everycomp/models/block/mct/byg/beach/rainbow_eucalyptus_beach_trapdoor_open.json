@@ -1,0 +1,6 @@
+{
+    "parent": "mcwtrpdoors:block/parent/template_orientable_trapdoor_open",
+    "textures": {
+        "texture": "everycomp:block/mct/byg/beach/rainbow_eucalyptus_beach_trapdoor"
+    }
+}

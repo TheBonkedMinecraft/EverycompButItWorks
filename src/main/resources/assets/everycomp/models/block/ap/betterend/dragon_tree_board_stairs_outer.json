@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "everycomp:block/ap/betterend/dragon_tree_boards",
+    "side": "everycomp:block/ap/betterend/dragon_tree_boards",
+    "top": "everycomp:block/ap/betterend/dragon_tree_boards"
+  }
+}

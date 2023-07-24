@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/three_way_roof",
+	"textures": {
+		"particle": "promenade:block/cherry_oak_log/top",
+		"1_1_2": "promenade:block/cherry_oak_log/top"
+	}
+}

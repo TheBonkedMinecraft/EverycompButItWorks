@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/xx_upper_lower",
+	"textures": {
+		"particle": "enderscape:block/celestial_planks",
+		"1_2": "enderscape:block/celestial_planks"
+	}
+}

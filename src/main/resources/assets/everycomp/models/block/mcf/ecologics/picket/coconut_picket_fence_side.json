@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/picket_fence_side",
+	"textures": {
+		"2": "ecologics:block/coconut_log",
+		"particle": "ecologics:block/coconut_planks",
+		"texture": "ecologics:block/coconut_planks"
+	}
+}

@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/picket_fence_side",
+	"textures": {
+		"2": "vinery:block/cherry_log_side",
+		"particle": "vinery:block/cherry_planks12",
+		"texture": "vinery:block/cherry_planks12"
+	}
+}

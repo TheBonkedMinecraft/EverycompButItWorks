@@ -1,0 +1,9 @@
+{
+	"parent": "twigs:block/template_table_top",
+	"textures": {
+		"side": "everycomp:block/tw/byg/ebony_table",
+		"bottom": "everycomp:block/tw/byg/ebony_table_bottom",
+		"top": "everycomp:block/tw/byg/ebony_table_top",
+		"particle": "byg:block/ebony/planks"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "mcwbridges:block/bridge/rope/parent/corner_clear_torch",
+	"textures": {
+		"0": "mcwbridges:block/lead_knot_vert",
+		"3": "betternether:block/nether_sakura_planks",
+		"4": "betternether:block/nether_sakura_log_side",
+		"5": "mcwbridges:block/torch",
+		"particle": "betternether:block/nether_sakura_planks",
+		"1_4": "mcwbridges:block/lead_knot"
+	}
+}

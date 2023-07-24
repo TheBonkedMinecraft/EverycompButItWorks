@@ -1,0 +1,9 @@
+{
+	"parent": "mcwwindows:block/parent/blinds_lower_open",
+	"textures": {
+		"0": "betterend:block/mossy_glowshroom_log_side_2",
+		"2": "betterend:block/mossy_glowshroom_planks",
+		"particle": "betterend:block/mossy_glowshroom_planks"
+	}    
+}
+

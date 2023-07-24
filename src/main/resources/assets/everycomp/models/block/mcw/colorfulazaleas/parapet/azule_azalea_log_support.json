@@ -1,0 +1,7 @@
+{
+	"parent": "mcwwindows:block/parent/support",
+	"textures": {
+		"1": "colorfulazaleas:block/azule_azalea_log_side",
+		"particle": "colorfulazaleas:block/azule_azalea_log_side"      
+	}
+}

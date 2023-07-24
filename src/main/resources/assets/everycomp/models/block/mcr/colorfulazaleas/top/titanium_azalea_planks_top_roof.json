@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/top_roof",
+	"textures": {
+		"particle": "colorfulazaleas:block/titanium_azalea_planks",
+		"1_2": "colorfulazaleas:block/titanium_azalea_planks"
+	}
+}

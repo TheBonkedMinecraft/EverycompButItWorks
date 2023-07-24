@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/bridge/rope/parent/base_end_torch",
+	"textures": {
+		"1": "blockus:block/white_oak_planks",
+		"2": "blockus:block/white_oak_log",
+		"3": "mcwbridges:block/torch",
+		"particle": "blockus:block/white_oak_planks"
+	}
+}

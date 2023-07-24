@@ -1,0 +1,10 @@
+{
+	"parent": "mcwwindows:block/parent/blinds_top",
+	"textures": {
+		"1": "minecraft:block/stripped_oak_log",
+		"2": "blockus:block/legacy_log",
+		"3": "blockus:block/legacy_planks",
+		"particle": "blockus:block/legacy_planks"
+	}    
+}
+

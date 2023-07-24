@@ -1,0 +1,7 @@
+{
+  "parent": "architects_palette:block/boards/parent",
+  "textures": {
+    "even": "everycomp:block/ap/betterend/jellyshroom_boards",
+    "odd": "everycomp:block/ap/betterend/jellyshroom_boards_odd"
+  }
+}

@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "mcwtrpdoors:block/parent/ranch_trapdoor_open",
+	"textures": {
+		"1": "byg:block/pine/log",
+		"2": "byg:block/pine/stripped_log",
+		"particle": "byg:block/pine/log"
+	}
+}

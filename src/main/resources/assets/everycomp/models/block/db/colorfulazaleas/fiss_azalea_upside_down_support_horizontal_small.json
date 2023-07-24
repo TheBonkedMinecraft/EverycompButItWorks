@@ -1,0 +1,8 @@
+{
+  "parent": "decorative_blocks:custom/upside_down_support_horizontal_small",
+  "textures": {
+    "end": "everycomp:block/db/colorfulazaleas/fiss_azalea_support_end",
+    "particle": "everycomp:block/db/colorfulazaleas/fiss_azalea_support_side",
+    "side": "everycomp:block/db/colorfulazaleas/fiss_azalea_support_side"
+  }
+}

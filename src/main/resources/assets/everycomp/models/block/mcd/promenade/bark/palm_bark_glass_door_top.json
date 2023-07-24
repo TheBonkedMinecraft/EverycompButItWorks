@@ -1,0 +1,11 @@
+{
+    "parent": "mcwdoors:block/parent/bark_glass_door_top",
+    "ambientocclusion": false,
+    "textures": {
+		"3": "minecraft:block/glass",
+		"particle": "promenade:block/palm_log/side",
+		"top": "promenade:block/palm_log/side"
+    }
+}
+
+

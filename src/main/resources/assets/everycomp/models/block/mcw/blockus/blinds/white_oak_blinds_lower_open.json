@@ -1,0 +1,9 @@
+{
+	"parent": "mcwwindows:block/parent/blinds_lower_open",
+	"textures": {
+		"0": "blockus:block/white_oak_log",
+		"2": "blockus:block/white_oak_planks",
+		"particle": "blockus:block/white_oak_planks"
+	}    
+}
+

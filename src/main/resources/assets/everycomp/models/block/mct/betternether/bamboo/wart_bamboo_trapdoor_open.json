@@ -1,0 +1,6 @@
+{
+    "parent": "mcwtrpdoors:block/parent/template_orientable_trapdoor_open",
+    "textures": {
+        "texture": "everycomp:block/mct/betternether/bamboo/wart_bamboo_trapdoor"
+    }
+}

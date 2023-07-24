@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/support_pier/wooden/parent/pillar_corner",
+	"textures": {
+		"0": "promenade:block/cherry_oak_log/top",
+		"1": "promenade:block/cherry_oak_log_top",
+		"2": "promenade:block/cherry_oak_planks",
+		"particle": "promenade:block/cherry_oak_log/top"
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "everycomp:block/ap/betternether/nether_reed_boards"
+  }
+}

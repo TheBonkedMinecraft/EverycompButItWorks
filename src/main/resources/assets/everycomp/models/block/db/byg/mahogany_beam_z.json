@@ -1,0 +1,8 @@
+{
+  "parent": "decorative_blocks:custom/beam_z",
+  "textures": {
+    "end": "everycomp:block/db/byg/mahogany_beam_end",
+    "particle": "everycomp:block/db/byg/mahogany_beam_side",
+    "side": "everycomp:block/db/byg/mahogany_beam_side"
+  }
+}

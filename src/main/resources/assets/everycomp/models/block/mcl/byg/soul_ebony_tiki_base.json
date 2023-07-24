@@ -1,0 +1,9 @@
+{
+	"parent": "mcwlights:block/parent/tiki_base",
+	"textures": {
+		"0": "byg:block/ebony/log",
+		"2": "minecraft:block/soul_torch",
+		"4": "minecraft:block/scaffolding_top",
+		"particle": "byg:block/ebony/log"
+	}
+}

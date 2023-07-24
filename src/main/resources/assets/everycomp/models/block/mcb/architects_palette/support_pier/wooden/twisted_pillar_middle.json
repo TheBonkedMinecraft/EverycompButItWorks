@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/support_pier/wooden/parent/pillar_middle",
+	"textures": {
+		"0": "architects_palette:block/twisted_log",
+		"1": "architects_palette:block/twisted_log_top",
+		"2": "architects_palette:block/twisted_planks",
+		"particle": "architects_palette:block/twisted_log"
+	}
+}

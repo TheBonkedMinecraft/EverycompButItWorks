@@ -1,0 +1,9 @@
+{
+	"parent": "mcwwindows:block/parent/blinds_lower_open",
+	"textures": {
+		"0": "colorfulazaleas:block/tecal_azalea_log_side",
+		"2": "colorfulazaleas:block/tecal_azalea_planks",
+		"particle": "colorfulazaleas:block/tecal_azalea_planks"
+	}    
+}
+

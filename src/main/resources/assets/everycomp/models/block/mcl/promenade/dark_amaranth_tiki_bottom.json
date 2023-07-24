@@ -1,0 +1,7 @@
+{
+	"parent": "mcwlights:block/parent/tiki_bot",
+	"textures": {
+		"0": "promenade:block/dark_amaranth_stem/top",
+		"particle": "promenade:block/dark_amaranth_stem/top"
+	}
+}

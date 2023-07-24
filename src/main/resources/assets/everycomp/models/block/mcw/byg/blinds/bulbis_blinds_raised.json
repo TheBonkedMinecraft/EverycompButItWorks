@@ -1,0 +1,9 @@
+{
+	"parent": "mcwwindows:block/parent/blinds_raised",
+	"textures": {
+		"1": "byg:block/bulbis/planks",
+		"2": "minecraft:block/stripped_oak_log",
+		"particle": "byg:block/bulbis/planks"
+	}    
+}
+

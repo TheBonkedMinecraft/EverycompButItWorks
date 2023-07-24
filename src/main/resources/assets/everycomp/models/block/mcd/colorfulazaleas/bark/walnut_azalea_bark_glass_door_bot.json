@@ -1,0 +1,11 @@
+{
+    "parent": "mcwdoors:block/parent/bark_glass_door_bot",
+    "ambientocclusion": false,
+    "textures": {
+		"3": "minecraft:block/glass",
+		"particle": "colorfulazaleas:block/walnut_azalea_log_side",
+		"top": "colorfulazaleas:block/walnut_azalea_log_side"
+    }
+}
+
+

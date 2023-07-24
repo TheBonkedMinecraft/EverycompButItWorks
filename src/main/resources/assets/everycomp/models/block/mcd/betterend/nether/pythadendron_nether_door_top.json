@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/core/door_top",
+    "textures": {
+        
+"bottom": "everycomp:block/mcd/betterend/pythadendron_nether_door_lower",
+"particle": "everycomp:block/mcd/betterend/pythadendron_nether_door_lower",
+        "top": "everycomp:block/mcd/betterend/pythadendron_nether_door_upper"
+    }
+}

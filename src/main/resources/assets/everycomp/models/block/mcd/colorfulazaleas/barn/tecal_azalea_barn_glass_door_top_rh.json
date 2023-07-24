@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/door_top_rh",
+    "textures": {
+        
+"bottom": "everycomp:block/mcd/colorfulazaleas/tecal_azalea_barn_door_lower",
+"particle": "everycomp:block/mcd/colorfulazaleas/tecal_azalea_barn_door_lower",
+        "top": "everycomp:block/mcd/colorfulazaleas/tecal_azalea_barn_glass_door_upper"
+    }
+}

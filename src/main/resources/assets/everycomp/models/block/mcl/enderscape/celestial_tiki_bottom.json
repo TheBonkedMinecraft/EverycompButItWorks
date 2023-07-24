@@ -1,0 +1,7 @@
+{
+	"parent": "mcwlights:block/parent/tiki_bot",
+	"textures": {
+		"0": "enderscape:block/celestial_stem",
+		"particle": "enderscape:block/celestial_stem"
+	}
+}

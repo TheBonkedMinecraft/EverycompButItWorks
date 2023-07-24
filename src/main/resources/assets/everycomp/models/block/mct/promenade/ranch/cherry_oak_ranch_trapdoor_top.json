@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "mcwtrpdoors:block/parent/ranch_trapdoor_top",
+	"textures": {
+		"1": "promenade:block/cherry_oak_log/top",
+		"2": "promenade:block/stripped_cherry_oak_log/side",
+		"particle": "promenade:block/cherry_oak_log/top"
+	}
+}

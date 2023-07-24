@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/top_pyramid",
+	"textures": {
+		"particle": "ecologics:block/flowering_azalea_log",
+		"1_2": "ecologics:block/flowering_azalea_log"
+	}
+}

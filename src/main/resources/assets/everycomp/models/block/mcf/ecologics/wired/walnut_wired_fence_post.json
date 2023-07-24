@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/wired_fence_post",
+	"textures": {
+		"1": "ecologics:block/walnut_log_top",
+		"particle": "ecologics:block/walnut_log",
+		"texture": "ecologics:block/walnut_log"
+	}
+}

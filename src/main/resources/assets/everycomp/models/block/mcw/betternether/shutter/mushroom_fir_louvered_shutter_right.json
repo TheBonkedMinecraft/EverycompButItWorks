@@ -1,0 +1,7 @@
+{
+	"parent": "mcwwindows:block/parent/shutter_right",
+	"textures": {
+		"0": "everycomp:block/mcw/betternether/mushroom_fir_louvered_shutter",
+		"particle": "everycomp:block/mcw/betternether/mushroom_fir_louvered_shutter"
+	}    
+}

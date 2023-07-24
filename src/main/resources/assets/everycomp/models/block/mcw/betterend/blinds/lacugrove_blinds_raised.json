@@ -1,0 +1,9 @@
+{
+	"parent": "mcwwindows:block/parent/blinds_raised",
+	"textures": {
+		"1": "betterend:block/lacugrove_planks",
+		"2": "betterend:block/lacugrove_stripped_log_side",
+		"particle": "betterend:block/lacugrove_planks"
+	}    
+}
+

@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/xx_upper_steep",
+	"textures": {
+		"particle": "enderscape:block/celestial_planks",
+		"2": "enderscape:block/celestial_planks"
+	}
+}

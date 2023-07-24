@@ -1,0 +1,8 @@
+{
+  "parent": "decorative_blocks:custom/support_horizontal_small",
+  "textures": {
+    "end": "everycomp:block/db/byg/green_enchanted_support_end",
+    "particle": "everycomp:block/db/byg/green_enchanted_support_side",
+    "side": "everycomp:block/db/byg/green_enchanted_support_side"
+  }
+}

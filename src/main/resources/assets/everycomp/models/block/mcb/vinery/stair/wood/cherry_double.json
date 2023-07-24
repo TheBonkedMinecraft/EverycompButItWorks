@@ -1,0 +1,8 @@
+{
+	"parent": "mcwbridges:block/stair/wood/parent/double",
+	"textures": {
+		"2": "vinery:block/cherry_planks12",
+		"particle": "vinery:block/cherry_log_side",
+		"1_1": "vinery:block/cherry_log_side"
+	}
+}

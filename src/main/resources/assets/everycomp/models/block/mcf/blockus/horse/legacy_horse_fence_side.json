@@ -1,0 +1,9 @@
+
+{
+	"parent": "mcwfences:block/parent/horse_fence_side",
+	"textures": {
+		"texture": "blockus:block/legacy_planks",
+		"particle": "blockus:block/legacy_planks",
+		"1_texture": "blockus:block/legacy_planks"
+	}
+}

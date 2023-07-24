@@ -1,0 +1,8 @@
+{
+    "parent": "mcwdoors:block/parent/fixed/stable_top_open_rh",
+    "textures": {
+        "particle": "everycomp:block/mcd/blockus/white_oak_barn_door_lower",
+		"1": "everycomp:block/mcd/blockus/white_oak_barn_door_lower",
+		"bottom": "everycomp:block/mcd/blockus/stable_head/white_oak_stable_head_door_lower"
+    }
+}

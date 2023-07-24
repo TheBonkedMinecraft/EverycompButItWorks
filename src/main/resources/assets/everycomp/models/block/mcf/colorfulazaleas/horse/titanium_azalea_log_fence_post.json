@@ -1,0 +1,9 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/log_fence_post",
+	"textures": {
+		"5": "colorfulazaleas:block/titanium_azalea_log_side",
+		"particle": "colorfulazaleas:block/titanium_azalea_log_side"
+	}
+}

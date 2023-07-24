@@ -1,0 +1,7 @@
+{
+	"parent": "mcwwindows:block/parent/support",
+	"textures": {
+		"1": "vinery:block/cherry_log_side",
+		"particle": "vinery:block/cherry_log_side"      
+	}
+}

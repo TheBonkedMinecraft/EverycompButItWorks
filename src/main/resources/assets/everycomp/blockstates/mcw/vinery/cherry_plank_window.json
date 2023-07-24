@@ -1,0 +1,96 @@
+{
+    "variants": {                                                                        
+        "facing=north,part=base":  { "model": "everycomp:block/mcw/vinery/window/cherry_plank_single" },
+        "facing=north,part=top":  { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top" },
+        "facing=north,part=middle": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_middle"},
+		"facing=north,part=bottom":  { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top","x": 180 },
+			
+        "facing=north,part=top_l":  { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_l" },
+        "facing=north,part=top_m": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_m"},
+		"facing=north,part=top_r": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_l","y": 180},
+		
+		"facing=north,part=mid_l": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_mid_l"},
+		"facing=north,part=mid_m": { "model": "mcwwindows:block/parent/window/mid_m"},
+		"facing=north,part=mid_r": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_mid_l","y": 180},
+		
+		"facing=north,part=bot_l": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_l","x": 180},
+		"facing=north,part=bot_m": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_m","x": 180},
+		"facing=north,part=bot_r": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_l","x": 180,"y": 180},
+		
+		"facing=north,part=single_l": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_single_l"},
+		"facing=north,part=single_m": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_single_m"},
+		"facing=north,part=single_r": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_single_l","y": 180},
+		
+		
+		"facing=south,part=base":  { "model": "everycomp:block/mcw/vinery/window/cherry_plank_single" },
+        "facing=south,part=top":  { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top" },
+        "facing=south,part=middle": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_middle"},
+		"facing=south,part=bottom":  { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top","x": 180 },
+			
+        "facing=south,part=top_l":  { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_l" },
+        "facing=south,part=top_m": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_m"},
+		"facing=south,part=top_r": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_l","y": 180},
+		
+		"facing=south,part=mid_l": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_mid_l"},
+		"facing=south,part=mid_m": { "model": "mcwwindows:block/parent/window/mid_m"},
+		"facing=south,part=mid_r": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_mid_l","y": 180},
+		
+		"facing=south,part=bot_l": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_l","x": 180},
+		"facing=south,part=bot_m": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_m","x": 180},
+		"facing=south,part=bot_r": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_l","x": 180,"y": 180},
+		
+		"facing=south,part=single_l": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_single_l"},
+		"facing=south,part=single_m": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_single_m"},
+		"facing=south,part=single_r": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_single_l","y": 180},
+		
+		
+		"facing=east,part=base":  { "model": "everycomp:block/mcw/vinery/window/cherry_plank_single","y": 90 },
+        "facing=east,part=top":  { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top","y": 90 },
+        "facing=east,part=middle": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_middle","y": 90},
+		"facing=east,part=bottom":  { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top","x": 180,"y": 90 },
+			
+        "facing=east,part=top_l":  { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_l","y": 90 },
+        "facing=east,part=top_m": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_m","y": 90},
+		"facing=east,part=top_r": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_l","y": 270},
+		
+		"facing=east,part=mid_l": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_mid_l","y": 90},
+		"facing=east,part=mid_m": { "model": "mcwwindows:block/parent/window/mid_m","y": 90},
+		"facing=east,part=mid_r": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_mid_l","y": 270},
+		
+		"facing=east,part=bot_l": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_l","x": 180,"y": 90},
+		"facing=east,part=bot_m": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_m","x": 180,"y": 90},
+		"facing=east,part=bot_r": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_l","x": 180,"y": 270},
+		
+		"facing=east,part=single_l": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_single_l","y": 90},
+		"facing=east,part=single_m": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_single_m","y": 90},
+		"facing=east,part=single_r": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_single_l","y": 270},
+		
+		
+		"facing=west,part=base":  { "model": "everycomp:block/mcw/vinery/window/cherry_plank_single","y": 90 },
+        "facing=west,part=top":  { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top","y": 90 },
+        "facing=west,part=middle": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_middle","y": 90},
+		"facing=west,part=bottom":  { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top","x": 180,"y": 90 },
+			
+        "facing=west,part=top_l":  { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_l","y": 90 },
+        "facing=west,part=top_m": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_m","y": 90},
+		"facing=west,part=top_r": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_l","y": 270},
+		
+		"facing=west,part=mid_l": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_mid_l","y": 90},
+		"facing=west,part=mid_m": { "model": "mcwwindows:block/parent/window/mid_m","y": 90},
+		"facing=west,part=mid_r": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_mid_l","y": 270},
+		
+		"facing=west,part=bot_l": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_l","x": 180,"y": 90},
+		"facing=west,part=bot_m": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_m","x": 180,"y": 90},
+		"facing=west,part=bot_r": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_top_l","x": 180,"y": 270},
+		
+		"facing=west,part=single_l": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_single_l","y": 90},
+		"facing=west,part=single_m": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_single_m","y": 90},
+		"facing=west,part=single_r": { "model": "everycomp:block/mcw/vinery/window/cherry_plank_single_l","y": 270}
+    }
+}
+
+
+
+
+
+

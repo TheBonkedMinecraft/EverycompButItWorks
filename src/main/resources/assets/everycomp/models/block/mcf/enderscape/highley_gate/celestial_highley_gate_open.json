@@ -1,0 +1,8 @@
+{
+	"parent": "mcwfences:block/parent/highley_gate_open",
+	"textures": {
+		"2": "enderscape:block/celestial_planks",
+		"particle": "enderscape:block/celestial_planks",
+		"texture": "enderscape:block/celestial_stem"
+	}
+}

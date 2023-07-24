@@ -1,0 +1,7 @@
+{
+  "parent": "architects_palette:block/boards/parent",
+  "textures": {
+    "even": "everycomp:block/ap/byg/bulbis_boards",
+    "odd": "everycomp:block/ap/byg/bulbis_boards_odd"
+  }
+}

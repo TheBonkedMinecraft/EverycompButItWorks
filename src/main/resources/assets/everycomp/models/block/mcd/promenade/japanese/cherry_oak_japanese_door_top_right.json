@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/japanese_top_right",
+    "textures": {
+		"0": "everycomp:block/mcd/promenade/japanese_cherry_oak_lower",
+		"2": "everycomp:block/mcd/promenade/japanese_cherry_oak_lower",
+		"1": "everycomp:block/mcd/promenade/japanese_cherry_oak_upper",
+		"particle": "everycomp:block/mcd/promenade/japanese_cherry_oak_lower"
+    }
+}

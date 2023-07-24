@@ -1,0 +1,7 @@
+{
+	"parent": "mcwbridges:block/stair/rope/parent/base",
+	"textures": {
+		"2": "colorfulazaleas:block/fiss_azalea_planks",
+	    "particle": "colorfulazaleas:block/fiss_azalea_planks"
+	}
+}

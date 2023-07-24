@@ -1,0 +1,9 @@
+{
+	"parent": "twigs:block/template_table_inventory",
+	"textures": {
+		"side": "everycomp:block/tw/byg/white_mangrove_table",
+		"bottom": "everycomp:block/tw/byg/white_mangrove_table_bottom",
+		"top": "everycomp:block/tw/byg/white_mangrove_table_top",
+		"particle": "byg:block/white_mangrove/planks"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/support_pier/wooden/parent/pillar_corner",
+	"textures": {
+		"0": "charm:block/ebony_log",
+		"1": "charm:block/ebony_log_top",
+		"2": "charm:block/ebony_planks",
+		"particle": "charm:block/ebony_log"
+	}
+}

@@ -1,0 +1,9 @@
+
+{
+	"parent": "mcwfences:block/parent/horse_fence_side",
+	"textures": {
+		"texture": "charm:block/ebony_planks",
+		"particle": "charm:block/ebony_planks",
+		"1_texture": "charm:block/ebony_planks"
+	}
+}

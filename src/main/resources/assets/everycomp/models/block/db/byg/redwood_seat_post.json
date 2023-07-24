@@ -1,0 +1,7 @@
+{
+  "parent": "decorative_blocks:custom/seat_post",
+  "textures": {
+    "particle": "everycomp:block/db/byg/redwood_seat",
+    "texture": "everycomp:block/db/byg/redwood_seat"
+  }
+}

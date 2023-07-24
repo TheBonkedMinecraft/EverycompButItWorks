@@ -1,0 +1,8 @@
+{
+	"parent": "mcwwindows:block/parent/window/window_barred",
+	"textures": {
+		"0": "minecraft:block/glass",
+		"1": "colorfulazaleas:block/titanium_azalea_log_side",
+		"particle": "colorfulazaleas:block/titanium_azalea_log_side"
+	}
+}

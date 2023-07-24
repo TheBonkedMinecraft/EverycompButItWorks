@@ -1,0 +1,9 @@
+{
+	"parent": "twigs:block/template_table_top",
+	"textures": {
+		"side": "everycomp:block/tw/charm/azalea_table",
+		"bottom": "everycomp:block/tw/charm/azalea_table_bottom",
+		"top": "everycomp:block/tw/charm/azalea_table_top",
+		"particle": "charm:block/azalea_planks"
+	}
+}

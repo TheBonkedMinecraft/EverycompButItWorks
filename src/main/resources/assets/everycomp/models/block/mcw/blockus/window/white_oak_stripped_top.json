@@ -1,0 +1,8 @@
+{
+	"parent": "mcwwindows:block/parent/window/top",
+	"textures": {
+		"0": "blockus:block/stripped_white_oak_log",
+		"1": "mcwwindows:block/glass",
+		"particle": "blockus:block/stripped_white_oak_log"     
+	}
+}

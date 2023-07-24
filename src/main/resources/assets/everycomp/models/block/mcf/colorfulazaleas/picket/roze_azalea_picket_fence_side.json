@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/picket_fence_side",
+	"textures": {
+		"2": "colorfulazaleas:block/roze_azalea_log_side",
+		"particle": "colorfulazaleas:block/roze_azalea_planks",
+		"texture": "colorfulazaleas:block/roze_azalea_planks"
+	}
+}

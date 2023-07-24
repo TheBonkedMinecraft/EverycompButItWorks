@@ -1,0 +1,9 @@
+{
+	"parent": "twigs:block/template_table_leg",
+	"textures": {
+		"side": "everycomp:block/tw/betternether/rubeus_table",
+		"bottom": "everycomp:block/tw/betternether/rubeus_table_bottom",
+		"top": "everycomp:block/tw/betternether/rubeus_table_top",
+		"particle": "betternether:block/rubeus_planks"
+	}
+}

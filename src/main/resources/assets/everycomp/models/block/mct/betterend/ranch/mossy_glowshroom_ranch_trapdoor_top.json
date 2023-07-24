@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "mcwtrpdoors:block/parent/ranch_trapdoor_top",
+	"textures": {
+		"1": "betterend:block/mossy_glowshroom_log_side_2",
+		"2": "betterend:block/mossy_glowshroom_stripped_log_side_5",
+		"particle": "betterend:block/mossy_glowshroom_log_side_2"
+	}
+}

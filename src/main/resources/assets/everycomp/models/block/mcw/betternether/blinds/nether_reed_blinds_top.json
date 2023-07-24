@@ -1,0 +1,10 @@
+{
+	"parent": "mcwwindows:block/parent/blinds_top",
+	"textures": {
+		"1": "minecraft:block/stripped_oak_log",
+		"2": "betternether:block/nether_reed_stem_side",
+		"3": "betternether:block/nether_reed_planks_side",
+		"particle": "betternether:block/nether_reed_planks_side"
+	}    
+}
+

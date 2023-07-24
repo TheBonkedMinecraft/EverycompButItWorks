@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/wired_fence_post",
+	"textures": {
+		"1": "ecologics:block/flowering_azalea_log_top",
+		"particle": "ecologics:block/flowering_azalea_log",
+		"texture": "ecologics:block/flowering_azalea_log"
+	}
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "mcwdoors:block/parent/japanese_bottom_left",
+    "textures": {
+		"0": "everycomp:block/mcd/betternether/japanese_nether_reed_lower",
+		"2": "everycomp:block/mcd/betternether/japanese_nether_reed_lower",
+		"particle": "everycomp:block/mcd/betternether/japanese_nether_reed_lower"
+    }
+}

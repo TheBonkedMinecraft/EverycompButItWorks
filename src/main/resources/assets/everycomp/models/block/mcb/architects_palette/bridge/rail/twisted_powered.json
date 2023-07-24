@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/bridge/rail/parent/rail_powered",
+	"textures": {
+		"0": "architects_palette:block/stripped_twisted_log",
+		"1": "architects_palette:block/twisted_log",
+		"2": "minecraft:block/redstone_block",
+		"particle": "architects_palette:block/twisted_log"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "twigs:block/template_table_inventory",
+	"textures": {
+		"side": "everycomp:block/tw/byg/bulbis_table",
+		"bottom": "everycomp:block/tw/byg/bulbis_table_bottom",
+		"top": "everycomp:block/tw/byg/bulbis_table_top",
+		"particle": "byg:block/bulbis/planks"
+	}
+}

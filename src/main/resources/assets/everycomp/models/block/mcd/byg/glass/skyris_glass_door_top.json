@@ -1,0 +1,8 @@
+{
+    "parent": "mcwdoors:block/parent/fixed/glass_top",
+    "textures": {
+		"particle": "everycomp:block/mcd/byg/skyris_barn_door_lower",
+		"1": "everycomp:block/mcd/byg/skyris_barn_door_lower",
+		"bottom": "everycomp:block/mcd/byg/glass/skyris_glass_door_upper"
+    }
+}

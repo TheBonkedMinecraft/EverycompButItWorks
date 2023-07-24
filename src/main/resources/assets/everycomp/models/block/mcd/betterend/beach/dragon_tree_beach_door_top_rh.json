@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/core/door_top_rh",
+    "textures": {
+        
+"bottom": "everycomp:block/mcd/betterend/dragon_tree_beach_door_lower",
+"particle": "everycomp:block/mcd/betterend/dragon_tree_beach_door_lower",
+        "top": "everycomp:block/mcd/betterend/dragon_tree_beach_door_upper"
+    }
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/top_roof",
+	"textures": {
+		"particle": "promenade:block/cherry_oak_planks",
+		"1_2": "promenade:block/cherry_oak_planks"
+	}
+}

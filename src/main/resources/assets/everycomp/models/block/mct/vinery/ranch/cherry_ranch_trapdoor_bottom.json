@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "mcwtrpdoors:block/parent/ranch_trapdoor_bottom",
+	"textures": {
+		"3": "vinery:block/cherry_log_side",
+		"5": "vinery:block/stripped_cherry_log_side",
+		"particle": "vinery:block/cherry_log_side"
+	}
+}

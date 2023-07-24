@@ -1,0 +1,7 @@
+{
+  "parent": "mcwpaths:block/wooden",
+  "textures": {
+	"particle": "everycomp:block/mcp/colorfulazaleas/bright_azalea_planks_path",
+    "pavement": "everycomp:block/mcp/colorfulazaleas/bright_azalea_planks_path"
+  }
+}

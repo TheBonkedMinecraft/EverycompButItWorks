@@ -1,0 +1,9 @@
+{
+	"ambientocclusion": false,
+    "parent": "mcwdoors:block/parent/western_door_top",
+	"textures": {  
+	"particle": "everycomp:block/mcd/architects_palette/western/twisted_western_door_lower",
+		"1": "everycomp:block/mcd/architects_palette/western/twisted_western_door_lower",
+		"2": "everycomp:block/mcd/architects_palette/western/twisted_western_door_upper"
+    }
+}

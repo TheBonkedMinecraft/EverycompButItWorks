@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/support_pier/wooden/parent/pillar_corner",
+	"textures": {
+		"0": "byg:block/mahogany/log",
+		"1": "byg:block/mahogany/log_top",
+		"2": "byg:block/mahogany/planks",
+		"particle": "byg:block/mahogany/log"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/xx_lower_outer",
+	"textures": {
+		"particle": "colorfulazaleas:block/walnut_azalea_planks",
+		"1_2": "colorfulazaleas:block/walnut_azalea_planks"
+	}
+}

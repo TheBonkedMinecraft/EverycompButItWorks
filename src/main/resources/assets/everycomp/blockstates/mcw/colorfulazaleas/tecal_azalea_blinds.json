@@ -1,0 +1,45 @@
+{    
+"variants": {                                                                        
+        "facing=west,part=top,up=false,open=true": { "model": "everycomp:block/mcw/colorfulazaleas/blinds/tecal_azalea_blinds_top", "y": 270 },
+        "facing=north,part=top,up=false,open=true": { "model": "everycomp:block/mcw/colorfulazaleas/blinds/tecal_azalea_blinds_top" },
+        "facing=east,part=top,up=false,open=true": { "model": "everycomp:block/mcw/colorfulazaleas/blinds/tecal_azalea_blinds_top", "y": 90 },
+        "facing=south,part=top,up=false,open=true": { "model": "everycomp:block/mcw/colorfulazaleas/blinds/tecal_azalea_blinds_top", "y": 180 },
+		
+	    "facing=west,part=top,up=false,open=false": { "model": "everycomp:block/mcw/colorfulazaleas/blinds/tecal_azalea_blinds_top_closed", "y": 270 },
+        "facing=north,part=top,up=false,open=false": { "model": "everycomp:block/mcw/colorfulazaleas/blinds/tecal_azalea_blinds_top_closed" },
+        "facing=east,part=top,up=false,open=false": { "model": "everycomp:block/mcw/colorfulazaleas/blinds/tecal_azalea_blinds_top_closed", "y": 90 },
+        "facing=south,part=top,up=false,open=false": { "model": "everycomp:block/mcw/colorfulazaleas/blinds/tecal_azalea_blinds_top_closed", "y": 180 },
+      
+	    "facing=west,part=bottom,up=false,open=false": { "model": "everycomp:block/mcw/colorfulazaleas/blinds/tecal_azalea_blinds_lower_closed", "y": 270 },
+        "facing=north,part=bottom,up=false,open=false": { "model": "everycomp:block/mcw/colorfulazaleas/blinds/tecal_azalea_blinds_lower_closed" },
+        "facing=east,part=bottom,up=false,open=false": { "model": "everycomp:block/mcw/colorfulazaleas/blinds/tecal_azalea_blinds_lower_closed", "y": 90 },
+        "facing=south,part=bottom,up=false,open=false": { "model": "everycomp:block/mcw/colorfulazaleas/blinds/tecal_azalea_blinds_lower_closed", "y": 180 },
+      
+	  	"facing=west,part=bottom,up=false,open=true": { "model": "everycomp:block/mcw/colorfulazaleas/blinds/tecal_azalea_blinds_lower_open", "y": 270 },
+        "facing=north,part=bottom,up=false,open=true": { "model": "everycomp:block/mcw/colorfulazaleas/blinds/tecal_azalea_blinds_lower_open" },
+        "facing=east,part=bottom,up=false,open=true": { "model": "everycomp:block/mcw/colorfulazaleas/blinds/tecal_azalea_blinds_lower_open", "y": 90 },
+        "facing=south,part=bottom,up=false,open=true": { "model": "everycomp:block/mcw/colorfulazaleas/blinds/tecal_azalea_blinds_lower_open", "y": 180 },
+      
+	  	"facing=west,part=top,up=true": { "model": "everycomp:block/mcw/colorfulazaleas/blinds/tecal_azalea_blinds_raised", "y": 270 },
+        "facing=north,part=top,up=true": { "model": "everycomp:block/mcw/colorfulazaleas/blinds/tecal_azalea_blinds_raised" },
+        "facing=east,part=top,up=true": { "model": "everycomp:block/mcw/colorfulazaleas/blinds/tecal_azalea_blinds_raised", "y": 90 },
+        "facing=south,part=top,up=true": { "model": "everycomp:block/mcw/colorfulazaleas/blinds/tecal_azalea_blinds_raised", "y": 180 },
+		
+		"facing=west,part=bottom,up=true": { "model": "minecraft:block/air" },
+        "facing=north,part=bottom,up=true": { "model": "minecraft:block/air" },
+        "facing=east,part=bottom,up=true": { "model": "minecraft:block/air" },
+        "facing=south,part=bottom,up=true": { "model": "minecraft:block/air" }
+      
+    }
+}
+
+
+
+
+
+
+
+
+
+
+

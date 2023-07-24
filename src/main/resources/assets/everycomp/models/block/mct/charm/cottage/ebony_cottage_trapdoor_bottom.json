@@ -1,0 +1,6 @@
+{
+    "parent": "mcwtrpdoors:block/parent/template_orientable_trapdoor_bottom",
+    "textures": {
+        "texture": "everycomp:block/mct/charm/cottage/ebony_cottage_trapdoor"
+    }
+}

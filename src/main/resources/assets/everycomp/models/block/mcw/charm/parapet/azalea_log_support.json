@@ -1,0 +1,7 @@
+{
+	"parent": "mcwwindows:block/parent/support",
+	"textures": {
+		"1": "charm:block/azalea_log",
+		"particle": "charm:block/azalea_log"      
+	}
+}

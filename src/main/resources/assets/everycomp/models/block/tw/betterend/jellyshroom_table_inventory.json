@@ -1,0 +1,9 @@
+{
+	"parent": "twigs:block/template_table_inventory",
+	"textures": {
+		"side": "everycomp:block/tw/betterend/jellyshroom_table",
+		"bottom": "everycomp:block/tw/betterend/jellyshroom_table_bottom",
+		"top": "everycomp:block/tw/betterend/jellyshroom_table_top",
+		"particle": "betterend:block/jellyshroom_planks"
+	}
+}

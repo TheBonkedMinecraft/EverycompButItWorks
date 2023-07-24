@@ -1,0 +1,7 @@
+{
+	"parent": "mcwlights:block/parent/tiki_bot",
+	"textures": {
+		"0": "vinery:block/cherry_log_side",
+		"particle": "vinery:block/cherry_log_side"
+	}
+}

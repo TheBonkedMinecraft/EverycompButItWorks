@@ -1,0 +1,11 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/wired_fence_side",
+	"textures": {
+		"1": "promenade:block/palm_log_top",
+		"4": "mcwfences:block/wire_fence",
+		"particle": "promenade:block/palm_log/side",
+		"1_texture": "promenade:block/palm_log/side"
+	}
+}

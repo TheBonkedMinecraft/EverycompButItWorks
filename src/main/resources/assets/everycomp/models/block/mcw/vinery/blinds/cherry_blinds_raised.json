@@ -1,0 +1,9 @@
+{
+	"parent": "mcwwindows:block/parent/blinds_raised",
+	"textures": {
+		"1": "vinery:block/cherry_planks12",
+		"2": "vinery:block/stripped_cherry_log_side",
+		"particle": "vinery:block/cherry_planks12"
+	}    
+}
+

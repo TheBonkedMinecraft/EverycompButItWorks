@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/bridge/bridge_wood/parent/middle_end",
+	"textures": {
+		"5": "charm:block/ebony_planks",
+		"0": "charm:block/ebony_log",
+		"1": "charm:block/ebony_planks",
+		"particle": "charm:block/ebony_log"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "twigs:block/template_table_top",
+	"textures": {
+		"side": "everycomp:block/tw/betterend/lucernia_table",
+		"bottom": "everycomp:block/tw/betterend/lucernia_table_bottom",
+		"top": "everycomp:block/tw/betterend/lucernia_table_top",
+		"particle": "betterend:block/lucernia_planks"
+	}
+}

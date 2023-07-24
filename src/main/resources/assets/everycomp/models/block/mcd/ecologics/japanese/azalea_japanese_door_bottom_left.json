@@ -1,0 +1,8 @@
+{
+    "parent": "mcwdoors:block/parent/japanese_bottom_left",
+    "textures": {
+		"0": "everycomp:block/mcd/ecologics/japanese_azalea_lower",
+		"2": "everycomp:block/mcd/ecologics/japanese_azalea_lower",
+		"particle": "everycomp:block/mcd/ecologics/japanese_azalea_lower"
+    }
+}

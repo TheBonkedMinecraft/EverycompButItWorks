@@ -1,0 +1,14 @@
+{
+    "variants": {                                                                        
+        "facing=north":  { "model": "everycomp:block/mcw/byg/window_barred/palm_plank_window","y": 0 },
+        "facing=east":  { "model": "everycomp:block/mcw/byg/window_barred/palm_plank_window","y": 90 },
+        "facing=south": { "model": "everycomp:block/mcw/byg/window_barred/palm_plank_window","y": 0},
+		"facing=west":  { "model": "everycomp:block/mcw/byg/window_barred/palm_plank_window","y": 90 }
+    }
+}
+
+
+
+
+
+

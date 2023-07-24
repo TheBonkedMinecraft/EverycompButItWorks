@@ -1,0 +1,8 @@
+{
+	"parent": "mcwwindows:block/parent/window/window_barred",
+	"textures": {
+		"0": "minecraft:block/glass",
+		"1": "promenade:block/dark_amaranth_planks",
+		"particle": "promenade:block/dark_amaranth_planks"
+	}
+}

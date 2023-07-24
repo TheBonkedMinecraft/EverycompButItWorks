@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "everycomp:block/ap/betternether/rubeus_boards",
+    "side": "everycomp:block/ap/betternether/rubeus_boards",
+    "top": "everycomp:block/ap/betternether/rubeus_boards"
+  }
+}

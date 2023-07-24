@@ -1,0 +1,6 @@
+{
+    "parent": "mcwtrpdoors:block/parent/template_orientable_trapdoor_top",
+    "textures": {
+        "texture": "everycomp:block/mct/betterend/tropical/helix_tree_tropical_trapdoor"
+    }
+}

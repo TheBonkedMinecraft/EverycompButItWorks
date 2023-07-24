@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/japanese_top_right",
+    "textures": {
+		"0": "everycomp:block/mcd/enderscape/celestial_japanese_door_lower",
+		"2": "everycomp:block/mcd/enderscape/japanese_celestial_lower",
+		"1": "everycomp:block/mcd/enderscape/celestial_japanese_door_upper",
+		"particle": "everycomp:block/mcd/enderscape/celestial_japanese_door_lower"
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "everycomp:block/ap/byg/zelkova_boards",
+    "side": "everycomp:block/ap/byg/zelkova_boards",
+    "top": "everycomp:block/ap/byg/zelkova_boards"
+  }
+}

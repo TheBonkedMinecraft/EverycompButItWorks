@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/stair/wood/parent/double_torch",
+	"textures": {
+		"2": "promenade:block/dark_amaranth_planks",
+		"particle": "promenade:block/dark_amaranth_stem/top",
+		"4": "mcwbridges:block/torch",
+		"1_1": "promenade:block/dark_amaranth_stem/top"
+	}
+}

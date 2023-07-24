@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "everycomp:block/ap/vinery/cherry_boards",
+    "side": "everycomp:block/ap/vinery/cherry_boards",
+    "top": "everycomp:block/ap/vinery/cherry_boards"
+  }
+}

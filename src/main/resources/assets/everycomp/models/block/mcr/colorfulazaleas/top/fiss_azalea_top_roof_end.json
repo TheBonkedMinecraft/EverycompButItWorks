@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/top_roof_end",
+	"textures": {
+		"particle": "colorfulazaleas:block/fiss_azalea_log_side",
+		"1_2": "colorfulazaleas:block/fiss_azalea_log_side"
+	}
+}

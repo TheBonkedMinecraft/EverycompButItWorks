@@ -1,0 +1,10 @@
+{
+	"parent": "minecraft:block/orientable_with_bottom",
+	"textures": {
+		"top": "everycomp:block/faf/betternether/nether_reed_beehive_end",
+		"bottom": "everycomp:block/faf/betternether/nether_reed_beehive_end",
+		"side": "everycomp:block/faf/betternether/nether_reed_beehive_side",
+		"front": "everycomp:block/faf/betternether/nether_reed_beehive_front",
+		"particle": "everycomp:block/faf/betternether/nether_reed_beehive_side"
+	}
+}

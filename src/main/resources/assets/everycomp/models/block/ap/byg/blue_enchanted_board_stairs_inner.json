@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "everycomp:block/ap/byg/blue_enchanted_boards",
+    "side": "everycomp:block/ap/byg/blue_enchanted_boards",
+    "top": "everycomp:block/ap/byg/blue_enchanted_boards"
+  }
+}

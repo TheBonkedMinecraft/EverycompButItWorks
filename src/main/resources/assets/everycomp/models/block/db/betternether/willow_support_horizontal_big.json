@@ -1,0 +1,8 @@
+{
+  "parent": "decorative_blocks:custom/support_horizontal_big",
+  "textures": {
+    "end": "everycomp:block/db/betternether/willow_support_end",
+    "particle": "everycomp:block/db/betternether/willow_support_side",
+    "side": "everycomp:block/db/betternether/willow_support_side"
+  }
+}

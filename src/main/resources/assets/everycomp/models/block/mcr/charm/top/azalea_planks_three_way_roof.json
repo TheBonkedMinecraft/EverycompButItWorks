@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/three_way_roof",
+	"textures": {
+		"particle": "charm:block/azalea_planks",
+		"1_1_2": "charm:block/azalea_planks"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "mcwbridges:block/bridge/rope/parent/corner_clear_r_torch",
+	"textures": {
+		"0": "mcwbridges:block/lead_knot_vert",
+		"3": "vinery:block/cherry_planks12",
+		"4": "vinery:block/cherry_log_side",
+		"5": "mcwbridges:block/torch",
+		"particle": "vinery:block/cherry_planks12",
+		"1_4": "mcwbridges:block/lead_knot"
+	}
+}

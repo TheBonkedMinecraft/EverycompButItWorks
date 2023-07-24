@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "mcwtrpdoors:block/parent/ranch_trapdoor_open",
+	"textures": {
+		"1": "blockus:block/white_oak_log",
+		"2": "blockus:block/stripped_white_oak_log",
+		"particle": "blockus:block/white_oak_log"
+	}
+}

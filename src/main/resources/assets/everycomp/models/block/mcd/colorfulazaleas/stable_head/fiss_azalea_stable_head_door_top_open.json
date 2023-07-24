@@ -1,0 +1,8 @@
+{
+    "parent": "mcwdoors:block/parent/fixed/stable_top_open",
+    "textures": {
+        "particle": "everycomp:block/mcd/colorfulazaleas/fiss_azalea_barn_door_lower",
+		"1": "everycomp:block/mcd/colorfulazaleas/fiss_azalea_barn_door_lower",
+		"bottom": "everycomp:block/mcd/colorfulazaleas/stable_head/fiss_azalea_stable_head_door_lower"
+    }
+}

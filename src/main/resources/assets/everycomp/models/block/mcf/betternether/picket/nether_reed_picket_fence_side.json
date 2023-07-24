@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/picket_fence_side",
+	"textures": {
+		"2": "betternether:block/nether_reed_stem_side",
+		"particle": "betternether:block/nether_reed_planks_side",
+		"texture": "betternether:block/nether_reed_planks_side"
+	}
+}

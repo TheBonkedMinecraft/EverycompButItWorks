@@ -1,0 +1,7 @@
+{
+	"parent": "mcwwindows:block/parent/shutter_closed_right",
+	"textures": {
+		"0": "everycomp:block/mcw/colorfulazaleas/fiss_azalea_louvered_shutter",
+		"particle": "everycomp:block/mcw/colorfulazaleas/fiss_azalea_louvered_shutter"
+	}    
+}

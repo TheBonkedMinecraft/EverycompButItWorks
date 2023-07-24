@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/top_roof",
+	"textures": {
+		"particle": "vinery:block/cherry_planks12",
+		"1_2": "vinery:block/cherry_planks12"
+	}
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "everycomp:block/ap/promenade/cherry_oak_board_slab"
+    },
+    "type=double": {
+      "model": "everycomp:block/ap/promenade/cherry_oak_boards"
+    },
+    "type=top": {
+      "model": "everycomp:block/ap/promenade/cherry_oak_board_slab_top"
+    }
+  }
+}

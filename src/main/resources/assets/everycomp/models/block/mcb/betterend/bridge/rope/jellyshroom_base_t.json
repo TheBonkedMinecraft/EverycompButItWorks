@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/bridge/rope/parent/base_torch",
+	"textures": {
+		"1": "betterend:block/jellyshroom_log_side",
+		"2": "mcwbridges:block/torch",
+		"3": "betterend:block/jellyshroom_planks",
+		"particle": "betterend:block/jellyshroom_planks"
+	}
+}

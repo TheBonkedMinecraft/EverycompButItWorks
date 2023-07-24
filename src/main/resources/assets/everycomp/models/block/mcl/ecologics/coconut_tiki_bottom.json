@@ -1,0 +1,7 @@
+{
+	"parent": "mcwlights:block/parent/tiki_bot",
+	"textures": {
+		"0": "ecologics:block/coconut_log",
+		"particle": "ecologics:block/coconut_log"
+	}
+}

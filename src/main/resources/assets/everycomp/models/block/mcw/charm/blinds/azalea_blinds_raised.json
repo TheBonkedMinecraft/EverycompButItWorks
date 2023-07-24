@@ -1,0 +1,9 @@
+{
+	"parent": "mcwwindows:block/parent/blinds_raised",
+	"textures": {
+		"1": "charm:block/azalea_planks",
+		"2": "charm:block/stripped_azalea_log",
+		"particle": "charm:block/azalea_planks"
+	}    
+}
+

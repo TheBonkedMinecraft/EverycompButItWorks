@@ -1,0 +1,7 @@
+{
+  "parent": "architects_palette:block/boards/parent",
+  "textures": {
+    "even": "everycomp:block/ap/betternether/nether_sakura_boards",
+    "odd": "everycomp:block/ap/betternether/nether_sakura_boards_odd"
+  }
+}

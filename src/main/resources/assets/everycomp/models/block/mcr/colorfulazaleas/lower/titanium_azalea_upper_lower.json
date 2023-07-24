@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/xx_upper_lower",
+	"textures": {
+		"particle": "colorfulazaleas:block/titanium_azalea_log_side",
+		"1_2": "colorfulazaleas:block/titanium_azalea_log_side"
+	}
+}

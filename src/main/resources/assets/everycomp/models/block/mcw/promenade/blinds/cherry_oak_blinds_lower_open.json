@@ -1,0 +1,9 @@
+{
+	"parent": "mcwwindows:block/parent/blinds_lower_open",
+	"textures": {
+		"0": "promenade:block/cherry_oak_log/top",
+		"2": "promenade:block/cherry_oak_planks",
+		"particle": "promenade:block/cherry_oak_planks"
+	}    
+}
+

@@ -1,0 +1,15 @@
+{
+    "variants": {                                                                        
+        "facing=north,powered=false":  { "model": "everycomp:block/mcb/ecologics/bridge/rail/coconut", "y": 90},
+		"facing=east,powered=false":  { "model": "everycomp:block/mcb/ecologics/bridge/rail/coconut"},
+		"facing=south,powered=false":  { "model": "everycomp:block/mcb/ecologics/bridge/rail/coconut", "y": 90},
+		"facing=west,powered=false":  { "model": "everycomp:block/mcb/ecologics/bridge/rail/coconut"},
+
+		"facing=north,powered=true":  { "model": "everycomp:block/mcb/ecologics/bridge/rail/coconut_powered", "y": 90},
+		"facing=east,powered=true":  { "model": "everycomp:block/mcb/ecologics/bridge/rail/coconut_powered"},
+		"facing=south,powered=true":  { "model": "everycomp:block/mcb/ecologics/bridge/rail/coconut_powered", "y": 90},
+		"facing=west,powered=true":  { "model": "everycomp:block/mcb/ecologics/bridge/rail/coconut_powered"}			
+    }
+}
+
+

@@ -1,0 +1,9 @@
+{
+	"parent": "twigs:block/template_table_leg",
+	"textures": {
+		"side": "everycomp:block/tw/enderscape/celestial_table",
+		"bottom": "everycomp:block/tw/enderscape/celestial_table_bottom",
+		"top": "everycomp:block/tw/enderscape/celestial_table_top",
+		"particle": "enderscape:block/celestial_planks"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "mcwbridges:block/bridge/rope/parent/side_right_torch",
+	"textures": {
+		"0": "mcwbridges:block/lead_knot_vert",
+		"3": "mcwbridges:block/lead_knot",
+		"4": "byg:block/jacaranda/log",
+		"5": "byg:block/jacaranda/planks",
+		"6": "mcwbridges:block/torch",
+		"particle": "byg:block/jacaranda/planks"
+	}
+}

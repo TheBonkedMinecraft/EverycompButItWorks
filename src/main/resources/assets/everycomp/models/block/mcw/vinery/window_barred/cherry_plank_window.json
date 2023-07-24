@@ -1,0 +1,8 @@
+{
+	"parent": "mcwwindows:block/parent/window/window_barred",
+	"textures": {
+		"0": "minecraft:block/glass",
+		"1": "vinery:block/cherry_planks12",
+		"particle": "vinery:block/cherry_planks12"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "mcwwindows:block/parent/blinds_lower_open",
+	"textures": {
+		"0": "betternether:block/nether_mushroom_stem_side",
+		"2": "betternether:block/nether_mushroom_planks",
+		"particle": "betternether:block/nether_mushroom_planks"
+	}    
+}
+

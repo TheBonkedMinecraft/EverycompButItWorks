@@ -1,0 +1,7 @@
+{
+  "parent": "architects_palette:block/boards/parent",
+  "textures": {
+    "even": "everycomp:block/ap/betternether/willow_boards",
+    "odd": "everycomp:block/ap/betternether/willow_boards_odd"
+  }
+}

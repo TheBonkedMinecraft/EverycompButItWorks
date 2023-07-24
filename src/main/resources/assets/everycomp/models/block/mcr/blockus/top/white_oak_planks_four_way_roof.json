@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/four_way_roof",
+	"textures": {
+		"particle": "blockus:block/white_oak_planks",
+		"1_1_2": "blockus:block/white_oak_planks"
+	}
+}

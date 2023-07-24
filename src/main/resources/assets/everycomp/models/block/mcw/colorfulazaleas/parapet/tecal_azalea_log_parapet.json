@@ -1,0 +1,7 @@
+{
+	"parent": "mcwwindows:block/parent/parapet",
+	"textures": {
+		"1": "colorfulazaleas:block/tecal_azalea_log_side",
+		"particle": "colorfulazaleas:block/tecal_azalea_log_side"      
+	}
+}

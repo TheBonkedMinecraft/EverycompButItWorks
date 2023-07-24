@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "everycomp:block/ap/promenade/cherry_oak_boards",
+    "side": "everycomp:block/ap/promenade/cherry_oak_boards",
+    "top": "everycomp:block/ap/promenade/cherry_oak_boards"
+  }
+}

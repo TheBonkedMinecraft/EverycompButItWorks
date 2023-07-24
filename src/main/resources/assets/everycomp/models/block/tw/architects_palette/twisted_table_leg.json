@@ -1,0 +1,9 @@
+{
+	"parent": "twigs:block/template_table_leg",
+	"textures": {
+		"side": "everycomp:block/tw/architects_palette/twisted_table",
+		"bottom": "everycomp:block/tw/architects_palette/twisted_table_bottom",
+		"top": "everycomp:block/tw/architects_palette/twisted_table_top",
+		"particle": "architects_palette:block/twisted_planks"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"parent": "mcwbridges:block/bridge/rail/parent/rail",
+	"textures": {
+		"0": "charm:block/stripped_azalea_log",
+		"1": "charm:block/azalea_log",
+		"particle": "charm:block/azalea_log"
+	}
+}

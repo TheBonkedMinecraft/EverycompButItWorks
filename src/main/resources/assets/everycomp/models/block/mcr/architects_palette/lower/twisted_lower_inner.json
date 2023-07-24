@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/xx_lower_inner",
+	"textures": {
+		"particle": "architects_palette:block/twisted_log",
+		"1_2": "architects_palette:block/twisted_log"
+	}
+}

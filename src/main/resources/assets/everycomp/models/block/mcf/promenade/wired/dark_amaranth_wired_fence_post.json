@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/wired_fence_post",
+	"textures": {
+		"1": "promenade:block/dark_amaranth_stem_top",
+		"particle": "promenade:block/dark_amaranth_stem/top",
+		"texture": "promenade:block/dark_amaranth_stem/top"
+	}
+}

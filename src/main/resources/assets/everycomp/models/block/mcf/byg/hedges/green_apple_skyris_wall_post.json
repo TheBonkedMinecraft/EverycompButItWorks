@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_wall_post",
+  "render_type": "cutout",
+  "textures": {
+    "wall": "byg:block/green_apple_skyris_leaves"
+  }
+}

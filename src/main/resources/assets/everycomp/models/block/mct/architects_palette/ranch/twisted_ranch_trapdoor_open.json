@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "mcwtrpdoors:block/parent/ranch_trapdoor_open",
+	"textures": {
+		"1": "architects_palette:block/twisted_log",
+		"2": "architects_palette:block/stripped_twisted_log",
+		"particle": "architects_palette:block/twisted_log"
+	}
+}

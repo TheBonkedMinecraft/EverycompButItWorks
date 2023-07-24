@@ -1,0 +1,7 @@
+{
+	"parent": "mcwwindows:block/parent/support",
+	"textures": {
+		"1": "ecologics:block/coconut_log",
+		"particle": "ecologics:block/coconut_log"      
+	}
+}

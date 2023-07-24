@@ -1,0 +1,9 @@
+
+{
+	"parent": "mcwfences:block/parent/horse_fence_side",
+	"textures": {
+		"texture": "colorfulazaleas:block/roze_azalea_planks",
+		"particle": "colorfulazaleas:block/roze_azalea_planks",
+		"1_texture": "colorfulazaleas:block/roze_azalea_planks"
+	}
+}

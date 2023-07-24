@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/bridge/bridge_wood/parent/middle_end",
+	"textures": {
+		"5": "betternether:block/nether_reed_planks_side",
+		"0": "betternether:block/nether_reed_stem_side",
+		"1": "betternether:block/nether_reed_planks_side",
+		"particle": "betternether:block/nether_reed_stem_side"
+	}
+}

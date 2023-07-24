@@ -1,0 +1,8 @@
+{
+	"parent": "mcwbridges:block/bridge/rail/parent/rail",
+	"textures": {
+		"0": "promenade:block/stripped_palm_log/top",
+		"1": "promenade:block/palm_log/side",
+		"particle": "promenade:block/palm_log/side"
+	}
+}

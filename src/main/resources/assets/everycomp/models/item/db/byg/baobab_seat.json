@@ -1,0 +1,11 @@
+{
+  "parent": "everycomp:block/db/byg/baobab_seat_inventory",
+  "overrides": [
+    {
+      "model": "everycomp:block/db/byg/baobab_seat_post_inventory",
+      "predicate": {
+        "decorative_blocks:post": 1.0
+      }
+    }
+  ]
+}

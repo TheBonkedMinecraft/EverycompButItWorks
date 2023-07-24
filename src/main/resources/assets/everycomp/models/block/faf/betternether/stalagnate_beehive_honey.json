@@ -1,0 +1,10 @@
+{
+	"parent": "minecraft:block/orientable_with_bottom",
+	"textures": {
+		"top": "everycomp:block/faf/betternether/stalagnate_beehive_end",
+		"bottom": "everycomp:block/faf/betternether/stalagnate_beehive_end",
+		"side": "everycomp:block/faf/betternether/stalagnate_beehive_side",
+		"front": "everycomp:block/faf/betternether/stalagnate_beehive_front_honey",
+		"particle": "everycomp:block/faf/betternether/stalagnate_beehive_side"
+	}
+}

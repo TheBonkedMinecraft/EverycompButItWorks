@@ -1,0 +1,6 @@
+{
+  "parent": "architects_palette:block/railings/inventory",
+  "textures": {
+    "texture": "betternether:block/nether_sakura_planks"
+  }
+}

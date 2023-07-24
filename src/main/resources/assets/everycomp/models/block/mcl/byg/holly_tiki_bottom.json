@@ -1,0 +1,7 @@
+{
+	"parent": "mcwlights:block/parent/tiki_bot",
+	"textures": {
+		"0": "byg:block/holly/log",
+		"particle": "byg:block/holly/log"
+	}
+}

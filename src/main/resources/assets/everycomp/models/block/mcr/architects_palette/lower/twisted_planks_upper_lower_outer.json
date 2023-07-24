@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/xx_upper_lower_outer",
+	"textures": {
+		"particle": "architects_palette:block/twisted_planks",
+		"1_2": "architects_palette:block/twisted_planks"
+	}
+}

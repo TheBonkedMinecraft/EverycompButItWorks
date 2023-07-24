@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/xx_upper_steep_outer",
+	"textures": {
+		"particle": "promenade:block/palm_planks",
+		"2": "promenade:block/palm_planks"
+	}
+}

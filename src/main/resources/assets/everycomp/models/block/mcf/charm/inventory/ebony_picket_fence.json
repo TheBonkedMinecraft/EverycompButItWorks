@@ -1,0 +1,9 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/inventory/picket_fence",
+	"textures": {
+		"5": "charm:block/ebony_log",
+		"particle": "charm:block/ebony_planks"
+	}
+}

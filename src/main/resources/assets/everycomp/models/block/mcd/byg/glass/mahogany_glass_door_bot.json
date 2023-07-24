@@ -1,0 +1,8 @@
+{
+    "parent": "mcwdoors:block/parent/fixed/glass_bottom",
+    "textures": {
+		"particle": "everycomp:block/mcd/byg/mahogany_barn_door_lower",
+		"1": "everycomp:block/mcd/byg/mahogany_barn_door_lower",
+		"bottom": "everycomp:block/mcd/byg/glass/mahogany_glass_door_lower"
+    }
+}

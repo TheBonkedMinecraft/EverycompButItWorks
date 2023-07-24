@@ -1,0 +1,7 @@
+{
+	"parent": "mcwwindows:block/parent/shutter_left",
+	"textures": {
+		"0": "everycomp:block/mcw/charm/azalea_louvered_shutter",
+		"particle": "everycomp:block/mcw/charm/azalea_louvered_shutter"
+	}    
+}

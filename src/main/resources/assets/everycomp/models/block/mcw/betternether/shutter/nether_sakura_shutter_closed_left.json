@@ -1,0 +1,7 @@
+{
+	"parent": "mcwwindows:block/parent/shutter_closed_left",
+	"textures": {
+		"0": "everycomp:block/mcw/betternether/nether_sakura_shutter",
+		"particle": "everycomp:block/mcw/betternether/nether_sakura_shutter"
+	}    
+}

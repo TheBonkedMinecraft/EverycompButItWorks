@@ -1,0 +1,9 @@
+{
+	"parent": "mcwwindows:block/parent/blinds_raised",
+	"textures": {
+		"1": "enderscape:block/celestial_planks",
+		"2": "minecraft:block/stripped_oak_log",
+		"particle": "enderscape:block/celestial_planks"
+	}    
+}
+

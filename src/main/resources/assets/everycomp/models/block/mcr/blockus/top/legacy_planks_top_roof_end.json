@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/top_roof_end",
+	"textures": {
+		"particle": "blockus:block/legacy_planks",
+		"1_2": "blockus:block/legacy_planks"
+	}
+}

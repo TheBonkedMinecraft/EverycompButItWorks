@@ -1,0 +1,7 @@
+{
+  "parent": "architects_palette:block/boards/parent",
+  "textures": {
+    "even": "everycomp:block/ap/blockus/legacy_boards",
+    "odd": "everycomp:block/ap/blockus/legacy_boards_odd"
+  }
+}

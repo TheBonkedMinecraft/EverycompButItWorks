@@ -1,0 +1,10 @@
+{
+	"parent": "mcwbridges:block/bridge/rope/parent/corner_clear",
+	"textures": {
+		"0": "mcwbridges:block/lead_knot_vert",
+		"3": "promenade:block/cherry_oak_planks",
+		"4": "promenade:block/cherry_oak_log/top",
+		"1_4": "mcwbridges:block/lead_knot",
+		"particle": "promenade:block/cherry_oak_planks"
+	}
+}

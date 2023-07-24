@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/core/door_top_rh",
+    "textures": {
+        
+"bottom": "everycomp:block/mcd/charm/ebony_four_panel_door_lower",
+"particle": "everycomp:block/mcd/charm/ebony_four_panel_door_lower",
+        "top": "everycomp:block/mcd/charm/ebony_four_panel_door_upper"
+    }
+}

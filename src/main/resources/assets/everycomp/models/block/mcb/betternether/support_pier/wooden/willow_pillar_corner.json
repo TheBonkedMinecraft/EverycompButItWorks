@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/support_pier/wooden/parent/pillar_corner",
+	"textures": {
+		"0": "betternether:block/willow_bark",
+		"1": "betternether:block/willow_log_top",
+		"2": "betternether:block/willow_planks",
+		"particle": "betternether:block/willow_bark"
+	}
+}

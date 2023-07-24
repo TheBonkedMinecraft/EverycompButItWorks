@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/japanese_top_right",
+    "textures": {
+		"0": "everycomp:block/mcd/promenade/palm_japanese_door_lower",
+		"2": "everycomp:block/mcd/promenade/japanese_palm_lower",
+		"1": "everycomp:block/mcd/promenade/palm_japanese_door_upper",
+		"particle": "everycomp:block/mcd/promenade/palm_japanese_door_lower"
+    }
+}

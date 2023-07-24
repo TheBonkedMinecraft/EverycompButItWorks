@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/xx_upper_steep_inner",
+	"textures": {
+		"particle": "blockus:block/legacy_planks",
+		"2": "blockus:block/legacy_planks"
+	}
+}

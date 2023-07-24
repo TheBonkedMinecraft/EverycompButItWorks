@@ -1,0 +1,9 @@
+{
+	"parent": "twigs:block/template_table_inventory",
+	"textures": {
+		"side": "everycomp:block/tw/betterend/mossy_glowshroom_table",
+		"bottom": "everycomp:block/tw/betterend/mossy_glowshroom_table_bottom",
+		"top": "everycomp:block/tw/betterend/mossy_glowshroom_table_top",
+		"particle": "betterend:block/mossy_glowshroom_planks"
+	}
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "side": "everycomp:block/fd/promenade/dark_amaranth_cabinet_side",
+    "front": "everycomp:block/fd/promenade/dark_amaranth_cabinet_front",
+    "top": "everycomp:block/fd/promenade/dark_amaranth_cabinet_top"
+  }
+}

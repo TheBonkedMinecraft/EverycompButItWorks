@@ -1,0 +1,8 @@
+{
+	"parent": "mcwfences:block/parent/pyramid_gate_open",
+	"textures": {
+		"3": "architects_palette:block/twisted_log",
+		"6": "architects_palette:block/twisted_planks",
+		"particle": "architects_palette:block/twisted_planks"
+	}
+}

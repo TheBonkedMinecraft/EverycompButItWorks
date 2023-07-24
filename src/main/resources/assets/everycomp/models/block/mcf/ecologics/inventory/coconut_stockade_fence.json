@@ -1,0 +1,9 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/inventory/stockade_fence",
+	"textures": {
+		"5": "ecologics:block/coconut_log",
+		"particle": "ecologics:block/coconut_planks"
+	}
+}

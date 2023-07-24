@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/support_pier/wooden/parent/pillar_side",
+	"textures": {
+		"0": "betternether:block/mushroom_fir_bark",
+		"1": "betternether:block/mushroom_fir_log_top",
+		"2": "betternether:block/mushroom_fir_planks",
+		"particle": "betternether:block/mushroom_fir_bark"
+	}
+}

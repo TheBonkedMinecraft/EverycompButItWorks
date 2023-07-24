@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/bridge/rope/parent/base_torch",
+	"textures": {
+		"1": "byg:block/cika/log",
+		"2": "mcwbridges:block/torch",
+		"3": "byg:block/cika/planks",
+		"particle": "byg:block/cika/planks"
+	}
+}

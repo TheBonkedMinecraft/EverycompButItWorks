@@ -1,0 +1,7 @@
+{
+	"parent": "mcwwindows:block/parent/shutter_left",
+	"textures": {
+		"0": "everycomp:block/mcw/architects_palette/twisted_shutter",
+		"particle": "everycomp:block/mcw/architects_palette/twisted_shutter"
+	}    
+}

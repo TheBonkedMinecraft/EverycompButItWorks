@@ -1,0 +1,7 @@
+{
+  "parent": "decorative_blocks:custom/seat",
+  "textures": {
+    "particle": "everycomp:block/db/enderscape/celestial_seat",
+    "texture": "everycomp:block/db/enderscape/celestial_seat"
+  }
+}

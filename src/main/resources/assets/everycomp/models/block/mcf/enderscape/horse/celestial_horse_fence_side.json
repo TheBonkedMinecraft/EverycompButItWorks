@@ -1,0 +1,9 @@
+
+{
+	"parent": "mcwfences:block/parent/horse_fence_side",
+	"textures": {
+		"texture": "enderscape:block/celestial_planks",
+		"particle": "enderscape:block/celestial_planks",
+		"1_texture": "enderscape:block/celestial_planks"
+	}
+}

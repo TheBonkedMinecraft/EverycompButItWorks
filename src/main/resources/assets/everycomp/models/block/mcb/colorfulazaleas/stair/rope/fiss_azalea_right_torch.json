@@ -1,0 +1,11 @@
+{
+	"parent": "mcwbridges:block/stair/rope/parent/right_torch",
+	"textures": {
+		"0": "mcwbridges:block/lead_knot_vert_stair",
+		"2": "colorfulazaleas:block/fiss_azalea_planks",
+		"3": "mcwbridges:block/lead_knot",
+		"4": "colorfulazaleas:block/fiss_azalea_log_side",
+		"6": "mcwbridges:block/torch",
+		"particle": "colorfulazaleas:block/fiss_azalea_log_side"
+	}
+}

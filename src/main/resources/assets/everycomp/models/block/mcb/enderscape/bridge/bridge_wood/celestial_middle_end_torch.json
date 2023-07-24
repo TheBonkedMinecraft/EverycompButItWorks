@@ -1,0 +1,10 @@
+{
+	"parent": "mcwbridges:block/bridge/bridge_wood/parent/middle_end_torch",
+	"textures": {
+		"5": "enderscape:block/celestial_planks",
+		"4": "mcwbridges:block/torch",
+		"0": "enderscape:block/celestial_stem",
+		"1": "enderscape:block/celestial_planks",
+		"particle": "enderscape:block/celestial_stem"
+	}
+}

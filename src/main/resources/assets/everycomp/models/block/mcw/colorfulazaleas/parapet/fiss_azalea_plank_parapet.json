@@ -1,0 +1,7 @@
+{
+	"parent": "mcwwindows:block/parent/parapet",
+	"textures": {
+		"1": "colorfulazaleas:block/fiss_azalea_planks",
+		"particle": "colorfulazaleas:block/fiss_azalea_planks"      
+	}
+}

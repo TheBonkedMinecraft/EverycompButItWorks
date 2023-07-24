@@ -1,0 +1,7 @@
+{
+	"parent": "mcwlights:block/parent/tiki_bot",
+	"textures": {
+		"0": "betternether:block/anchor_tree_log_side_3",
+		"particle": "betternether:block/anchor_tree_log_side_3"
+	}
+}

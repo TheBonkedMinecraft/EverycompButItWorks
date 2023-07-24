@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "mcwtrpdoors:block/parent/ranch_trapdoor_bottom",
+	"textures": {
+		"3": "charm:block/ebony_log",
+		"5": "charm:block/stripped_ebony_log",
+		"particle": "charm:block/ebony_log"
+	}
+}

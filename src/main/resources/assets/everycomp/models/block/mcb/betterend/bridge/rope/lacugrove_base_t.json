@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/bridge/rope/parent/base_torch",
+	"textures": {
+		"1": "betterend:block/lacugrove_log_side_2",
+		"2": "mcwbridges:block/torch",
+		"3": "betterend:block/lacugrove_planks",
+		"particle": "betterend:block/lacugrove_planks"
+	}
+}

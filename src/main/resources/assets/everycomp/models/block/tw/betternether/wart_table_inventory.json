@@ -1,0 +1,9 @@
+{
+	"parent": "twigs:block/template_table_inventory",
+	"textures": {
+		"side": "everycomp:block/tw/betternether/wart_table",
+		"bottom": "everycomp:block/tw/betternether/wart_table_bottom",
+		"top": "everycomp:block/tw/betternether/wart_table_top",
+		"particle": "betternether:block/wart_planks"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/bridge/rope/parent/base_torch",
+	"textures": {
+		"1": "promenade:block/palm_log/side",
+		"2": "mcwbridges:block/torch",
+		"3": "promenade:block/palm_planks",
+		"particle": "promenade:block/palm_planks"
+	}
+}

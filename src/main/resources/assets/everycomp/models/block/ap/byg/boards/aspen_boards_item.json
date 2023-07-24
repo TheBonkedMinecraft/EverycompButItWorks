@@ -1,0 +1,7 @@
+{
+  "parent": "architects_palette:block/boards/parent",
+  "textures": {
+    "even": "everycomp:block/ap/byg/aspen_boards",
+    "odd": "everycomp:block/ap/byg/aspen_boards_odd"
+  }
+}

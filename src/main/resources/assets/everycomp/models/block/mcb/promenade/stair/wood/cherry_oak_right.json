@@ -1,0 +1,8 @@
+{
+	"parent": "mcwbridges:block/stair/wood/parent/right",
+	"textures": {
+		"2": "promenade:block/cherry_oak_planks",
+		"particle": "promenade:block/cherry_oak_log/top",
+		"1_1": "promenade:block/cherry_oak_log/top"
+	}
+}

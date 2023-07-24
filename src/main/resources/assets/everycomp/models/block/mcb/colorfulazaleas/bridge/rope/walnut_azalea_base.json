@@ -1,0 +1,8 @@
+{
+	"parent": "mcwbridges:block/bridge/rope/parent/base",
+	"textures": {
+		"1": "colorfulazaleas:block/walnut_azalea_planks",
+		"2": "colorfulazaleas:block/walnut_azalea_log_side",
+		"particle": "colorfulazaleas:block/walnut_azalea_planks"
+	}
+}

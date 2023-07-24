@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/core/door_bottom",
+    "textures": {
+        
+"bottom": "everycomp:block/mcd/ecologics/azalea_cottage_door_lower",
+"particle": "everycomp:block/mcd/ecologics/azalea_cottage_door_lower",
+        "top": "everycomp:block/mcd/ecologics/azalea_cottage_door_upper"
+    }
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/bridge/rope/parent/base_end_torch",
+	"textures": {
+		"1": "promenade:block/dark_amaranth_planks",
+		"2": "promenade:block/dark_amaranth_stem/top",
+		"3": "mcwbridges:block/torch",
+		"particle": "promenade:block/dark_amaranth_planks"
+	}
+}

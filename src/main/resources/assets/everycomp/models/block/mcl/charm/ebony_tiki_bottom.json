@@ -1,0 +1,7 @@
+{
+	"parent": "mcwlights:block/parent/tiki_bot",
+	"textures": {
+		"0": "charm:block/ebony_log",
+		"particle": "charm:block/ebony_log"
+	}
+}

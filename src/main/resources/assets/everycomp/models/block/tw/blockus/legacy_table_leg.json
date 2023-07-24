@@ -1,0 +1,9 @@
+{
+	"parent": "twigs:block/template_table_leg",
+	"textures": {
+		"side": "everycomp:block/tw/blockus/legacy_table",
+		"bottom": "everycomp:block/tw/blockus/legacy_table_bottom",
+		"top": "everycomp:block/tw/blockus/legacy_table_top",
+		"particle": "blockus:block/legacy_planks"
+	}
+}

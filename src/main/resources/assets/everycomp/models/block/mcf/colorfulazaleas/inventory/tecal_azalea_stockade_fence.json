@@ -1,0 +1,9 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/inventory/stockade_fence",
+	"textures": {
+		"5": "colorfulazaleas:block/tecal_azalea_log_side",
+		"particle": "colorfulazaleas:block/tecal_azalea_planks"
+	}
+}

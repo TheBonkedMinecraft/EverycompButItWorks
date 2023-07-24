@@ -1,0 +1,7 @@
+{
+	"parent": "mcwlights:block/parent/tiki_bot",
+	"textures": {
+		"0": "colorfulazaleas:block/azule_azalea_log_side",
+		"particle": "colorfulazaleas:block/azule_azalea_log_side"
+	}
+}

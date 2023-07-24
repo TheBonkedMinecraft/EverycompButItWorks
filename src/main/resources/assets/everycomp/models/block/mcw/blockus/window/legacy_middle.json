@@ -1,0 +1,8 @@
+{
+	"parent": "mcwwindows:block/parent/window/middle",
+	"textures": {
+		"0": "blockus:block/legacy_log",
+		"1": "mcwwindows:block/glass",
+		"particle": "blockus:block/legacy_log"     
+	}
+}

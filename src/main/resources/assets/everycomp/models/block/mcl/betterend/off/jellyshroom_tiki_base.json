@@ -1,0 +1,9 @@
+{
+	"parent": "mcwlights:block/parent/tiki_base",
+	"textures": {
+		"0": "betterend:block/jellyshroom_log_side",
+		"2": "minecraft:block/soul_soil",
+		"4": "minecraft:block/scaffolding_top",
+		"particle": "betterend:block/jellyshroom_log_side"
+	}
+}

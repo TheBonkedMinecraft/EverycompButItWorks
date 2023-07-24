@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/picket_fence_side",
+	"textures": {
+		"2": "blockus:block/legacy_log",
+		"particle": "blockus:block/legacy_planks",
+		"texture": "blockus:block/legacy_planks"
+	}
+}

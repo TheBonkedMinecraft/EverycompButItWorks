@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/support_pier/wooden/parent/pillar_side",
+	"textures": {
+		"0": "blockus:block/legacy_log",
+		"1": "blockus:block/legacy_log_top",
+		"2": "blockus:block/legacy_planks",
+		"particle": "blockus:block/legacy_log"
+	}
+}

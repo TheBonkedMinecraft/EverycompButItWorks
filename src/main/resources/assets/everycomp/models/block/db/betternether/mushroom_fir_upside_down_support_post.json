@@ -1,0 +1,8 @@
+{
+  "parent": "decorative_blocks:custom/upside_down_support_post",
+  "textures": {
+    "end": "everycomp:block/db/betternether/mushroom_fir_support_end",
+    "particle": "everycomp:block/db/betternether/mushroom_fir_support_side",
+    "side": "everycomp:block/db/betternether/mushroom_fir_support_side"
+  }
+}

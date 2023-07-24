@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/core/door_bottom",
+    "textures": {
+        
+"bottom": "everycomp:block/mcd/promenade/palm_barn_door_lower",
+"particle": "everycomp:block/mcd/promenade/palm_barn_door_lower",
+        "top": "everycomp:block/mcd/promenade/palm_barn_door_upper"
+    }
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "mcwwindows:block/parent/blinds_raised",
+	"textures": {
+		"1": "charm:block/ebony_planks",
+		"2": "charm:block/stripped_ebony_log",
+		"particle": "charm:block/ebony_planks"
+	}    
+}
+

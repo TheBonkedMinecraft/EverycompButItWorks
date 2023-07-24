@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/support_pier/wooden/parent/pillar_middle",
+	"textures": {
+		"0": "promenade:block/dark_amaranth_stem/top",
+		"1": "promenade:block/dark_amaranth_stem_top",
+		"2": "promenade:block/dark_amaranth_planks",
+		"particle": "promenade:block/dark_amaranth_stem/top"
+	}
+}

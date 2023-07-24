@@ -1,0 +1,8 @@
+{
+    "parent": "mcwdoors:block/parent/japanese_closed",
+    "textures": {
+		"0": "everycomp:block/mcd/ecologics/japanese_walnut_lower",
+		"2": "everycomp:block/mcd/ecologics/japanese_walnut_lower",
+		"particle": "everycomp:block/mcd/ecologics/japanese_walnut_lower"
+    }
+}

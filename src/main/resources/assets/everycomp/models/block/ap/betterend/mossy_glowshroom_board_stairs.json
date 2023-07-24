@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "everycomp:block/ap/betterend/mossy_glowshroom_boards",
+    "side": "everycomp:block/ap/betterend/mossy_glowshroom_boards",
+    "top": "everycomp:block/ap/betterend/mossy_glowshroom_boards"
+  }
+}

@@ -1,0 +1,8 @@
+{
+	"parent": "mcwbridges:block/bridge/rope/parent/base_end",
+	"textures": {
+		"1": "charm:block/azalea_planks",
+		"2": "charm:block/azalea_log",
+		"particle": "charm:block/azalea_planks"
+	}
+}

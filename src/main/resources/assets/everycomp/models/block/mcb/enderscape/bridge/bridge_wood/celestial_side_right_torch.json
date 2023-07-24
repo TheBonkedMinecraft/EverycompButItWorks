@@ -1,0 +1,9 @@
+	{
+	"parent": "mcwbridges:block/bridge/bridge_wood/parent/side_right_torch",
+	"textures": {
+		"5": "enderscape:block/celestial_planks",
+		"0": "enderscape:block/celestial_stem",
+		"4": "mcwbridges:block/torch",
+		"particle": "enderscape:block/celestial_stem"
+	}
+}

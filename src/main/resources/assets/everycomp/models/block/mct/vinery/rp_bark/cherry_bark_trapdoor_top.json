@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "mcwtrpdoors:block/parent/trapdoor_top",
+	"textures": {
+		"1": "vinery:block/cherry_log_side",
+		"2": "minecraft:block/glass",
+		"particle": "vinery:block/cherry_log_side"
+	}
+}

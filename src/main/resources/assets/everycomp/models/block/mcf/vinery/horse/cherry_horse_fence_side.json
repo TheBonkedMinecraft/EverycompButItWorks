@@ -1,0 +1,9 @@
+
+{
+	"parent": "mcwfences:block/parent/horse_fence_side",
+	"textures": {
+		"texture": "vinery:block/cherry_planks12",
+		"particle": "vinery:block/cherry_planks12",
+		"1_texture": "vinery:block/cherry_planks12"
+	}
+}

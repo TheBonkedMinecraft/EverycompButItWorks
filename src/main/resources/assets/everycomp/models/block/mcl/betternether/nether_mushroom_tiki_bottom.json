@@ -1,0 +1,7 @@
+{
+	"parent": "mcwlights:block/parent/tiki_bot",
+	"textures": {
+		"0": "betternether:block/nether_mushroom_stem_side",
+		"particle": "betternether:block/nether_mushroom_stem_side"
+	}
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "decorative_blocks:custom/upside_down_support_vertical_small",
+  "textures": {
+    "end": "everycomp:block/db/byg/ebony_support_end",
+    "particle": "everycomp:block/db/byg/ebony_support_side",
+    "side": "everycomp:block/db/byg/ebony_support_side"
+  }
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/bridge/bridge_wood/parent/base_torch",
+	"textures": {
+		"1": "ecologics:block/flowering_azalea_log",
+		"4": "mcwbridges:block/torch",
+		"2": "ecologics:block/flowering_azalea_planks",
+		"particle": "ecologics:block/flowering_azalea_planks"
+	}
+}

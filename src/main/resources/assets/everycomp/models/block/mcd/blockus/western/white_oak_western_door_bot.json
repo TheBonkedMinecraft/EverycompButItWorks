@@ -1,0 +1,9 @@
+{
+	"ambientocclusion": false,
+    "parent": "mcwdoors:block/parent/western_door_bot",
+	"textures": {  
+	"particle": "everycomp:block/mcd/blockus/western/white_oak_western_door_lower",
+		"1": "everycomp:block/mcd/blockus/western/white_oak_western_door_lower",
+		"2": "everycomp:block/mcd/blockus/western/white_oak_western_door_upper"
+    }
+}

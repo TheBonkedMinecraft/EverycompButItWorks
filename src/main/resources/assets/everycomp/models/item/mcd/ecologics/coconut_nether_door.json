@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "everycomp:item/mcd/ecologics/coconut_nether_door"
+    }
+}

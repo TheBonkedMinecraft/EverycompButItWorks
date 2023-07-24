@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/roof",
+	"textures": {
+		"2": "promenade:block/dark_amaranth_planks",
+		"particle": "promenade:block/dark_amaranth_planks"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "mcwwindows:block/parent/parapet",
+	"textures": {
+		"1": "vinery:block/cherry_planks12",
+		"particle": "vinery:block/cherry_planks12"      
+	}
+}

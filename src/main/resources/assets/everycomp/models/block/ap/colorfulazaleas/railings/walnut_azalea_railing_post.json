@@ -1,0 +1,6 @@
+{
+  "parent": "architects_palette:block/railings/post",
+  "textures": {
+    "texture": "colorfulazaleas:block/walnut_azalea_planks"
+  }
+}

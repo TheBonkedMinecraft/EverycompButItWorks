@@ -1,0 +1,10 @@
+{
+	"parent": "mcwbridges:block/bridge/rope/parent/corner_clear_r",
+	"textures": {
+		"0": "mcwbridges:block/lead_knot_vert",
+		"3": "colorfulazaleas:block/walnut_azalea_planks",
+		"4": "colorfulazaleas:block/walnut_azalea_log_side",
+		"1_4": "mcwbridges:block/lead_knot",
+		"particle": "colorfulazaleas:block/walnut_azalea_planks"
+	}
+}

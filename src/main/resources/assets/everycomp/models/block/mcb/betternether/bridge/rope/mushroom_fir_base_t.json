@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/bridge/rope/parent/base_torch",
+	"textures": {
+		"1": "betternether:block/mushroom_fir_bark",
+		"2": "mcwbridges:block/torch",
+		"3": "betternether:block/mushroom_fir_planks",
+		"particle": "betternether:block/mushroom_fir_planks"
+	}
+}

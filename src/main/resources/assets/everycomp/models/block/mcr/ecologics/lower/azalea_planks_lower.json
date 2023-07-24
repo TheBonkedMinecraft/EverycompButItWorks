@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/xx_lower",
+	"textures": {
+		"particle": "ecologics:block/azalea_planks",
+		"1_2": "ecologics:block/azalea_planks"
+	}
+}

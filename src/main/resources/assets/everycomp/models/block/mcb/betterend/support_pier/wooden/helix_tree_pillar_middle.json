@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/support_pier/wooden/parent/pillar_middle",
+	"textures": {
+		"0": "betterend:block/helix_tree_log_side",
+		"1": "betterend:block/helix_tree_log_top",
+		"2": "betterend:block/helix_tree_planks",
+		"particle": "betterend:block/helix_tree_log_side"
+	}
+}

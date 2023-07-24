@@ -1,0 +1,9 @@
+{
+	"parent": "twigs:block/template_table_inventory",
+	"textures": {
+		"side": "everycomp:block/tw/byg/blue_enchanted_table",
+		"bottom": "everycomp:block/tw/byg/blue_enchanted_table_bottom",
+		"top": "everycomp:block/tw/byg/blue_enchanted_table_top",
+		"particle": "byg:block/blue_enchanted/planks"
+	}
+}

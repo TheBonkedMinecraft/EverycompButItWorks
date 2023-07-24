@@ -1,0 +1,9 @@
+{
+	"parent": "mcwwindows:block/parent/blinds_lower_open",
+	"textures": {
+		"0": "betternether:block/anchor_tree_log_side_3",
+		"2": "betternether:block/anchor_tree_planks",
+		"particle": "betternether:block/anchor_tree_planks"
+	}    
+}
+

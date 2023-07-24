@@ -1,0 +1,8 @@
+{
+	"parent": "mcwfences:block/parent/highley_gate_open",
+	"textures": {
+		"2": "vinery:block/cherry_planks12",
+		"particle": "vinery:block/cherry_planks12",
+		"texture": "vinery:block/cherry_log_side"
+	}
+}

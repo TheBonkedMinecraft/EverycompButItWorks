@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/bridge/rope/parent/base_end_torch",
+	"textures": {
+		"1": "betterend:block/end_lotus_planks",
+		"2": "betterend:block/end_lotus_log_side",
+		"3": "mcwbridges:block/torch",
+		"particle": "betterend:block/end_lotus_planks"
+	}
+}

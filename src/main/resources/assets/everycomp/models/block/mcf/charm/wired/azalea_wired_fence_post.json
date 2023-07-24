@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/wired_fence_post",
+	"textures": {
+		"1": "charm:block/azalea_log_top",
+		"particle": "charm:block/azalea_log",
+		"texture": "charm:block/azalea_log"
+	}
+}

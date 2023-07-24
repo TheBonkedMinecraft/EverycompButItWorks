@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/core/door_top",
+    "textures": {
+        
+"bottom": "everycomp:block/mcd/byg/cypress_modern_door_lower",
+"particle": "everycomp:block/mcd/byg/cypress_modern_door_lower",
+        "top": "everycomp:block/mcd/byg/cypress_modern_door_upper"
+    }
+}

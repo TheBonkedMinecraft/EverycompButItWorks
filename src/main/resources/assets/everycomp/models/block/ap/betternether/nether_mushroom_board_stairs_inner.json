@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "everycomp:block/ap/betternether/nether_mushroom_boards",
+    "side": "everycomp:block/ap/betternether/nether_mushroom_boards",
+    "top": "everycomp:block/ap/betternether/nether_mushroom_boards"
+  }
+}

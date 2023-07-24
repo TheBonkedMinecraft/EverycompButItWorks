@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "everycomp:item/mcd/colorfulazaleas/bright_azalea_cottage_door"
+    }
+}

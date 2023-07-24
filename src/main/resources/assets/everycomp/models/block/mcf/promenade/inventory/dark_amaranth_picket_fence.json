@@ -1,0 +1,9 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/inventory/picket_fence",
+	"textures": {
+		"5": "promenade:block/dark_amaranth_stem/top",
+		"particle": "promenade:block/dark_amaranth_planks"
+	}
+}

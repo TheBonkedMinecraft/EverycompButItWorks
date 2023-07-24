@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/japanese_top_right",
+    "textures": {
+		"0": "everycomp:block/mcd/charm/japanese_ebony_lower",
+		"2": "everycomp:block/mcd/charm/japanese_ebony_lower",
+		"1": "everycomp:block/mcd/charm/japanese_ebony_upper",
+		"particle": "everycomp:block/mcd/charm/japanese_ebony_lower"
+    }
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/stair/wood/parent/left_torch",
+	"textures": {
+		"2": "betternether:block/wart_planks",
+		"particle": "betternether:block/wart_bark",
+		"4": "mcwbridges:block/torch",
+		"1_1": "betternether:block/wart_bark"
+	}
+}

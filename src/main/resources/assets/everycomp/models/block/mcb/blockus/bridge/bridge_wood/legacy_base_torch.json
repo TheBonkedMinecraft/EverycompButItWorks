@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/bridge/bridge_wood/parent/base_torch",
+	"textures": {
+		"1": "blockus:block/legacy_log",
+		"4": "mcwbridges:block/torch",
+		"2": "blockus:block/legacy_planks",
+		"particle": "blockus:block/legacy_planks"
+	}
+}

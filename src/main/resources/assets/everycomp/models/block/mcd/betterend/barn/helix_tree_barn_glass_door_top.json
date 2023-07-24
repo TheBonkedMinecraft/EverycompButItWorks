@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/door_top",
+    "textures": {
+        
+"bottom": "everycomp:block/mcd/betterend/helix_tree_barn_door_lower",
+"particle": "everycomp:block/mcd/betterend/helix_tree_barn_door_lower",
+        "top": "everycomp:block/mcd/betterend/helix_tree_barn_glass_door_upper"
+    }
+}

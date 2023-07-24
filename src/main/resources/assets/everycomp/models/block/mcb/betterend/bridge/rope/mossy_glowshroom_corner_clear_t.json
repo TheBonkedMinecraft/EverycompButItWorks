@@ -1,0 +1,11 @@
+{
+	"parent": "mcwbridges:block/bridge/rope/parent/corner_clear_torch",
+	"textures": {
+		"0": "mcwbridges:block/lead_knot_vert",
+		"3": "betterend:block/mossy_glowshroom_planks",
+		"4": "betterend:block/mossy_glowshroom_log_side_2",
+		"5": "mcwbridges:block/torch",
+		"particle": "betterend:block/mossy_glowshroom_planks",
+		"1_4": "mcwbridges:block/lead_knot"
+	}
+}

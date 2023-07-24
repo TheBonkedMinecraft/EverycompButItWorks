@@ -1,0 +1,7 @@
+{
+	"parent": "mcwwindows:block/parent/parapet",
+	"textures": {
+		"1": "architects_palette:block/twisted_log",
+		"particle": "architects_palette:block/twisted_log"      
+	}
+}

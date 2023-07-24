@@ -1,0 +1,7 @@
+{
+  "parent": "mcwpaths:block/wooden",
+  "textures": {
+	"particle": "everycomp:block/mcp/byg/sythian_planks_path",
+    "pavement": "everycomp:block/mcp/byg/sythian_planks_path"
+  }
+}

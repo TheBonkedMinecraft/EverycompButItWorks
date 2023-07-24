@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "mcwtrpdoors:block/parent/ranch_trapdoor_bottom",
+	"textures": {
+		"3": "promenade:block/dark_amaranth_stem/top",
+		"5": "minecraft:block/stripped_oak_log",
+		"particle": "promenade:block/dark_amaranth_stem/top"
+	}
+}

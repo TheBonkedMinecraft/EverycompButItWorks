@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "everycomp:block/ap/betternether/anchor_tree_boards"
+  }
+}

@@ -1,0 +1,11 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/wired_fence_side",
+	"textures": {
+		"1": "enderscape:block/celestial_stem_top",
+		"4": "mcwfences:block/wire_fence",
+		"particle": "enderscape:block/celestial_stem",
+		"1_texture": "enderscape:block/celestial_stem"
+	}
+}

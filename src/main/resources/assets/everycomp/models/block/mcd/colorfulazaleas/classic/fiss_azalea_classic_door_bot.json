@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/core/door_bottom",
+    "textures": {
+        
+"bottom": "everycomp:block/mcd/colorfulazaleas/fiss_azalea_classic_door_lower",
+"particle": "everycomp:block/mcd/colorfulazaleas/fiss_azalea_classic_door_lower",
+        "top": "everycomp:block/mcd/colorfulazaleas/fiss_azalea_classic_door_upper"
+    }
+}

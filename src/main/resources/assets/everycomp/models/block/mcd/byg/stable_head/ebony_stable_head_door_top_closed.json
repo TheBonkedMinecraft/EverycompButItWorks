@@ -1,0 +1,8 @@
+{
+    "parent": "mcwdoors:block/parent/fixed/stable_top_closed",
+    "textures": {
+        "particle": "everycomp:block/mcd/byg/ebony_barn_door_lower",
+		"1": "everycomp:block/mcd/byg/ebony_barn_door_lower",
+		"bottom": "everycomp:block/mcd/byg/stable_head/ebony_stable_head_door_lower"
+    }
+}

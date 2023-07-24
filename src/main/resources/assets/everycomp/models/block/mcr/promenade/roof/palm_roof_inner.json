@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/roof_inner",
+	"textures": {
+		"particle": "promenade:block/palm_log/side",
+		"1_2": "promenade:block/palm_log/side"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "mcwlights:block/parent/tiki_bot",
+	"textures": {
+		"0": "promenade:block/palm_log/side",
+		"particle": "promenade:block/palm_log/side"
+	}
+}

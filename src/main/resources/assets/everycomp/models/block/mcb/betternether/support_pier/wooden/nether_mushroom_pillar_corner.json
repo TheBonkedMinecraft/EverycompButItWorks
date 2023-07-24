@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/support_pier/wooden/parent/pillar_corner",
+	"textures": {
+		"0": "betternether:block/nether_mushroom_stem_side",
+		"1": "betternether:block/nether_mushroom_stem_top",
+		"2": "betternether:block/nether_mushroom_planks",
+		"particle": "betternether:block/nether_mushroom_stem_side"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "mcwroofs:block/parent/xx_upper_steep_inner",
+	"textures": {
+		"particle": "vinery:block/cherry_planks12",
+		"2": "vinery:block/cherry_planks12"
+	}
+}

@@ -1,0 +1,9 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/inventory/picket_fence",
+	"textures": {
+		"5": "ecologics:block/azalea_log",
+		"particle": "ecologics:block/azalea_planks"
+	}
+}

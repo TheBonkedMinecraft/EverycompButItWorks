@@ -1,0 +1,7 @@
+{
+  "parent": "decorative_blocks:custom/seat_post",
+  "textures": {
+    "particle": "everycomp:block/db/betternether/mushroom_fir_seat",
+    "texture": "everycomp:block/db/betternether/mushroom_fir_seat"
+  }
+}

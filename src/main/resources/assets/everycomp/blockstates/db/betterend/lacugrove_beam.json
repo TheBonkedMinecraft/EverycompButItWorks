@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "everycomp:block/db/betterend/lacugrove_beam_x"
+    },
+    "axis=y": {
+      "model": "everycomp:block/db/betterend/lacugrove_beam_y"
+    },
+    "axis=z": {
+      "model": "everycomp:block/db/betterend/lacugrove_beam_z"
+    }
+  }
+}

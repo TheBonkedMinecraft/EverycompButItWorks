@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/picket_fence_side",
+	"textures": {
+		"2": "architects_palette:block/twisted_log",
+		"particle": "architects_palette:block/twisted_planks",
+		"texture": "architects_palette:block/twisted_planks"
+	}
+}

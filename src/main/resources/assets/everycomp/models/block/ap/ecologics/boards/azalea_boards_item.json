@@ -1,0 +1,7 @@
+{
+  "parent": "architects_palette:block/boards/parent",
+  "textures": {
+    "even": "everycomp:block/ap/ecologics/azalea_boards",
+    "odd": "everycomp:block/ap/ecologics/azalea_boards_odd"
+  }
+}

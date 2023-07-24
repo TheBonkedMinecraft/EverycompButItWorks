@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/core/door_bottom",
+    "textures": {
+        
+"bottom": "everycomp:block/mcd/betternether/nether_reed_bamboo_door_lower",
+"particle": "everycomp:block/mcd/betternether/nether_reed_bamboo_door_lower",
+        "top": "everycomp:block/mcd/betternether/nether_reed_bamboo_door_upper"
+    }
+}

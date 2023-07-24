@@ -1,0 +1,6 @@
+{
+    "parent": "mcwtrpdoors:block/parent/template_orientable_trapdoor_bottom",
+    "textures": {
+        "texture": "everycomp:block/mct/colorfulazaleas/four_panel/walnut_azalea_four_panel_trapdoor"
+    }
+}

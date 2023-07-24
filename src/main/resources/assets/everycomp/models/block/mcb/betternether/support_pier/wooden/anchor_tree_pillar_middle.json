@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/support_pier/wooden/parent/pillar_middle",
+	"textures": {
+		"0": "betternether:block/anchor_tree_log_side_3",
+		"1": "betternether:block/anchor_tree_log_top",
+		"2": "betternether:block/anchor_tree_planks",
+		"particle": "betternether:block/anchor_tree_log_side_3"
+	}
+}

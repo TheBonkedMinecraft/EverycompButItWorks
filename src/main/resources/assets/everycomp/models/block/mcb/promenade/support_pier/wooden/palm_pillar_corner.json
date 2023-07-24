@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/support_pier/wooden/parent/pillar_corner",
+	"textures": {
+		"0": "promenade:block/palm_log/side",
+		"1": "promenade:block/palm_log_top",
+		"2": "promenade:block/palm_planks",
+		"particle": "promenade:block/palm_log/side"
+	}
+}

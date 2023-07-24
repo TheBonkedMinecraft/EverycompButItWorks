@@ -1,0 +1,9 @@
+{
+	"parent": "twigs:block/template_table_leg",
+	"textures": {
+		"side": "everycomp:block/tw/betterend/dragon_tree_table",
+		"bottom": "everycomp:block/tw/betterend/dragon_tree_table_bottom",
+		"top": "everycomp:block/tw/betterend/dragon_tree_table_top",
+		"particle": "betterend:block/dragon_tree_planks"
+	}
+}

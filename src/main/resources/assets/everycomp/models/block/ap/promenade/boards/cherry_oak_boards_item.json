@@ -1,0 +1,7 @@
+{
+  "parent": "architects_palette:block/boards/parent",
+  "textures": {
+    "even": "everycomp:block/ap/promenade/cherry_oak_boards",
+    "odd": "everycomp:block/ap/promenade/cherry_oak_boards_odd"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "everycomp:block/ap/betterend/dragon_tree_boards"
+  }
+}

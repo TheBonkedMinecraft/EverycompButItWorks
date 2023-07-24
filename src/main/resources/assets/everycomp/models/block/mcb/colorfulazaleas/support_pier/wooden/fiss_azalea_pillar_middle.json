@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/support_pier/wooden/parent/pillar_middle",
+	"textures": {
+		"0": "colorfulazaleas:block/fiss_azalea_log_side",
+		"1": "colorfulazaleas:block/fiss_azalea_log_top",
+		"2": "colorfulazaleas:block/fiss_azalea_planks",
+		"particle": "colorfulazaleas:block/fiss_azalea_log_side"
+	}
+}

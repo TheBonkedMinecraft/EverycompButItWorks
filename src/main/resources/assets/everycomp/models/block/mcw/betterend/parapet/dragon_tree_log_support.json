@@ -1,0 +1,7 @@
+{
+	"parent": "mcwwindows:block/parent/support",
+	"textures": {
+		"1": "betterend:block/dragon_tree_log_side_2",
+		"particle": "betterend:block/dragon_tree_log_side_2"      
+	}
+}

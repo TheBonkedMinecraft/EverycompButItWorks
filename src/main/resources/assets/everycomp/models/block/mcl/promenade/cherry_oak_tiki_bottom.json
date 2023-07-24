@@ -1,0 +1,7 @@
+{
+	"parent": "mcwlights:block/parent/tiki_bot",
+	"textures": {
+		"0": "promenade:block/cherry_oak_log/top",
+		"particle": "promenade:block/cherry_oak_log/top"
+	}
+}

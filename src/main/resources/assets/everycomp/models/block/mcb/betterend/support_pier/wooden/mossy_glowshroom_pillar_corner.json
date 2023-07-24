@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/support_pier/wooden/parent/pillar_corner",
+	"textures": {
+		"0": "betterend:block/mossy_glowshroom_log_side_2",
+		"1": "betterend:block/mossy_glowshroom_log_top",
+		"2": "betterend:block/mossy_glowshroom_planks",
+		"particle": "betterend:block/mossy_glowshroom_log_side_2"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "mcwbridges:block/stair/rope/parent/double_torch",
+	"textures": {
+		"0": "mcwbridges:block/lead_knot_vert_stair",
+		"2": "betternether:block/nether_reed_planks_side",
+		"3": "mcwbridges:block/lead_knot",
+		"4": "betternether:block/nether_reed_stem_side",
+		"6": "mcwbridges:block/torch",
+		"particle": "betternether:block/nether_reed_stem_side"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/stair/wood/parent/right_torch",
+	"textures": {
+		"2": "betterend:block/dragon_tree_planks",
+		"particle": "betterend:block/dragon_tree_log_side_2",
+		"4": "mcwbridges:block/torch",
+		"1_1": "betterend:block/dragon_tree_log_side_2"
+	}
+}

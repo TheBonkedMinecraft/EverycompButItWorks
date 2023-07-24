@@ -1,0 +1,7 @@
+{
+	"parent": "mcwwindows:block/parent/support",
+	"textures": {
+		"1": "promenade:block/dark_amaranth_stem/top",
+		"particle": "promenade:block/dark_amaranth_stem/top"      
+	}
+}

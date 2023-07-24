@@ -1,0 +1,9 @@
+{
+	"parent": "twigs:block/template_table_inventory",
+	"textures": {
+		"side": "everycomp:block/tw/betterend/lacugrove_table",
+		"bottom": "everycomp:block/tw/betterend/lacugrove_table_bottom",
+		"top": "everycomp:block/tw/betterend/lacugrove_table_top",
+		"particle": "betterend:block/lacugrove_planks"
+	}
+}

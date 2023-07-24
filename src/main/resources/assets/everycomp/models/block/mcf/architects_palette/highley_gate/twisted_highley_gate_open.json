@@ -1,0 +1,8 @@
+{
+	"parent": "mcwfences:block/parent/highley_gate_open",
+	"textures": {
+		"2": "architects_palette:block/twisted_planks",
+		"particle": "architects_palette:block/twisted_planks",
+		"texture": "architects_palette:block/twisted_log"
+	}
+}

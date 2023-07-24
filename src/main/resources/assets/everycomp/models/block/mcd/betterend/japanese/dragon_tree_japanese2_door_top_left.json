@@ -1,0 +1,9 @@
+{
+    "parent": "mcwdoors:block/parent/japanese_top_left",
+    "textures": {
+		"0": "everycomp:block/mcd/betterend/dragon_tree_japanese_door_lower",
+		"2": "everycomp:block/mcd/betterend/japanese_dragon_tree_lower",
+		"1": "everycomp:block/mcd/betterend/dragon_tree_japanese_door_upper",
+		"particle": "everycomp:block/mcd/betterend/dragon_tree_japanese_door_lower"
+    }
+}

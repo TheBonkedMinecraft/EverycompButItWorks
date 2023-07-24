@@ -1,0 +1,8 @@
+{
+    "parent": "mcwdoors:block/parent/fixed/stable_top_open_rh",
+    "textures": {
+        "particle": "everycomp:block/mcd/betterend/tenanea_barn_door_lower",
+		"1": "everycomp:block/mcd/betterend/tenanea_barn_door_lower",
+		"bottom": "everycomp:block/mcd/betterend/stable_head/tenanea_stable_head_door_lower"
+    }
+}

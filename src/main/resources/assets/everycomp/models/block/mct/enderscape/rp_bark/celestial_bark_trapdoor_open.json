@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "mcwtrpdoors:block/parent/trapdoor_open",
+	"textures": {
+		"1": "enderscape:block/celestial_stem",
+		"2": "minecraft:block/glass",
+		"particle": "enderscape:block/celestial_stem"
+	}
+}

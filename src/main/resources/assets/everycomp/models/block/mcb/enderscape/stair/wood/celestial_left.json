@@ -1,0 +1,8 @@
+{
+	"parent": "mcwbridges:block/stair/wood/parent/left",
+	"textures": {
+		"2": "enderscape:block/celestial_planks",
+		"particle": "enderscape:block/celestial_stem",
+		"1_1": "enderscape:block/celestial_stem"
+	}
+}

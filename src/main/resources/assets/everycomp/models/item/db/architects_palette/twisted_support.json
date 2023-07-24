@@ -1,0 +1,11 @@
+{
+  "parent": "everycomp:block/db/architects_palette/twisted_support_inventory",
+  "overrides": [
+    {
+      "model": "everycomp:block/db/architects_palette/twisted_upside_down_support_inventory",
+      "predicate": {
+        "decorative_blocks:up": 1.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "mcwbridges:block/bridge/rope/parent/middle_r_t",
+	"textures": {
+		"0": "mcwbridges:block/lead_knot_vert",
+		"3": "charm:block/azalea_planks",
+		"4": "charm:block/azalea_log",
+		"5": "mcwbridges:block/torch",
+		"particle": "charm:block/azalea_planks",
+		"1_4": "mcwbridges:block/lead_knot"
+	}
+}

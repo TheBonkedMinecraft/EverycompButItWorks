@@ -1,0 +1,10 @@
+
+	
+{
+	"parent": "mcwfences:block/parent/wired_fence_post",
+	"textures": {
+		"1": "vinery:block/cherry_log_top",
+		"particle": "vinery:block/cherry_log_side",
+		"texture": "vinery:block/cherry_log_side"
+	}
+}

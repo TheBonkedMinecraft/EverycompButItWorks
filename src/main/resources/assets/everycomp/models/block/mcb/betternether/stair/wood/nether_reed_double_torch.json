@@ -1,0 +1,9 @@
+{
+	"parent": "mcwbridges:block/stair/wood/parent/double_torch",
+	"textures": {
+		"2": "betternether:block/nether_reed_planks_side",
+		"particle": "betternether:block/nether_reed_stem_side",
+		"4": "mcwbridges:block/torch",
+		"1_1": "betternether:block/nether_reed_stem_side"
+	}
+}

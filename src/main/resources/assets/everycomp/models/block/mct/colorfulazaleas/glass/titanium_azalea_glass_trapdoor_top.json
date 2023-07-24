@@ -1,0 +1,6 @@
+{
+    "parent": "mcwtrpdoors:block/parent/template_orientable_trapdoor_top",
+    "textures": {
+        "texture": "everycomp:block/mct/colorfulazaleas/glass/titanium_azalea_glass_trapdoor"
+    }
+}

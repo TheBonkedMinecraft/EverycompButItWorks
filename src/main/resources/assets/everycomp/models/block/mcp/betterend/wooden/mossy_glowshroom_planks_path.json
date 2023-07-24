@@ -1,0 +1,7 @@
+{
+  "parent": "mcwpaths:block/wooden",
+  "textures": {
+	"particle": "everycomp:block/mcp/betterend/mossy_glowshroom_planks_path",
+    "pavement": "everycomp:block/mcp/betterend/mossy_glowshroom_planks_path"
+  }
+}
