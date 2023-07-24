@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "everycompbutitworks",
+  "version": "${version}",
+  "name": "everycompbutitworks",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/BhavyaSingh2611/EverycompButItWorks"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/everycompbutitworks/icon.png",
+  "environment": "server",
+  "entrypoints": {
+    "client": [
+      "org.tbm.server.everycompbutitworks.client.EverycompbutitworksClient"
+    ],
+    "main": [
+      "org.tbm.server.everycompbutitworks.Everycompbutitworks"
+    ]
+  },
+  "mixins": [
+    "everycompbutitworks.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
