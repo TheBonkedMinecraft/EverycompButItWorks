@@ -22,7 +22,6 @@ public class ModBlocks {
     }
 
     public static void registerModBlocks() {
-        System.out.println("Hmmge");
         registerBlock("everycomp", "af/ecologics/flowering_azalea_planter_box", new PlanterBoxBlock(FabricBlockSettings.copyOf(Blocks.OAK_WOOD)));
     }
 }

@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "everycomp",
   "version": "${version}",
-  "name": "everycomp",
+  "name": "EverycompButItWorks",
   "description": "",
   "authors": [],
   "contact": {
@@ -10,13 +10,10 @@
   },
   "license": "All-Rights-Reserved",
   "icon": "assets/everycompbutitworks/icon.png",
-  "environment": "server",
+  "environment": "*",
   "entrypoints": {
-    "client": [
-      "org.tbm.server.everycompbutitworks.client.EverycompButItWorksClient"
-    ],
     "main": [
-      "org.tbm.server.everycompbutitworks.EverycompButItWorks"
+      "org.tbm.server.everycompbutitworks.EveryCompatWorking"
     ]
   },
   "mixins": [
