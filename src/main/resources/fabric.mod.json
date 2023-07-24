@@ -13,10 +13,10 @@
   "environment": "server",
   "entrypoints": {
     "client": [
-      "org.tbm.server.everycompbutitworks.client.EverycompbutitworksClient"
+      "org.tbm.server.everycompbutitworks.client.EverycompButItWorksClient"
     ],
     "main": [
-      "org.tbm.server.everycompbutitworks.Everycompbutitworks"
+      "org.tbm.server.everycompbutitworks.EverycompButItWorks"
     ]
   },
   "mixins": [

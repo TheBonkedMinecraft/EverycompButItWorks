@@ -1,4 +1,10 @@
 package org.tbm.server.everycompbutitworks;
 
-public class EverycompButItWorks {
+import net.fabricmc.api.ModInitializer;
+
+public class EverycompButItWorks implements ModInitializer {
+    @Override
+    public void onInitialize() {
+
+    }
 }
