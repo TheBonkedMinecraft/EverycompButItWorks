@@ -9,7 +9,7 @@
     "repo": "https://github.com/BhavyaSingh2611/EverycompButItWorks"
   },
   "license": "All-Rights-Reserved",
-  "icon": "assets/everycompbutitworks/icon.png",
+  "icon": "assets/everycomp/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
