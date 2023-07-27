@@ -1,0 +1,19 @@
+{
+      "type": "minecraft:block",
+      "pools": [
+          {
+              "rolls": 1,
+              "entries": [
+                  {
+                      "type": "minecraft:item",
+                      "name": "everycomp:mcr/byg/cherry_planks_upper_steep_roof"
+                  }
+              ],
+              "conditions": [
+                  {
+                      "condition": "minecraft:survives_explosion"
+                  }
+              ]
+          }
+      ]
+  }

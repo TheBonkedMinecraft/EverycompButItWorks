@@ -26,6 +26,12 @@ dependencies {
     modImplementation(files("lib/mcw-doors-1.1.0fabric-mc1.19.2.jar"))
     modImplementation(files("lib/mcw-lights-1.0.6-mc1.19.2fabric.jar"))
     modImplementation(files("lib/mcw-paths-1.0.3fabric-mc1.19.2.jar"))
+    modImplementation(files("lib/mcw-roofs-2.2.4-mc1.19.2fabric.jar"))
+    modImplementation(files("lib/mcw-trapdoors-1.1.1-mc1.19.2fabric.jar"))
+    modImplementation(files("lib/mcw-windows-2.1.2-mc1.19.2fabric.jar"))
+    modImplementation(files("lib/another_furniture-fabric-2.1.2-1.19.2.jar"))
+    modImplementation(files("lib/architects-palette-fabric-3.0.0.jar"))
+    modImplementation(files("lib/Decorative+Blocks-fabric-1.19.2-3.0.0.jar"))
     }
 
 processResources {
