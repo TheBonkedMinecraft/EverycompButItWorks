@@ -1,0 +1,19 @@
+{
+      "type": "minecraft:block",
+      "pools": [
+          {
+              "rolls": 1,
+              "entries": [
+                  {
+                      "type": "minecraft:item",
+                      "name": "everycomp:mcl/byg/soul_white_mangrove_tiki_torch"
+                  }
+              ],
+              "conditions": [
+                  {
+                      "condition": "minecraft:survives_explosion"
+                  }
+              ]
+          }
+      ]
+  }
