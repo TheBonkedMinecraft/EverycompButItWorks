@@ -1,0 +1,39 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "everycomp:mcb/blockus/legacy_rope_bridge_stair"
+    ]
+  },
+  "criteria": {
+    "has_planks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": null,
+        "items": [
+          {
+            "items": [
+              "blockus:legacy_planks"
+            ],
+            "count": null,
+            "durability": null,
+            "nbt": null
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "player": null,
+        "recipe": "everycomp:mcb/blockus/legacy_rope_bridge_stair"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_planks",
+      "has_the_recipe"
+    ]
+  ]
+}

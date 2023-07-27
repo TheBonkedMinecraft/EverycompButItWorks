@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pyramid",
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "vinery:cherry_log"
+    },
+    "C": {
+      "item": "vinery:cherry_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/vinery/cherry_pyramid_gate"
+  }
+}

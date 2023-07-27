@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "everycomp:ap/betternether/nether_mushroom_boards"
+    }
+  },
+  "result": {
+    "item": "everycomp:ap/betternether/nether_mushroom_board_slab",
+    "count": 6
+  }
+}

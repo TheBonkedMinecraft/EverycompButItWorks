@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_palisades",
+  "pattern": [
+    "xx "
+  ],
+  "key": {
+    "x": {
+      "item": "betternether:nether_mushroom_stem"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/betternether/nether_mushroom_palisade",
+    "count": 6
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "blockus:white_oak_slab"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcp/blockus/white_oak_planks_path",
+    "count": 3
+  }
+}

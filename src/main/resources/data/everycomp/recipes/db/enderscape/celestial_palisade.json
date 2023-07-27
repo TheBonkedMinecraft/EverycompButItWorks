@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_palisades",
+  "pattern": [
+    "xx "
+  ],
+  "key": {
+    "x": {
+      "item": "enderscape:celestial_stem"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/enderscape/celestial_palisade",
+    "count": 6
+  }
+}

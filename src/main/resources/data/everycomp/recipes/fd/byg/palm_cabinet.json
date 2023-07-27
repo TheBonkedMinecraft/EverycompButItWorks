@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "byg:palm_trapdoor"
+    },
+    "_": {
+      "item": "byg:palm_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/byg/palm_cabinet"
+  }
+}

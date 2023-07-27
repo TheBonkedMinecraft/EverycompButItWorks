@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_piers",
+  "pattern": [
+    "WFW"
+  ],
+  "key": {
+    "F": {
+      "item": "vinery:cherry_fence"
+    },
+    "W": {
+      "item": "vinery:cherry_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcb/vinery/cherry_bridge_pier",
+    "count": 3
+  }
+}

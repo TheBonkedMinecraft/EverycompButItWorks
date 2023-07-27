@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_palisades",
+  "pattern": [
+    "xx "
+  ],
+  "key": {
+    "x": {
+      "item": "betternether:mushroom_fir_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/betternether/mushroom_fir_palisade",
+    "count": 6
+  }
+}

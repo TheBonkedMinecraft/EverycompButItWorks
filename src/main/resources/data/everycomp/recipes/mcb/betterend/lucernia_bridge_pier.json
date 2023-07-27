@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_piers",
+  "pattern": [
+    "WFW"
+  ],
+  "key": {
+    "F": {
+      "item": "betterend:lucernia_fence"
+    },
+    "W": {
+      "item": "betterend:lucernia_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcb/betterend/lucernia_bridge_pier",
+    "count": 3
+  }
+}

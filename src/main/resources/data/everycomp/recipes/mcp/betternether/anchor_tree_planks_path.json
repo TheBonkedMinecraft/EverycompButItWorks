@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "betternether:anchor_tree_slab"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcp/betternether/anchor_tree_planks_path",
+    "count": 3
+  }
+}

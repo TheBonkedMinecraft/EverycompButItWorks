@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "enderscape:celestial_trapdoor"
+    },
+    "_": {
+      "item": "enderscape:celestial_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/enderscape/celestial_cabinet"
+  }
+}

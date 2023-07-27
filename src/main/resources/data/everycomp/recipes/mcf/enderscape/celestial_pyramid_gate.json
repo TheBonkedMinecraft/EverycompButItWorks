@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pyramid",
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "enderscape:celestial_stem"
+    },
+    "C": {
+      "item": "enderscape:celestial_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/enderscape/celestial_pyramid_gate"
+  }
+}

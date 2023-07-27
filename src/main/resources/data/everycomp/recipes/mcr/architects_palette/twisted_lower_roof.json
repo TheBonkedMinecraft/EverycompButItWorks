@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "lower",
+  "pattern": [
+    " WW",
+    "WWS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "architects_palette:twisted_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/architects_palette/twisted_lower_roof",
+    "count": 4
+  }
+}

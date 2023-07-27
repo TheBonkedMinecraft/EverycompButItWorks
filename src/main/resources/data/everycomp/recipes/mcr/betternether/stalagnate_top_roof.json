@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "top",
+  "pattern": [
+    "WSW"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "betternether:stalagnate_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/betternether/stalagnate_top_roof",
+    "count": 2
+  }
+}

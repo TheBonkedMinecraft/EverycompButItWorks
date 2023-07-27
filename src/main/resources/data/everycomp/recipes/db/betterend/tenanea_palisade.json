@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_palisades",
+  "pattern": [
+    "xx "
+  ],
+  "key": {
+    "x": {
+      "item": "betterend:tenanea_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/betterend/tenanea_palisade",
+    "count": 6
+  }
+}

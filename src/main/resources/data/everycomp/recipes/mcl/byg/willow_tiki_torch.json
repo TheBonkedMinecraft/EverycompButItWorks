@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tiki",
+  "pattern": [
+    "N",
+    "I"
+  ],
+  "key": {
+    "I": {
+      "item": "byg:willow_fence"
+    },
+    "N": {
+      "item": "minecraft:torch"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcl/byg/willow_tiki_torch"
+  }
+}

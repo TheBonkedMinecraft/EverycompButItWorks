@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bark",
+  "pattern": [
+    "AB",
+    "BB",
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "charm:azalea_log"
+    },
+    "B": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/charm/azalea_bark_glass_door",
+    "count": 3
+  }
+}

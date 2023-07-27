@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "support",
+  "pattern": [
+    "xx ",
+    "x  "
+  ],
+  "key": {
+    "x": {
+      "item": "betternether:wart_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/betternether/wart_support",
+    "count": 3
+  }
+}

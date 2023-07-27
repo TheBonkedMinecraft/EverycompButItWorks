@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pyramid",
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "byg:palm_log"
+    },
+    "C": {
+      "item": "byg:palm_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/byg/palm_pyramid_gate"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tiki",
+  "pattern": [
+    "N",
+    "I"
+  ],
+  "key": {
+    "I": {
+      "item": "promenade:palm_fence"
+    },
+    "N": {
+      "item": "minecraft:torch"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcl/promenade/palm_tiki_torch"
+  }
+}

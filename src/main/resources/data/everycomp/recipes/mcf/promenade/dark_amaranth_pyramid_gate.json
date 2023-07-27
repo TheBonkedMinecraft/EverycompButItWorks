@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pyramid",
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "promenade:dark_amaranth_stem"
+    },
+    "C": {
+      "item": "promenade:dark_amaranth_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/promenade/dark_amaranth_pyramid_gate"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "promenade:cherry_oak_slab"
+    },
+    "O": {
+      "item": "promenade:cherry_oak_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/promenade/cherry_oak_table"
+  }
+}

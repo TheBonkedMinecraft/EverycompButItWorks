@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "charm:azalea_slab"
+    },
+    "O": {
+      "item": "charm:azalea_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/charm/azalea_table"
+  }
+}

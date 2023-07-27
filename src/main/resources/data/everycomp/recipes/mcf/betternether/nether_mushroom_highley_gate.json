@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "highley",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "betternether:nether_mushroom_stem"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/betternether/nether_mushroom_highley_gate"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rope_stairs",
+  "pattern": [
+    "  F",
+    " FF",
+    "FFF"
+  ],
+  "key": {
+    "F": {
+      "item": "everycomp:mcb/byg/rope_nightshade_bridge"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcb/byg/nightshade_rope_bridge_stair",
+    "count": 6
+  }
+}

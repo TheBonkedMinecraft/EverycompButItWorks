@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_palisades",
+  "pattern": [
+    "xx "
+  ],
+  "key": {
+    "x": {
+      "item": "betternether:wart_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/betternether/wart_palisade",
+    "count": 6
+  }
+}

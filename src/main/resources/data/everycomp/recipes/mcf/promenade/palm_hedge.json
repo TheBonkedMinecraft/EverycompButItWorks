@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hedge",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "promenade:palm_leaves"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/promenade/palm_hedge",
+    "count": 4
+  }
+}

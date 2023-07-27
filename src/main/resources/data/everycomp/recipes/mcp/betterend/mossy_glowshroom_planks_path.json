@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "betterend:mossy_glowshroom_slab"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcp/betterend/mossy_glowshroom_planks_path",
+    "count": 3
+  }
+}

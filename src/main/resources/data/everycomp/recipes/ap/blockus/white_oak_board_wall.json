@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "everycomp:ap/blockus/white_oak_boards"
+    }
+  },
+  "result": {
+    "item": "everycomp:ap/blockus/white_oak_board_wall",
+    "count": 6
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "everycomp:ap/enderscape/celestial_boards"
+    }
+  },
+  "result": {
+    "item": "everycomp:ap/enderscape/celestial_board_wall",
+    "count": 6
+  }
+}

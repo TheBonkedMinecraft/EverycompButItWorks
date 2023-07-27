@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_piers",
+  "pattern": [
+    "WFW"
+  ],
+  "key": {
+    "F": {
+      "item": "enderscape:celestial_fence"
+    },
+    "W": {
+      "item": "enderscape:celestial_stem"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcb/enderscape/celestial_bridge_pier",
+    "count": 3
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shoji_two",
+  "pattern": [
+    "BB",
+    "BB",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "colorfulazaleas:roze_azalea_slab"
+    },
+    "B": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/colorfulazaleas/roze_azalea_japanese2_door",
+    "count": 3
+  }
+}

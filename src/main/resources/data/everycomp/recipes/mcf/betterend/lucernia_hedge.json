@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hedge",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "betterend:lucernia_leaves"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/betterend/lucernia_hedge",
+    "count": 4
+  }
+}

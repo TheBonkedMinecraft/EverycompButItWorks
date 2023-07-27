@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "byg:aspen_trapdoor"
+    },
+    "_": {
+      "item": "byg:aspen_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/byg/aspen_cabinet"
+  }
+}

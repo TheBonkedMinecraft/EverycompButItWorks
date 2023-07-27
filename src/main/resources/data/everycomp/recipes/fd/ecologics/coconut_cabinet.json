@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "ecologics:coconut_trapdoor"
+    },
+    "_": {
+      "item": "ecologics:coconut_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/ecologics/coconut_cabinet"
+  }
+}

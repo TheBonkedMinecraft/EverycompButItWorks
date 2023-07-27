@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "boards",
+  "pattern": [
+    "#|#"
+  ],
+  "key": {
+    "#": {
+      "item": "colorfulazaleas:titanium_azalea_planks"
+    },
+    "|": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:ap/colorfulazaleas/titanium_azalea_railing",
+    "count": 9
+  }
+}

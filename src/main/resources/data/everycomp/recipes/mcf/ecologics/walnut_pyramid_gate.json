@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pyramid",
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "ecologics:walnut_log"
+    },
+    "C": {
+      "item": "ecologics:walnut_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/ecologics/walnut_pyramid_gate"
+  }
+}

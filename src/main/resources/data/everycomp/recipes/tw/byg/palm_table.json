@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "byg:palm_slab"
+    },
+    "O": {
+      "item": "byg:palm_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/byg/palm_table"
+  }
+}

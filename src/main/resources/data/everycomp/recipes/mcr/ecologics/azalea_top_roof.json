@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "top",
+  "pattern": [
+    "WSW"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "ecologics:azalea_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/ecologics/azalea_top_roof",
+    "count": 2
+  }
+}

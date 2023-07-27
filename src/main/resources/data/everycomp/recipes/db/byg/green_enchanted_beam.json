@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_beams",
+  "pattern": [
+    " x ",
+    " x "
+  ],
+  "key": {
+    "x": {
+      "item": "byg:stripped_green_enchanted_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/byg/green_enchanted_beam",
+    "count": 2
+  }
+}

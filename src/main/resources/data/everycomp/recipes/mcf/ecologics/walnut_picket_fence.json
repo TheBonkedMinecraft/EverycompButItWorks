@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "picket",
+  "pattern": [
+    "CBC",
+    "CAC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "ecologics:walnut_planks"
+    },
+    "C": {
+      "item": "ecologics:walnut_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/ecologics/walnut_picket_fence",
+    "count": 3
+  }
+}

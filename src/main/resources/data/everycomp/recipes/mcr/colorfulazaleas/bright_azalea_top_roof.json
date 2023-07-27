@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "top",
+  "pattern": [
+    "WSW"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "colorfulazaleas:bright_azalea_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/colorfulazaleas/bright_azalea_top_roof",
+    "count": 2
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tiki",
+  "pattern": [
+    "N",
+    "I"
+  ],
+  "key": {
+    "I": {
+      "item": "betternether:nether_mushroom_fence"
+    },
+    "N": {
+      "item": "minecraft:torch"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcl/betternether/nether_mushroom_tiki_torch"
+  }
+}

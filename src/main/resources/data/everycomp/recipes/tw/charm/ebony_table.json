@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "charm:ebony_slab"
+    },
+    "O": {
+      "item": "charm:ebony_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/charm/ebony_table"
+  }
+}

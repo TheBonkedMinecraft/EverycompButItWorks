@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "windows",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "mcwwindows:window_base"
+    },
+    "B": {
+      "item": "architects_palette:stripped_twisted_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcw/architects_palette/stripped_twisted_log_window",
+    "count": 8
+  }
+}

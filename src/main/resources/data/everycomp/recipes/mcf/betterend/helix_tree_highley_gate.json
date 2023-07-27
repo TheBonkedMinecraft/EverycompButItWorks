@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "highley",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "betterend:helix_tree_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/betterend/helix_tree_highley_gate"
+  }
+}

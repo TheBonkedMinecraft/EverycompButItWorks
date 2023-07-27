@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_beams",
+  "pattern": [
+    " x ",
+    " x "
+  ],
+  "key": {
+    "x": {
+      "item": "betternether:mushroom_fir_stripped_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/betternether/mushroom_fir_beam",
+    "count": 2
+  }
+}

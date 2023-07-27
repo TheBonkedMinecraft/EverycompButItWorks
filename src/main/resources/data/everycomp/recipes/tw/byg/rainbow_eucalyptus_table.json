@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "byg:rainbow_eucalyptus_slab"
+    },
+    "O": {
+      "item": "byg:rainbow_eucalyptus_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/byg/rainbow_eucalyptus_table"
+  }
+}

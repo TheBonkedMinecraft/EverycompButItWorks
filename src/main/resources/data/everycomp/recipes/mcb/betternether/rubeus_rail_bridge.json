@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rail_bridges",
+  "pattern": [
+    "F F",
+    "FWF"
+  ],
+  "key": {
+    "F": {
+      "item": "betternether:rubeus_fence"
+    },
+    "W": {
+      "item": "betternether:rubeus_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcb/betternether/rubeus_rail_bridge",
+    "count": 4
+  }
+}

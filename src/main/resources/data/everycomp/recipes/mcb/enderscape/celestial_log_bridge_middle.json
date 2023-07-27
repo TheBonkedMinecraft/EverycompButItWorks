@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "log_bridges",
+  "pattern": [
+    "F F",
+    "WWW"
+  ],
+  "key": {
+    "F": {
+      "item": "enderscape:celestial_fence"
+    },
+    "W": {
+      "item": "enderscape:celestial_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcb/enderscape/celestial_log_bridge_middle",
+    "count": 4
+  }
+}

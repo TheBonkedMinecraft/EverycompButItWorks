@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "byg:imparius_trapdoor"
+    },
+    "_": {
+      "item": "byg:imparius_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/byg/imparius_cabinet"
+  }
+}

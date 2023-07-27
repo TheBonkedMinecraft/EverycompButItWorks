@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "byg:pine_trapdoor"
+    },
+    "_": {
+      "item": "byg:pine_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/byg/pine_cabinet"
+  }
+}

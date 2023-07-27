@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pyramid",
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "betterend:dragon_tree_log"
+    },
+    "C": {
+      "item": "betterend:dragon_tree_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/betterend/dragon_tree_pyramid_gate"
+  }
+}

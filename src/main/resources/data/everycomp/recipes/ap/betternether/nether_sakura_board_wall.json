@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "everycomp:ap/betternether/nether_sakura_boards"
+    }
+  },
+  "result": {
+    "item": "everycomp:ap/betternether/nether_sakura_board_wall",
+    "count": 6
+  }
+}

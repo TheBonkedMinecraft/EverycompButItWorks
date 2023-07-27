@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "windows",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "mcwwindows:window_base"
+    },
+    "B": {
+      "item": "betternether:wart_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcw/betternether/wart_plank_window",
+    "count": 8
+  }
+}

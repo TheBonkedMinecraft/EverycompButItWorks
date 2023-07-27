@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "vinery:cherry_trapdoor"
+    },
+    "_": {
+      "item": "vinery:cherry_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/vinery/cherry_cabinet"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hedge",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "promenade:autumn_oak_leaves"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/promenade/autumn_oak_hedge",
+    "count": 4
+  }
+}

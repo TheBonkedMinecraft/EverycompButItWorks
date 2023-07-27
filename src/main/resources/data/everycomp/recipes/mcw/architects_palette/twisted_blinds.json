@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "blinds",
+  "pattern": [
+    "AAA",
+    "BBB",
+    "BBB"
+  ],
+  "key": {
+    "A": {
+      "item": "architects_palette:twisted_slab"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcw/architects_palette/twisted_blinds",
+    "count": 3
+  }
+}

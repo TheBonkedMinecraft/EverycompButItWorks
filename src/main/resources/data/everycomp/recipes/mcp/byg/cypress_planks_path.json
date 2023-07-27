@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "byg:cypress_slab"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcp/byg/cypress_planks_path",
+    "count": 3
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "boards",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "vinery:cherry_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:ap/vinery/cherry_boards",
+    "count": 9
+  }
+}

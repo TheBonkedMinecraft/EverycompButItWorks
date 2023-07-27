@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "byg:skyris_slab"
+    },
+    "O": {
+      "item": "byg:skyris_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/byg/skyris_table"
+  }
+}

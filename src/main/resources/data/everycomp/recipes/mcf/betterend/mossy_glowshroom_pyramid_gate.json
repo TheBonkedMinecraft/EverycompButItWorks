@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pyramid",
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "betterend:mossy_glowshroom_log"
+    },
+    "C": {
+      "item": "betterend:mossy_glowshroom_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/betterend/mossy_glowshroom_pyramid_gate"
+  }
+}

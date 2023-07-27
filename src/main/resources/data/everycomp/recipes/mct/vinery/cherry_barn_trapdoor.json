@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "barn_trapdoors",
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "key": {
+    "A": {
+      "item": "vinery:cherry_planks"
+    },
+    "B": {
+      "item": "everycomp:mct/vinery/cherry_glass_trapdoor"
+    }
+  },
+  "result": {
+    "item": "everycomp:mct/vinery/cherry_barn_trapdoor"
+  }
+}

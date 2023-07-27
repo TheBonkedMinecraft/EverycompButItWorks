@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "soul_tiki",
+  "pattern": [
+    "N",
+    "I"
+  ],
+  "key": {
+    "I": {
+      "item": "architects_palette:twisted_fence"
+    },
+    "N": {
+      "item": "minecraft:soul_torch"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcl/architects_palette/soul_twisted_tiki_torch"
+  }
+}

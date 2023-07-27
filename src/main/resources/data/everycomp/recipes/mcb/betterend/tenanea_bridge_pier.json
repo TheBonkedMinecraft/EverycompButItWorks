@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_piers",
+  "pattern": [
+    "WFW"
+  ],
+  "key": {
+    "F": {
+      "item": "betterend:tenanea_fence"
+    },
+    "W": {
+      "item": "betterend:tenanea_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcb/betterend/tenanea_bridge_pier",
+    "count": 3
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "betternether:willow_trapdoor"
+    },
+    "_": {
+      "item": "betternether:willow_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/betternether/willow_cabinet"
+  }
+}

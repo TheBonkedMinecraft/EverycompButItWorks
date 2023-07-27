@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "picket",
+  "pattern": [
+    "CBC",
+    "CAC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "betternether:mushroom_fir_planks"
+    },
+    "C": {
+      "item": "betternether:mushroom_fir_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/betternether/mushroom_fir_picket_fence",
+    "count": 3
+  }
+}

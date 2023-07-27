@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tiki",
+  "pattern": [
+    "N",
+    "I"
+  ],
+  "key": {
+    "I": {
+      "item": "byg:witch_hazel_fence"
+    },
+    "N": {
+      "item": "minecraft:torch"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcl/byg/witch_hazel_tiki_torch"
+  }
+}

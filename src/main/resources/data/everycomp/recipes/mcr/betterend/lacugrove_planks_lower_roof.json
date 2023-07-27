@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "lower",
+  "pattern": [
+    " WW",
+    "WWS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "betterend:lacugrove_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/betterend/lacugrove_planks_lower_roof",
+    "count": 4
+  }
+}

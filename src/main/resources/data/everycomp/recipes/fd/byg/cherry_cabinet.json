@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "byg:cherry_trapdoor"
+    },
+    "_": {
+      "item": "byg:cherry_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/byg/cherry_cabinet"
+  }
+}

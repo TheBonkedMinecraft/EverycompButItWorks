@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wired",
+  "pattern": [
+    "ACA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "ecologics:walnut_log"
+    },
+    "C": {
+      "item": "minecraft:iron_bars"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/ecologics/walnut_wired_fence",
+    "count": 3
+  }
+}

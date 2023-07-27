@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hedge",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "colorfulazaleas:red_blooming_azalea_leaves"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/colorfulazaleas/red_blooming_azalea_hedge",
+    "count": 4
+  }
+}

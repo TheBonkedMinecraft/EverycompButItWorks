@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_palisades",
+  "pattern": [
+    "xx "
+  ],
+  "key": {
+    "x": {
+      "item": "byg:holly_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/byg/holly_palisade",
+    "count": 6
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "everycomp:ap/ecologics/walnut_boards"
+    }
+  },
+  "result": {
+    "item": "everycomp:ap/ecologics/walnut_board_slab",
+    "count": 6
+  }
+}

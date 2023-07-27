@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_seats",
+  "pattern": [
+    "x  ",
+    "y  "
+  ],
+  "key": {
+    "x": {
+      "item": "promenade:palm_slab"
+    },
+    "y": {
+      "item": "promenade:palm_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/promenade/palm_seat",
+    "count": 2
+  }
+}

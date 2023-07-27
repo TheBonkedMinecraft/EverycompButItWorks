@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "byg:cypress_slab"
+    },
+    "O": {
+      "item": "byg:cypress_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/byg/cypress_table"
+  }
+}

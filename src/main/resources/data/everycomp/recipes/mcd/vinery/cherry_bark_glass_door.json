@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bark",
+  "pattern": [
+    "AB",
+    "BB",
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "vinery:cherry_log"
+    },
+    "B": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/vinery/cherry_bark_glass_door",
+    "count": 3
+  }
+}

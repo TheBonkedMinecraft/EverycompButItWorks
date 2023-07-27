@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_seats",
+  "pattern": [
+    "x  ",
+    "y  "
+  ],
+  "key": {
+    "x": {
+      "item": "byg:witch_hazel_slab"
+    },
+    "y": {
+      "item": "byg:witch_hazel_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/byg/witch_hazel_seat",
+    "count": 2
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "x  ",
+    "xx ",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "everycomp:ap/promenade/cherry_oak_boards"
+    }
+  },
+  "result": {
+    "item": "everycomp:ap/promenade/cherry_oak_board_stairs",
+    "count": 4
+  }
+}

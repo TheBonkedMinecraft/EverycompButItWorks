@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tiki",
+  "pattern": [
+    "N",
+    "I"
+  ],
+  "key": {
+    "I": {
+      "item": "charm:azalea_fence"
+    },
+    "N": {
+      "item": "minecraft:torch"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcl/charm/azalea_tiki_torch"
+  }
+}

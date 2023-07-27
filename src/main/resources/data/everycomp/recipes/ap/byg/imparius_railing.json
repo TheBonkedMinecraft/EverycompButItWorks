@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "boards",
+  "pattern": [
+    "#|#"
+  ],
+  "key": {
+    "#": {
+      "item": "byg:imparius_planks"
+    },
+    "|": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:ap/byg/imparius_railing",
+    "count": 9
+  }
+}

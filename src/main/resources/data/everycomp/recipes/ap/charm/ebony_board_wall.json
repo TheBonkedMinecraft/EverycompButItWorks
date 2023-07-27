@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "everycomp:ap/charm/ebony_boards"
+    }
+  },
+  "result": {
+    "item": "everycomp:ap/charm/ebony_board_wall",
+    "count": 6
+  }
+}

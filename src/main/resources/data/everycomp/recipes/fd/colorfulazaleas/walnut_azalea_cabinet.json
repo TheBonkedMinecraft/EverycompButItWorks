@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "colorfulazaleas:walnut_azalea_trapdoor"
+    },
+    "_": {
+      "item": "colorfulazaleas:walnut_azalea_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/colorfulazaleas/walnut_azalea_cabinet"
+  }
+}

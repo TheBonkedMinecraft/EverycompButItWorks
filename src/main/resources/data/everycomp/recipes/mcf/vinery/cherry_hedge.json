@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hedge",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "vinery:cherry_leaves"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/vinery/cherry_hedge",
+    "count": 4
+  }
+}

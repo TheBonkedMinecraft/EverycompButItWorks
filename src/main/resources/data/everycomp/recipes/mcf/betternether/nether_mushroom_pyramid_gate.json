@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pyramid",
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "betternether:nether_mushroom_stem"
+    },
+    "C": {
+      "item": "betternether:nether_mushroom_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/betternether/nether_mushroom_pyramid_gate"
+  }
+}

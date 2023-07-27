@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_piers",
+  "pattern": [
+    "WFW"
+  ],
+  "key": {
+    "F": {
+      "item": "betterend:lacugrove_fence"
+    },
+    "W": {
+      "item": "betterend:lacugrove_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcb/betterend/lacugrove_bridge_pier",
+    "count": 3
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "highley",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "promenade:dark_amaranth_stem"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/promenade/dark_amaranth_highley_gate"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "boards",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "promenade:palm_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:ap/promenade/palm_boards",
+    "count": 9
+  }
+}

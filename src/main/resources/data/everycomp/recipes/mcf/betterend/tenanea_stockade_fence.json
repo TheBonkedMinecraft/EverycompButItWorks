@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stockade",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "betterend:tenanea_log"
+    },
+    "B": {
+      "item": "betterend:tenanea_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/betterend/tenanea_stockade_fence",
+    "count": 3
+  }
+}

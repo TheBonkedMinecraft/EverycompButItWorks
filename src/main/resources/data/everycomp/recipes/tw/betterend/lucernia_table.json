@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "betterend:lucernia_slab"
+    },
+    "O": {
+      "item": "betterend:lucernia_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/betterend/lucernia_table"
+  }
+}

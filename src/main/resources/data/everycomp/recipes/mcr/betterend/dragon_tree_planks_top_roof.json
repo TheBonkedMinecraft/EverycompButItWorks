@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "top",
+  "pattern": [
+    "WSW"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "betterend:dragon_tree_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/betterend/dragon_tree_planks_top_roof",
+    "count": 2
+  }
+}

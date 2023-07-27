@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "betterend:lucernia_slab"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcp/betterend/lucernia_planks_path",
+    "count": 3
+  }
+}

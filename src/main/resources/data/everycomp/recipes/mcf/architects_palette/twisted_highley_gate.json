@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "highley",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "architects_palette:twisted_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/architects_palette/twisted_highley_gate"
+  }
+}

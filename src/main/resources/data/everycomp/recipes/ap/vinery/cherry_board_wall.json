@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "everycomp:ap/vinery/cherry_boards"
+    }
+  },
+  "result": {
+    "item": "everycomp:ap/vinery/cherry_board_wall",
+    "count": 6
+  }
+}

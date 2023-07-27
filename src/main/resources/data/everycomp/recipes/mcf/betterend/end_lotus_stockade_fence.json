@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stockade",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "betterend:end_lotus_log"
+    },
+    "B": {
+      "item": "betterend:end_lotus_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/betterend/end_lotus_stockade_fence",
+    "count": 3
+  }
+}

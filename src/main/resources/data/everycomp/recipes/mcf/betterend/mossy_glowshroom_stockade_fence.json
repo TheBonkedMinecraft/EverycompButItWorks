@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stockade",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "betterend:mossy_glowshroom_log"
+    },
+    "B": {
+      "item": "betterend:mossy_glowshroom_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/betterend/mossy_glowshroom_stockade_fence",
+    "count": 3
+  }
+}

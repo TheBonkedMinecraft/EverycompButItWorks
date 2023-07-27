@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_palisades",
+  "pattern": [
+    "xx "
+  ],
+  "key": {
+    "x": {
+      "item": "betternether:rubeus_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/betternether/rubeus_palisade",
+    "count": 6
+  }
+}

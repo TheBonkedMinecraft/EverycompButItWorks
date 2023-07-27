@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "highley",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "betterend:lacugrove_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/betterend/lacugrove_highley_gate"
+  }
+}

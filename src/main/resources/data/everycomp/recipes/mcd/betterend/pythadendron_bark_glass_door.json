@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bark",
+  "pattern": [
+    "AB",
+    "BB",
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "betterend:pythadendron_log"
+    },
+    "B": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/betterend/pythadendron_bark_glass_door",
+    "count": 3
+  }
+}

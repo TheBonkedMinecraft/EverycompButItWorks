@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tropical",
+  "pattern": [
+    "A",
+    "B",
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "byg:lament_planks"
+    },
+    "B": {
+      "item": "mcwdoors:print_acacia"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/byg/lament_tropical_door"
+  }
+}

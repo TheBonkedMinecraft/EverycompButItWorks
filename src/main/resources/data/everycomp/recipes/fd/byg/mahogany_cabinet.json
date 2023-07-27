@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "byg:mahogany_trapdoor"
+    },
+    "_": {
+      "item": "byg:mahogany_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/byg/mahogany_cabinet"
+  }
+}

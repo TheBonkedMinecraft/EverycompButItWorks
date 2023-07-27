@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_seats",
+  "pattern": [
+    "x  ",
+    "y  "
+  ],
+  "key": {
+    "x": {
+      "item": "betterend:end_lotus_slab"
+    },
+    "y": {
+      "item": "betterend:end_lotus_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/betterend/end_lotus_seat",
+    "count": 2
+  }
+}

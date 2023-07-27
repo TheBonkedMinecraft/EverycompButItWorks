@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "western",
+  "pattern": [
+    "  A",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "betterend:lucernia_planks"
+    },
+    "B": {
+      "item": "betterend:lucernia_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/betterend/lucernia_western_door",
+    "count": 3
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "byg:willow_slab"
+    },
+    "O": {
+      "item": "byg:willow_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/byg/willow_table"
+  }
+}

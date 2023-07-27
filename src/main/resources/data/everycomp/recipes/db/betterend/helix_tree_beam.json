@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_beams",
+  "pattern": [
+    " x ",
+    " x "
+  ],
+  "key": {
+    "x": {
+      "item": "betterend:helix_tree_stripped_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/betterend/helix_tree_beam",
+    "count": 2
+  }
+}

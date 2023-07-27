@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "betterend:dragon_tree_slab"
+    },
+    "O": {
+      "item": "betterend:dragon_tree_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/betterend/dragon_tree_table"
+  }
+}

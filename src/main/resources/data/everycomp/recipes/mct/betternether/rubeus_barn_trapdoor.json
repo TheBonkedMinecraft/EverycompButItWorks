@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "barn_trapdoors",
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "key": {
+    "A": {
+      "item": "betternether:rubeus_planks"
+    },
+    "B": {
+      "item": "everycomp:mct/betternether/rubeus_glass_trapdoor"
+    }
+  },
+  "result": {
+    "item": "everycomp:mct/betternether/rubeus_barn_trapdoor"
+  }
+}

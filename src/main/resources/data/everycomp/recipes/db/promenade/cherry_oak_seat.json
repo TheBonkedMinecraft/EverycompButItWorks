@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_seats",
+  "pattern": [
+    "x  ",
+    "y  "
+  ],
+  "key": {
+    "x": {
+      "item": "promenade:cherry_oak_slab"
+    },
+    "y": {
+      "item": "promenade:cherry_oak_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/promenade/cherry_oak_seat",
+    "count": 2
+  }
+}

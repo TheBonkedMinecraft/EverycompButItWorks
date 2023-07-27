@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pyramid",
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "charm:ebony_log"
+    },
+    "C": {
+      "item": "charm:ebony_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/charm/ebony_pyramid_gate"
+  }
+}

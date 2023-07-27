@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "beach_trapdoors",
+  "pattern": [
+    "A",
+    "B",
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "colorfulazaleas:fiss_azalea_planks"
+    },
+    "B": {
+      "item": "mcwtrpdoors:print_beach"
+    }
+  },
+  "result": {
+    "item": "everycomp:mct/colorfulazaleas/fiss_azalea_beach_trapdoor"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "byg:fir_slab"
+    },
+    "O": {
+      "item": "byg:fir_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/byg/fir_table"
+  }
+}

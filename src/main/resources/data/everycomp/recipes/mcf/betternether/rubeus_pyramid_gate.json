@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pyramid",
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "betternether:rubeus_log"
+    },
+    "C": {
+      "item": "betternether:rubeus_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/betternether/rubeus_pyramid_gate"
+  }
+}

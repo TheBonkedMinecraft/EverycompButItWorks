@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "western",
+  "pattern": [
+    "  A",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "byg:green_enchanted_planks"
+    },
+    "B": {
+      "item": "byg:green_enchanted_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/byg/green_enchanted_western_door",
+    "count": 3
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "western",
+  "pattern": [
+    "  A",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "ecologics:walnut_planks"
+    },
+    "B": {
+      "item": "ecologics:walnut_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/ecologics/walnut_western_door",
+    "count": 3
+  }
+}

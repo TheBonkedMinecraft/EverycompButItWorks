@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pyramid",
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "ecologics:flowering_azalea_log"
+    },
+    "C": {
+      "item": "ecologics:flowering_azalea_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/ecologics/flowering_azalea_pyramid_gate"
+  }
+}

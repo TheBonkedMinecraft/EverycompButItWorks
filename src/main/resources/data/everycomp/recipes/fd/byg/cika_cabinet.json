@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "byg:cika_trapdoor"
+    },
+    "_": {
+      "item": "byg:cika_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/byg/cika_cabinet"
+  }
+}

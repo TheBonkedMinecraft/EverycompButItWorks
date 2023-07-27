@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_beams",
+  "pattern": [
+    " x ",
+    " x "
+  ],
+  "key": {
+    "x": {
+      "item": "blockus:stripped_white_oak_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/blockus/white_oak_beam",
+    "count": 2
+  }
+}

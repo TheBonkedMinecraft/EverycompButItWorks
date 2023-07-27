@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "betterend:end_lotus_slab"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcp/betterend/end_lotus_planks_path",
+    "count": 3
+  }
+}

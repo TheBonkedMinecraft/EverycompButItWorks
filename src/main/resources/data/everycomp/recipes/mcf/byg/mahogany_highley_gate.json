@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "highley",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "byg:mahogany_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/byg/mahogany_highley_gate"
+  }
+}

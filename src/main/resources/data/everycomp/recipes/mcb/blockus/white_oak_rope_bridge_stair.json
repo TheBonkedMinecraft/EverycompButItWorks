@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rope_stairs",
+  "pattern": [
+    "  F",
+    " FF",
+    "FFF"
+  ],
+  "key": {
+    "F": {
+      "item": "everycomp:mcb/blockus/rope_white_oak_bridge"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcb/blockus/white_oak_rope_bridge_stair",
+    "count": 6
+  }
+}

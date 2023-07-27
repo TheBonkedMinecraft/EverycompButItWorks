@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shoji_two",
+  "pattern": [
+    "BB",
+    "BB",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "byg:rainbow_eucalyptus_slab"
+    },
+    "B": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/byg/rainbow_eucalyptus_japanese2_door",
+    "count": 3
+  }
+}

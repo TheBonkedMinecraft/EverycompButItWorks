@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "barn_trapdoors",
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "key": {
+    "A": {
+      "item": "byg:cika_planks"
+    },
+    "B": {
+      "item": "everycomp:mct/byg/cika_glass_trapdoor"
+    }
+  },
+  "result": {
+    "item": "everycomp:mct/byg/cika_barn_trapdoor"
+  }
+}

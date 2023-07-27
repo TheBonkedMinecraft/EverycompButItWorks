@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "architects_palette:twisted_slab"
+    },
+    "O": {
+      "item": "architects_palette:twisted_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/architects_palette/twisted_table"
+  }
+}

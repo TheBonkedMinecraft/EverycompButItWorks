@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shoji_two",
+  "pattern": [
+    "BB",
+    "BB",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "betternether:wart_slab"
+    },
+    "B": {
+      "item": "minecraft:paper"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/betternether/wart_japanese2_door",
+    "count": 3
+  }
+}

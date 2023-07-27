@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pyramid",
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "blockus:white_oak_log"
+    },
+    "C": {
+      "item": "blockus:white_oak_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/blockus/white_oak_pyramid_gate"
+  }
+}

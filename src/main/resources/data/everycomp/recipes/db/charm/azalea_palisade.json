@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_palisades",
+  "pattern": [
+    "xx "
+  ],
+  "key": {
+    "x": {
+      "item": "charm:azalea_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/charm/azalea_palisade",
+    "count": 6
+  }
+}

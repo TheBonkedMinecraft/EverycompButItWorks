@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_piers",
+  "pattern": [
+    "WFW"
+  ],
+  "key": {
+    "F": {
+      "item": "promenade:palm_fence"
+    },
+    "W": {
+      "item": "promenade:palm_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcb/promenade/palm_bridge_pier",
+    "count": 3
+  }
+}

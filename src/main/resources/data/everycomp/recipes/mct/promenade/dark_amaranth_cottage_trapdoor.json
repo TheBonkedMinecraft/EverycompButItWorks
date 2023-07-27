@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "cottage_trapdoors",
+  "pattern": [
+    "A",
+    "B",
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "promenade:dark_amaranth_planks"
+    },
+    "B": {
+      "item": "mcwtrpdoors:print_cottage"
+    }
+  },
+  "result": {
+    "item": "everycomp:mct/promenade/dark_amaranth_cottage_trapdoor"
+  }
+}

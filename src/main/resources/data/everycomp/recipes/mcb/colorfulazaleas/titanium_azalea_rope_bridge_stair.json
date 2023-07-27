@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rope_stairs",
+  "pattern": [
+    "  F",
+    " FF",
+    "FFF"
+  ],
+  "key": {
+    "F": {
+      "item": "everycomp:mcb/colorfulazaleas/rope_titanium_azalea_bridge"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcb/colorfulazaleas/titanium_azalea_rope_bridge_stair",
+    "count": 6
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_palisades",
+  "pattern": [
+    "xx "
+  ],
+  "key": {
+    "x": {
+      "item": "blockus:legacy_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/blockus/legacy_palisade",
+    "count": 6
+  }
+}

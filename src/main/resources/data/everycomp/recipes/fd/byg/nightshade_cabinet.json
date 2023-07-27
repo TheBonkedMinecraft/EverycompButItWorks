@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "byg:nightshade_trapdoor"
+    },
+    "_": {
+      "item": "byg:nightshade_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/byg/nightshade_cabinet"
+  }
+}

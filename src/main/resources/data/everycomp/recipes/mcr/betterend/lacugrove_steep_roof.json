@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "steep",
+  "pattern": [
+    " W",
+    "WW",
+    "WS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "betterend:lacugrove_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/betterend/lacugrove_steep_roof",
+    "count": 4
+  }
+}

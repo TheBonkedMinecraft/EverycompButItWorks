@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "picket",
+  "pattern": [
+    "CBC",
+    "CAC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "blockus:white_oak_planks"
+    },
+    "C": {
+      "item": "blockus:white_oak_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/blockus/white_oak_picket_fence",
+    "count": 3
+  }
+}

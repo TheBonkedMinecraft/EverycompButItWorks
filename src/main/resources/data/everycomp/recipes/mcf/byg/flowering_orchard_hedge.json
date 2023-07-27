@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hedge",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "byg:flowering_orchard_leaves"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/byg/flowering_orchard_hedge",
+    "count": 4
+  }
+}

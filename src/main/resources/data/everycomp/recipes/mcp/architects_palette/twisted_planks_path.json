@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "architects_palette:twisted_slab"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcp/architects_palette/twisted_planks_path",
+    "count": 3
+  }
+}

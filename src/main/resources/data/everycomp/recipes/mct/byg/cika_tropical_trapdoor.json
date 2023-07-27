@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tropical_trapdoors",
+  "pattern": [
+    "A",
+    "B",
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "byg:cika_planks"
+    },
+    "B": {
+      "item": "mcwtrpdoors:print_tropical"
+    }
+  },
+  "result": {
+    "item": "everycomp:mct/byg/cika_tropical_trapdoor"
+  }
+}

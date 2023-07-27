@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "top",
+  "pattern": [
+    "WSW"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "architects_palette:twisted_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/architects_palette/twisted_top_roof",
+    "count": 2
+  }
+}

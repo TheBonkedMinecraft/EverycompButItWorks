@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "soul_tiki",
+  "pattern": [
+    "N",
+    "I"
+  ],
+  "key": {
+    "I": {
+      "item": "colorfulazaleas:azule_azalea_fence"
+    },
+    "N": {
+      "item": "minecraft:soul_torch"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcl/colorfulazaleas/soul_azule_azalea_tiki_torch"
+  }
+}

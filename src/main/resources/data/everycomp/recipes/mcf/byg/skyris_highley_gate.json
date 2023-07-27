@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "highley",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "byg:skyris_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/byg/skyris_highley_gate"
+  }
+}

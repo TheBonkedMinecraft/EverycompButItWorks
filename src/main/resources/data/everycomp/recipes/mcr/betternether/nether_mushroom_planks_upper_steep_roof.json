@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "upper_steep",
+  "pattern": [
+    " W",
+    " W",
+    "WS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "betternether:nether_mushroom_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/betternether/nether_mushroom_planks_upper_steep_roof",
+    "count": 3
+  }
+}

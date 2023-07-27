@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rope_bridges",
+  "pattern": [
+    "F F",
+    "WWW"
+  ],
+  "key": {
+    "F": {
+      "item": "minecraft:string"
+    },
+    "W": {
+      "item": "betterend:tenanea_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcb/betterend/rope_tenanea_bridge",
+    "count": 4
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ecologics:walnut_slab"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcp/ecologics/walnut_planks_path",
+    "count": 3
+  }
+}

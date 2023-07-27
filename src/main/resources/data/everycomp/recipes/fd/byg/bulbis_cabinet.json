@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "byg:bulbis_trapdoor"
+    },
+    "_": {
+      "item": "byg:bulbis_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/byg/bulbis_cabinet"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "betternether:nether_reed_slab"
+    },
+    "O": {
+      "item": "betternether:nether_reed_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/betternether/nether_reed_table"
+  }
+}

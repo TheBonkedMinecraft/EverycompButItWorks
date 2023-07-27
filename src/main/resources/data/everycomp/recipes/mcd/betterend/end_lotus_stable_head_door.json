@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stable_head",
+  "ingredients": [
+    {
+      "item": "everycomp:mcd/betterend/end_lotus_stable_door"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcd/betterend/end_lotus_stable_head_door"
+  }
+}

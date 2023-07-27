@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "western",
+  "pattern": [
+    "  A",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "byg:imparius_planks"
+    },
+    "B": {
+      "item": "byg:imparius_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/byg/imparius_western_door",
+    "count": 3
+  }
+}

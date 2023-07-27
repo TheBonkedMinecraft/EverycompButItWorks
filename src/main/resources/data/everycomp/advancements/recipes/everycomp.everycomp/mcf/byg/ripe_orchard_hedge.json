@@ -1,0 +1,39 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "everycomp:mcf/byg/ripe_orchard_hedge"
+    ]
+  },
+  "criteria": {
+    "has_planks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": null,
+        "items": [
+          {
+            "items": [
+              "byg:ripe_orchard_leaves"
+            ],
+            "count": null,
+            "durability": null,
+            "nbt": null
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "player": null,
+        "recipe": "everycomp:mcf/byg/ripe_orchard_hedge"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_planks",
+      "has_the_recipe"
+    ]
+  ]
+}

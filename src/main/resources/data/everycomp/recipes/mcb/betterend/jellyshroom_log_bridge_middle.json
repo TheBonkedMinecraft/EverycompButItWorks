@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "log_bridges",
+  "pattern": [
+    "F F",
+    "WWW"
+  ],
+  "key": {
+    "F": {
+      "item": "betterend:jellyshroom_fence"
+    },
+    "W": {
+      "item": "betterend:jellyshroom_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcb/betterend/jellyshroom_log_bridge_middle",
+    "count": 4
+  }
+}

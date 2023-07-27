@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_beams",
+  "pattern": [
+    " x ",
+    " x "
+  ],
+  "key": {
+    "x": {
+      "item": "colorfulazaleas:stripped_fiss_azalea_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/colorfulazaleas/fiss_azalea_beam",
+    "count": 2
+  }
+}

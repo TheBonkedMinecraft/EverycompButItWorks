@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "highley",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "byg:rainbow_eucalyptus_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/byg/rainbow_eucalyptus_highley_gate"
+  }
+}

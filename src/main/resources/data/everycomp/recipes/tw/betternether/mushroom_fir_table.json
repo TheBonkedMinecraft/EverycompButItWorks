@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "betternether:mushroom_fir_slab"
+    },
+    "O": {
+      "item": "betternether:mushroom_fir_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/betternether/mushroom_fir_table"
+  }
+}

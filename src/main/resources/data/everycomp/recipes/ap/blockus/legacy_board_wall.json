@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "everycomp:ap/blockus/legacy_boards"
+    }
+  },
+  "result": {
+    "item": "everycomp:ap/blockus/legacy_board_wall",
+    "count": 6
+  }
+}

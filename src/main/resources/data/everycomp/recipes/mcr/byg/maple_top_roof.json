@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "top",
+  "pattern": [
+    "WSW"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "byg:maple_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/byg/maple_top_roof",
+    "count": 2
+  }
+}

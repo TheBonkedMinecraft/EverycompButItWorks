@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "byg:green_enchanted_slab"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcp/byg/green_enchanted_planks_path",
+    "count": 3
+  }
+}

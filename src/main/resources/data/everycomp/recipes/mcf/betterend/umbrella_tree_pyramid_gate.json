@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pyramid",
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "betterend:umbrella_tree_log"
+    },
+    "C": {
+      "item": "betterend:umbrella_tree_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/betterend/umbrella_tree_pyramid_gate"
+  }
+}

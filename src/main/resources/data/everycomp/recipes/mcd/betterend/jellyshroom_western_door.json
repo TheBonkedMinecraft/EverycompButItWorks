@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "western",
+  "pattern": [
+    "  A",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "betterend:jellyshroom_planks"
+    },
+    "B": {
+      "item": "betterend:jellyshroom_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/betterend/jellyshroom_western_door",
+    "count": 3
+  }
+}

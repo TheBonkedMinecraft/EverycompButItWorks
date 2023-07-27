@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "byg:sythian_trapdoor"
+    },
+    "_": {
+      "item": "byg:sythian_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/byg/sythian_cabinet"
+  }
+}

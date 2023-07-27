@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "upper_lower",
+  "pattern": [
+    "  W",
+    "WWS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "betterend:jellyshroom_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/betterend/jellyshroom_planks_upper_lower_roof",
+    "count": 3
+  }
+}

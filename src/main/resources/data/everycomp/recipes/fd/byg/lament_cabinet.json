@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "byg:lament_trapdoor"
+    },
+    "_": {
+      "item": "byg:lament_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/byg/lament_cabinet"
+  }
+}

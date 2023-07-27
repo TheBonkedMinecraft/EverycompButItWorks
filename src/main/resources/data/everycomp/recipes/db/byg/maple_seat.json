@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_seats",
+  "pattern": [
+    "x  ",
+    "y  "
+  ],
+  "key": {
+    "x": {
+      "item": "byg:maple_slab"
+    },
+    "y": {
+      "item": "byg:maple_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/byg/maple_seat",
+    "count": 2
+  }
+}

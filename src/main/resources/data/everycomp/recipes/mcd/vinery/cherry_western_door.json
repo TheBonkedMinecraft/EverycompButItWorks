@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "western",
+  "pattern": [
+    "  A",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "vinery:cherry_planks"
+    },
+    "B": {
+      "item": "vinery:cherry_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/vinery/cherry_western_door",
+    "count": 3
+  }
+}

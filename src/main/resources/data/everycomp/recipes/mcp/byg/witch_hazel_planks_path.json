@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "byg:witch_hazel_slab"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcp/byg/witch_hazel_planks_path",
+    "count": 3
+  }
+}

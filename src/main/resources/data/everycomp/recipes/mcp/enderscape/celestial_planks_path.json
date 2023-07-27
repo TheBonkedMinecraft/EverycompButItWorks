@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "enderscape:celestial_slab"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcp/enderscape/celestial_planks_path",
+    "count": 3
+  }
+}

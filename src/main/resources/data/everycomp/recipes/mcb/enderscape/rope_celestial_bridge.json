@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rope_bridges",
+  "pattern": [
+    "F F",
+    "WWW"
+  ],
+  "key": {
+    "F": {
+      "item": "minecraft:string"
+    },
+    "W": {
+      "item": "enderscape:celestial_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcb/enderscape/rope_celestial_bridge",
+    "count": 4
+  }
+}

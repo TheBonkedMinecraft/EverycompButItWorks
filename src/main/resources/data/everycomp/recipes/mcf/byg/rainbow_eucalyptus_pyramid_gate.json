@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pyramid",
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "byg:rainbow_eucalyptus_log"
+    },
+    "C": {
+      "item": "byg:rainbow_eucalyptus_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/byg/rainbow_eucalyptus_pyramid_gate"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hedge",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "byg:rainbow_eucalyptus_leaves"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/byg/rainbow_eucalyptus_hedge",
+    "count": 4
+  }
+}

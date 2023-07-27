@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "byg:zelkova_slab"
+    },
+    "O": {
+      "item": "byg:zelkova_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/byg/zelkova_table"
+  }
+}

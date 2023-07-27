@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "western",
+  "pattern": [
+    "  A",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "betterend:mossy_glowshroom_planks"
+    },
+    "B": {
+      "item": "betterend:mossy_glowshroom_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/betterend/mossy_glowshroom_western_door",
+    "count": 3
+  }
+}

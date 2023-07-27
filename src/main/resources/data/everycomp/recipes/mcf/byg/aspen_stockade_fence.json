@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stockade",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "byg:aspen_log"
+    },
+    "B": {
+      "item": "byg:aspen_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/byg/aspen_stockade_fence",
+    "count": 3
+  }
+}

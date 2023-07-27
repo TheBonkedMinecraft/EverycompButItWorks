@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "rope_bridges",
+  "pattern": [
+    "F F",
+    "WWW"
+  ],
+  "key": {
+    "F": {
+      "item": "minecraft:string"
+    },
+    "W": {
+      "item": "ecologics:walnut_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcb/ecologics/rope_walnut_bridge",
+    "count": 4
+  }
+}

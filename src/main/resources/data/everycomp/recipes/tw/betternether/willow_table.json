@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "betternether:willow_slab"
+    },
+    "O": {
+      "item": "betternether:willow_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/betternether/willow_table"
+  }
+}

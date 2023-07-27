@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stable",
+  "pattern": [
+    "BB",
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "blockus:white_oak_planks"
+    },
+    "B": {
+      "item": "minecraft:iron_bars"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/blockus/white_oak_stable_door",
+    "count": 3
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stockade",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "promenade:cherry_oak_log"
+    },
+    "B": {
+      "item": "promenade:cherry_oak_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/promenade/cherry_oak_stockade_fence",
+    "count": 3
+  }
+}

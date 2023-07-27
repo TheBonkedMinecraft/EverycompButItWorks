@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "soul_tiki",
+  "pattern": [
+    "N",
+    "I"
+  ],
+  "key": {
+    "I": {
+      "item": "byg:jacaranda_fence"
+    },
+    "N": {
+      "item": "minecraft:soul_torch"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcl/byg/soul_jacaranda_tiki_torch"
+  }
+}

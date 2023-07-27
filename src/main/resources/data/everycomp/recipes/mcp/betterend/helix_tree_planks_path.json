@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "betterend:helix_tree_slab"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcp/betterend/helix_tree_planks_path",
+    "count": 3
+  }
+}

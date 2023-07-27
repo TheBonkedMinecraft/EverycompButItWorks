@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "highley",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "charm:azalea_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/charm/azalea_highley_gate"
+  }
+}

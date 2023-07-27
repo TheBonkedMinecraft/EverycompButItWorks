@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "support",
+  "pattern": [
+    "xx ",
+    "x  "
+  ],
+  "key": {
+    "x": {
+      "item": "byg:cherry_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/byg/cherry_support",
+    "count": 3
+  }
+}

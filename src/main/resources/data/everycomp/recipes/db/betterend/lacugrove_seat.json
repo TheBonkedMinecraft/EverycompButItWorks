@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_seats",
+  "pattern": [
+    "x  ",
+    "y  "
+  ],
+  "key": {
+    "x": {
+      "item": "betterend:lacugrove_slab"
+    },
+    "y": {
+      "item": "betterend:lacugrove_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/betterend/lacugrove_seat",
+    "count": 2
+  }
+}

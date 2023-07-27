@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "everycomp:ap/betterend/tenanea_boards"
+    }
+  },
+  "result": {
+    "item": "everycomp:ap/betterend/tenanea_board_wall",
+    "count": 6
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "western",
+  "pattern": [
+    "  A",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "enderscape:celestial_planks"
+    },
+    "B": {
+      "item": "enderscape:celestial_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/enderscape/celestial_western_door",
+    "count": 3
+  }
+}

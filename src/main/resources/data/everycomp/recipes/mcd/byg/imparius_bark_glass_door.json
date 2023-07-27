@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bark",
+  "pattern": [
+    "AB",
+    "BB",
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "byg:imparius_stem"
+    },
+    "B": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/byg/imparius_bark_glass_door",
+    "count": 3
+  }
+}

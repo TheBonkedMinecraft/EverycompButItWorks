@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "betterend:end_lotus_slab"
+    },
+    "O": {
+      "item": "betterend:end_lotus_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/betterend/end_lotus_table"
+  }
+}

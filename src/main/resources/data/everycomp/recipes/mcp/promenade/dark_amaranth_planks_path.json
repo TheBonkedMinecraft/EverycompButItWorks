@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "promenade:dark_amaranth_slab"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcp/promenade/dark_amaranth_planks_path",
+    "count": 3
+  }
+}

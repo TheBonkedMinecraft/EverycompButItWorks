@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ranch_trapdoors",
+  "pattern": [
+    "ABA",
+    "BBB",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "promenade:cherry_oak_log"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:mct/promenade/cherry_oak_ranch_trapdoor",
+    "count": 2
+  }
+}

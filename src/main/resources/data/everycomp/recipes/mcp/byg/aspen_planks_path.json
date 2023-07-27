@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "byg:aspen_slab"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcp/byg/aspen_planks_path",
+    "count": 3
+  }
+}

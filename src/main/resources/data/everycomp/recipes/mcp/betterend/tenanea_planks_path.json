@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "betterend:tenanea_slab"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcp/betterend/tenanea_planks_path",
+    "count": 3
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "betterend:pythadendron_trapdoor"
+    },
+    "_": {
+      "item": "betterend:pythadendron_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/betterend/pythadendron_cabinet"
+  }
+}

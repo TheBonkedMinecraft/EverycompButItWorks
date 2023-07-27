@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "byg:green_enchanted_slab"
+    },
+    "O": {
+      "item": "byg:green_enchanted_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/byg/green_enchanted_table"
+  }
+}

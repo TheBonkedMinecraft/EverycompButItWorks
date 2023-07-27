@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "upper_steep",
+  "pattern": [
+    " W",
+    " W",
+    "WS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "promenade:dark_amaranth_stem"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/promenade/dark_amaranth_upper_steep_roof",
+    "count": 3
+  }
+}

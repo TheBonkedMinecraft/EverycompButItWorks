@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hedge",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "ecologics:coconut_leaves"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/ecologics/coconut_hedge",
+    "count": 4
+  }
+}

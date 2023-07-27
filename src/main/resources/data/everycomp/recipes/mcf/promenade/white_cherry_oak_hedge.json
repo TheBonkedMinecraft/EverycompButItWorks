@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hedge",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "promenade:white_cherry_oak_leaves"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/promenade/white_cherry_oak_hedge",
+    "count": 4
+  }
+}

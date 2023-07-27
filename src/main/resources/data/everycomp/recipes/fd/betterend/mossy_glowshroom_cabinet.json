@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "betterend:mossy_glowshroom_trapdoor"
+    },
+    "_": {
+      "item": "betterend:mossy_glowshroom_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/betterend/mossy_glowshroom_cabinet"
+  }
+}

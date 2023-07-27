@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "roof",
+  "pattern": [
+    " W",
+    "WS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "byg:sythian_stem"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/byg/sythian_roof",
+    "count": 2
+  }
+}

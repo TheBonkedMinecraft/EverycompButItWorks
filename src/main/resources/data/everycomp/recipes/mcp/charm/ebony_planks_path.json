@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "charm:ebony_slab"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcp/charm/ebony_planks_path",
+    "count": 3
+  }
+}

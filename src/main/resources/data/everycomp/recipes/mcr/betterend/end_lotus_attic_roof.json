@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "attic",
+  "pattern": [
+    " W",
+    "WG"
+  ],
+  "key": {
+    "W": {
+      "item": "betterend:end_lotus_log"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/betterend/end_lotus_attic_roof",
+    "count": 2
+  }
+}

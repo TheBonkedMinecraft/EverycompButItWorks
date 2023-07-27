@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bark_trapdoors",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "colorfulazaleas:titanium_azalea_log"
+    },
+    "B": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "everycomp:mct/colorfulazaleas/titanium_azalea_bark_trapdoor",
+    "count": 2
+  }
+}

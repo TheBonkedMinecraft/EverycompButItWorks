@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "betterend:lacugrove_trapdoor"
+    },
+    "_": {
+      "item": "betterend:lacugrove_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/betterend/lacugrove_cabinet"
+  }
+}

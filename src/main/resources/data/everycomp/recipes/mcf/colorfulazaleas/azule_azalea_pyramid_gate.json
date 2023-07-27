@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pyramid",
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "colorfulazaleas:azule_azalea_log"
+    },
+    "C": {
+      "item": "colorfulazaleas:azule_azalea_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/colorfulazaleas/azule_azalea_pyramid_gate"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pyramid",
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "betterend:tenanea_log"
+    },
+    "C": {
+      "item": "betterend:tenanea_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/betterend/tenanea_pyramid_gate"
+  }
+}

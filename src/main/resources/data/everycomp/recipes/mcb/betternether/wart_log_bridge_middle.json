@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "log_bridges",
+  "pattern": [
+    "F F",
+    "WWW"
+  ],
+  "key": {
+    "F": {
+      "item": "betternether:wart_fence"
+    },
+    "W": {
+      "item": "betternether:wart_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcb/betternether/wart_log_bridge_middle",
+    "count": 4
+  }
+}

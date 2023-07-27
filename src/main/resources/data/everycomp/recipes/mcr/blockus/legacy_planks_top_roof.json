@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "top",
+  "pattern": [
+    "WSW"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "blockus:legacy_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/blockus/legacy_planks_top_roof",
+    "count": 2
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "western",
+  "pattern": [
+    "  A",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "betternether:nether_sakura_planks"
+    },
+    "B": {
+      "item": "betternether:nether_sakura_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/betternether/nether_sakura_western_door",
+    "count": 3
+  }
+}

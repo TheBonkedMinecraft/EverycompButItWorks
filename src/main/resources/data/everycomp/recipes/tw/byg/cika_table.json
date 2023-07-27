@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "byg:cika_slab"
+    },
+    "O": {
+      "item": "byg:cika_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/byg/cika_table"
+  }
+}

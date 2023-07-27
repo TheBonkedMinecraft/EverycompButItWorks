@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "ecologics:azalea_trapdoor"
+    },
+    "_": {
+      "item": "ecologics:azalea_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/ecologics/azalea_cabinet"
+  }
+}

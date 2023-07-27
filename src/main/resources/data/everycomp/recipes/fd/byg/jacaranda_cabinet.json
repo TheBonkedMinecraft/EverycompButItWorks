@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "byg:jacaranda_trapdoor"
+    },
+    "_": {
+      "item": "byg:jacaranda_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/byg/jacaranda_cabinet"
+  }
+}

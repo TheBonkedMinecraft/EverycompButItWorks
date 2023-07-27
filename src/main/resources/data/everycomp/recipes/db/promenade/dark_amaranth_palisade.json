@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_palisades",
+  "pattern": [
+    "xx "
+  ],
+  "key": {
+    "x": {
+      "item": "promenade:dark_amaranth_stem"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/promenade/dark_amaranth_palisade",
+    "count": 6
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hedge",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "byg:ripe_joshua_leaves"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/byg/ripe_joshua_hedge",
+    "count": 4
+  }
+}

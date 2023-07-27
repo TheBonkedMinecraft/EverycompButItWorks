@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "western",
+  "pattern": [
+    "  A",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "betternether:nether_mushroom_planks"
+    },
+    "B": {
+      "item": "betternether:nether_mushroom_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/betternether/nether_mushroom_western_door",
+    "count": 3
+  }
+}

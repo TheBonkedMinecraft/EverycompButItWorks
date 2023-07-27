@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "mystic",
+  "pattern": [
+    "A",
+    "B",
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "betternether:stalagnate_planks"
+    },
+    "B": {
+      "item": "mcwdoors:print_mystic"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/betternether/stalagnate_mystic_door"
+  }
+}

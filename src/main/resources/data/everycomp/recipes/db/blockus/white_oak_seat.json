@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_seats",
+  "pattern": [
+    "x  ",
+    "y  "
+  ],
+  "key": {
+    "x": {
+      "item": "blockus:white_oak_slab"
+    },
+    "y": {
+      "item": "blockus:white_oak_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/blockus/white_oak_seat",
+    "count": 2
+  }
+}

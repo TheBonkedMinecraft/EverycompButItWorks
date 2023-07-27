@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "parapets",
+  "pattern": [
+    "AAA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "blockus:legacy_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcw/blockus/legacy_plank_parapet",
+    "count": 5
+  }
+}

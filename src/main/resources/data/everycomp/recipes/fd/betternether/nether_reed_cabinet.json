@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "betternether:nether_reed_trapdoor"
+    },
+    "_": {
+      "item": "betternether:nether_reed_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/betternether/nether_reed_cabinet"
+  }
+}

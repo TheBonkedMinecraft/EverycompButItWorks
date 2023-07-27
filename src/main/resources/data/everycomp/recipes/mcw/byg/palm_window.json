@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "windows",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "mcwwindows:window_base"
+    },
+    "B": {
+      "item": "byg:palm_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcw/byg/palm_window",
+    "count": 8
+  }
+}

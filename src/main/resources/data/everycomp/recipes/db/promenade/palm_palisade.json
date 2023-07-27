@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_palisades",
+  "pattern": [
+    "xx "
+  ],
+  "key": {
+    "x": {
+      "item": "promenade:palm_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/promenade/palm_palisade",
+    "count": 6
+  }
+}

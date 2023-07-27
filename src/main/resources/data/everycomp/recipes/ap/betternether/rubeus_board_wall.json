@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "everycomp:ap/betternether/rubeus_boards"
+    }
+  },
+  "result": {
+    "item": "everycomp:ap/betternether/rubeus_board_wall",
+    "count": 6
+  }
+}

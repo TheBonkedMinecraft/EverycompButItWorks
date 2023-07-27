@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "roof",
+  "pattern": [
+    " W",
+    "WS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "promenade:dark_amaranth_stem"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/promenade/dark_amaranth_roof",
+    "count": 2
+  }
+}

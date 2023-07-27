@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "highley",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "blockus:white_oak_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/blockus/white_oak_highley_gate"
+  }
+}

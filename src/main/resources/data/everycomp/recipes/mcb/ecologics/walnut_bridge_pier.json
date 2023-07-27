@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_piers",
+  "pattern": [
+    "WFW"
+  ],
+  "key": {
+    "F": {
+      "item": "ecologics:walnut_fence"
+    },
+    "W": {
+      "item": "ecologics:walnut_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcb/ecologics/walnut_bridge_pier",
+    "count": 3
+  }
+}

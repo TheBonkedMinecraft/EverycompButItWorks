@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "four_panel",
+  "pattern": [
+    "A",
+    "B",
+    "A"
+  ],
+  "key": {
+    "A": {
+      "item": "architects_palette:twisted_planks"
+    },
+    "B": {
+      "item": "mcwdoors:print_dark_oak"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/architects_palette/twisted_four_panel_door"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "western",
+  "pattern": [
+    "  A",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "byg:willow_planks"
+    },
+    "B": {
+      "item": "byg:willow_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/byg/willow_western_door",
+    "count": 3
+  }
+}

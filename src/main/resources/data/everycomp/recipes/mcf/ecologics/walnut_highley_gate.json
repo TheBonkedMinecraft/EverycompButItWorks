@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "highley",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "ecologics:walnut_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/ecologics/walnut_highley_gate"
+  }
+}

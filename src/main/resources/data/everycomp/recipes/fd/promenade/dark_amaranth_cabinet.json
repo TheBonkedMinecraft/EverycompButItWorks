@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "promenade:dark_amaranth_trapdoor"
+    },
+    "_": {
+      "item": "promenade:dark_amaranth_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/promenade/dark_amaranth_cabinet"
+  }
+}

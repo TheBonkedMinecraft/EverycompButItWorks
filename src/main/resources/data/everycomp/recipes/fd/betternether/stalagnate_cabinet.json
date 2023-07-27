@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "betternether:stalagnate_trapdoor"
+    },
+    "_": {
+      "item": "betternether:stalagnate_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/betternether/stalagnate_cabinet"
+  }
+}

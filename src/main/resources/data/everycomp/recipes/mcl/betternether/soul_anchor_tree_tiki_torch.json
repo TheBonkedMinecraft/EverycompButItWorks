@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "soul_tiki",
+  "pattern": [
+    "N",
+    "I"
+  ],
+  "key": {
+    "I": {
+      "item": "betternether:anchor_tree_fence"
+    },
+    "N": {
+      "item": "minecraft:soul_torch"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcl/betternether/soul_anchor_tree_tiki_torch"
+  }
+}

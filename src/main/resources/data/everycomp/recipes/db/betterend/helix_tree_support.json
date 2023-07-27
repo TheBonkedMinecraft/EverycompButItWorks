@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "support",
+  "pattern": [
+    "xx ",
+    "x  "
+  ],
+  "key": {
+    "x": {
+      "item": "betterend:helix_tree_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/betterend/helix_tree_support",
+    "count": 3
+  }
+}

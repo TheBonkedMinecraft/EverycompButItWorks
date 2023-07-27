@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "western",
+  "pattern": [
+    "  A",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "charm:azalea_planks"
+    },
+    "B": {
+      "item": "charm:azalea_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/charm/azalea_western_door",
+    "count": 3
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "steep",
+  "pattern": [
+    " W",
+    "WW",
+    "WS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "betternether:nether_reed_stem"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/betternether/nether_reed_steep_roof",
+    "count": 4
+  }
+}

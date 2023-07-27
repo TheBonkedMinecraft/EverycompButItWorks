@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "vinery:cherry_slab"
+    },
+    "O": {
+      "item": "vinery:cherry_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/vinery/cherry_table"
+  }
+}

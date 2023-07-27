@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_seats",
+  "pattern": [
+    "x  ",
+    "y  "
+  ],
+  "key": {
+    "x": {
+      "item": "betterend:tenanea_slab"
+    },
+    "y": {
+      "item": "betterend:tenanea_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/betterend/tenanea_seat",
+    "count": 2
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "picket",
+  "pattern": [
+    "CBC",
+    "CAC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "betternether:wart_planks"
+    },
+    "C": {
+      "item": "betternether:wart_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/betternether/wart_picket_fence",
+    "count": 3
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shutters",
+  "pattern": [
+    "B",
+    "B",
+    "B"
+  ],
+  "key": {
+    "B": {
+      "item": "architects_palette:twisted_trapdoor"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcw/architects_palette/twisted_shutter",
+    "count": 3
+  }
+}

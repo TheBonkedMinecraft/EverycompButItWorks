@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "betternether:rubeus_slab"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcp/betternether/rubeus_planks_path",
+    "count": 3
+  }
+}

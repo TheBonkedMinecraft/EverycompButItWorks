@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_palisades",
+  "pattern": [
+    "xx "
+  ],
+  "key": {
+    "x": {
+      "item": "betternether:nether_sakura_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/betternether/nether_sakura_palisade",
+    "count": 6
+  }
+}

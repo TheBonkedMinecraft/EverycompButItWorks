@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "western",
+  "pattern": [
+    "  A",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "architects_palette:twisted_planks"
+    },
+    "B": {
+      "item": "architects_palette:twisted_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/architects_palette/twisted_western_door",
+    "count": 3
+  }
+}

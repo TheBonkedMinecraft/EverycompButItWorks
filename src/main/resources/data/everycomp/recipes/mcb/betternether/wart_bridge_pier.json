@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_piers",
+  "pattern": [
+    "WFW"
+  ],
+  "key": {
+    "F": {
+      "item": "betternether:wart_fence"
+    },
+    "W": {
+      "item": "betternether:wart_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcb/betternether/wart_bridge_pier",
+    "count": 3
+  }
+}

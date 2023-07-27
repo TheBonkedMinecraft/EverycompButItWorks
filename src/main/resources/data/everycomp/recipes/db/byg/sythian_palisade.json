@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_palisades",
+  "pattern": [
+    "xx "
+  ],
+  "key": {
+    "x": {
+      "item": "byg:sythian_stem"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/byg/sythian_palisade",
+    "count": 6
+  }
+}

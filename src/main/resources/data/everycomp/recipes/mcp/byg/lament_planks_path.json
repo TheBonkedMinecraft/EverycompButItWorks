@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "byg:lament_slab"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcp/byg/lament_planks_path",
+    "count": 3
+  }
+}

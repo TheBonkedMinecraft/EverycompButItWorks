@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "barn_trapdoors",
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "key": {
+    "A": {
+      "item": "betternether:nether_mushroom_planks"
+    },
+    "B": {
+      "item": "everycomp:mct/betternether/nether_mushroom_glass_trapdoor"
+    }
+  },
+  "result": {
+    "item": "everycomp:mct/betternether/nether_mushroom_barn_trapdoor"
+  }
+}

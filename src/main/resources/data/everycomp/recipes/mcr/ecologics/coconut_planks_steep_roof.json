@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "steep",
+  "pattern": [
+    " W",
+    "WW",
+    "WS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "ecologics:coconut_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/ecologics/coconut_planks_steep_roof",
+    "count": 4
+  }
+}

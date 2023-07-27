@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "everycomp:ap/byg/zelkova_boards"
+    }
+  },
+  "result": {
+    "item": "everycomp:ap/byg/zelkova_board_slab",
+    "count": 6
+  }
+}

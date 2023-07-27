@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "western",
+  "pattern": [
+    "  A",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "byg:cypress_planks"
+    },
+    "B": {
+      "item": "byg:cypress_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/byg/cypress_western_door",
+    "count": 3
+  }
+}

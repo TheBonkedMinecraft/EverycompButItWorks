@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "western",
+  "pattern": [
+    "  A",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "betternether:rubeus_planks"
+    },
+    "B": {
+      "item": "betternether:rubeus_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/betternether/rubeus_western_door",
+    "count": 3
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shutters",
+  "pattern": [
+    "B",
+    "B",
+    "B"
+  ],
+  "key": {
+    "B": {
+      "item": "betterend:lacugrove_trapdoor"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcw/betterend/lacugrove_shutter",
+    "count": 3
+  }
+}

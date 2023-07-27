@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "windows_four",
+  "pattern": [
+    "CAC",
+    "ABA",
+    "CAC"
+  ],
+  "key": {
+    "A": {
+      "item": "mcwwindows:window_centre_bar_base"
+    },
+    "B": {
+      "item": "betterend:jellyshroom_stripped_log"
+    },
+    "C": {
+      "item": "mcwwindows:window_base"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcw/betterend/stripped_jellyshroom_log_four_window",
+    "count": 8
+  }
+}

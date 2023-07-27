@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stable_head",
+  "ingredients": [
+    {
+      "item": "everycomp:mcd/betternether/nether_mushroom_stable_door"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcd/betternether/nether_mushroom_stable_head_door"
+  }
+}

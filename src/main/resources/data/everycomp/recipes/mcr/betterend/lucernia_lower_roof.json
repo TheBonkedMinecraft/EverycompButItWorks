@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "lower",
+  "pattern": [
+    " WW",
+    "WWS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "betterend:lucernia_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/betterend/lucernia_lower_roof",
+    "count": 4
+  }
+}

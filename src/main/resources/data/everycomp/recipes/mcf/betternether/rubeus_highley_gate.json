@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "highley",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "betternether:rubeus_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/betternether/rubeus_highley_gate"
+  }
+}

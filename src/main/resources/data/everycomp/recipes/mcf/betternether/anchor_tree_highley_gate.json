@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "highley",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "betternether:anchor_tree_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/betternether/anchor_tree_highley_gate"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "highley",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "blockus:legacy_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/blockus/legacy_highley_gate"
+  }
+}

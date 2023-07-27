@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "byg:sythian_slab"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcp/byg/sythian_planks_path",
+    "count": 3
+  }
+}

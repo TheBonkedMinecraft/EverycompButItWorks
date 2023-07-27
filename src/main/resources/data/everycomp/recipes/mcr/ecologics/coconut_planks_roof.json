@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "roof",
+  "pattern": [
+    " W",
+    "WS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "ecologics:coconut_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/ecologics/coconut_planks_roof",
+    "count": 2
+  }
+}

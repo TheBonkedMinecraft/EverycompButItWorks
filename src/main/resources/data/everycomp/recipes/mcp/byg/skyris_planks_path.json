@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "byg:skyris_slab"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcp/byg/skyris_planks_path",
+    "count": 3
+  }
+}

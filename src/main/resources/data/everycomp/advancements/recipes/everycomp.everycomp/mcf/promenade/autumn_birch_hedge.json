@@ -1,0 +1,39 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+      "everycomp:mcf/promenade/autumn_birch_hedge"
+    ]
+  },
+  "criteria": {
+    "has_planks": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": null,
+        "items": [
+          {
+            "items": [
+              "promenade:autumn_birch_leaves"
+            ],
+            "count": null,
+            "durability": null,
+            "nbt": null
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "player": null,
+        "recipe": "everycomp:mcf/promenade/autumn_birch_hedge"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_planks",
+      "has_the_recipe"
+    ]
+  ]
+}

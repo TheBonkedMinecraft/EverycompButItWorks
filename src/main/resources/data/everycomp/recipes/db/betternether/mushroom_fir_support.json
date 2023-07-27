@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "support",
+  "pattern": [
+    "xx ",
+    "x  "
+  ],
+  "key": {
+    "x": {
+      "item": "betternether:mushroom_fir_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/betternether/mushroom_fir_support",
+    "count": 3
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shutters",
+  "pattern": [
+    "B",
+    "B",
+    "B"
+  ],
+  "key": {
+    "B": {
+      "item": "betterend:tenanea_trapdoor"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcw/betterend/tenanea_shutter",
+    "count": 3
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "upper_steep",
+  "pattern": [
+    " W",
+    " W",
+    "WS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "byg:sythian_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/byg/sythian_planks_upper_steep_roof",
+    "count": 3
+  }
+}

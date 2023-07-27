@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_seats",
+  "pattern": [
+    "x  ",
+    "y  "
+  ],
+  "key": {
+    "x": {
+      "item": "byg:holly_slab"
+    },
+    "y": {
+      "item": "byg:holly_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/byg/holly_seat",
+    "count": 2
+  }
+}

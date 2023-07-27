@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "betternether:wart_slab"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcp/betternether/wart_planks_path",
+    "count": 3
+  }
+}

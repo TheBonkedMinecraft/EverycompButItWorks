@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "picket",
+  "pattern": [
+    "CBC",
+    "CAC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "enderscape:celestial_planks"
+    },
+    "C": {
+      "item": "enderscape:celestial_stem"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/enderscape/celestial_picket_fence",
+    "count": 3
+  }
+}

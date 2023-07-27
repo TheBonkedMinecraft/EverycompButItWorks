@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "enderscape:celestial_slab"
+    },
+    "O": {
+      "item": "enderscape:celestial_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/enderscape/celestial_table"
+  }
+}

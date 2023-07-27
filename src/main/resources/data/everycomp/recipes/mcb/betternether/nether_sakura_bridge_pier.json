@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_piers",
+  "pattern": [
+    "WFW"
+  ],
+  "key": {
+    "F": {
+      "item": "betternether:nether_sakura_fence"
+    },
+    "W": {
+      "item": "betternether:nether_sakura_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcb/betternether/nether_sakura_bridge_pier",
+    "count": 3
+  }
+}

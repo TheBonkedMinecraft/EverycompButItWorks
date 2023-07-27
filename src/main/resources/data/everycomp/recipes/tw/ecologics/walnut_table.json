@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "ecologics:walnut_slab"
+    },
+    "O": {
+      "item": "ecologics:walnut_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/ecologics/walnut_table"
+  }
+}

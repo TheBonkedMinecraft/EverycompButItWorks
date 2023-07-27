@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "boards",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "byg:jacaranda_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:ap/byg/jacaranda_boards",
+    "count": 9
+  }
+}

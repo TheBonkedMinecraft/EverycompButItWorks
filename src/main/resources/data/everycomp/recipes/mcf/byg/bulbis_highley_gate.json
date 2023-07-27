@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "highley",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "byg:bulbis_stem"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/byg/bulbis_highley_gate"
+  }
+}

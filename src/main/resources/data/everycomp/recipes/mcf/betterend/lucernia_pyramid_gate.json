@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pyramid",
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "betterend:lucernia_log"
+    },
+    "C": {
+      "item": "betterend:lucernia_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/betterend/lucernia_pyramid_gate"
+  }
+}

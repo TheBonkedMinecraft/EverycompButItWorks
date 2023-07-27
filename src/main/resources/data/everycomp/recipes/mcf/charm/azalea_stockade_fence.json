@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stockade",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "charm:azalea_log"
+    },
+    "B": {
+      "item": "charm:azalea_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/charm/azalea_stockade_fence",
+    "count": 3
+  }
+}

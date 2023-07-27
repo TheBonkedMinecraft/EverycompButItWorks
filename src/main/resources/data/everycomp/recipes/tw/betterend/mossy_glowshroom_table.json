@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "betterend:mossy_glowshroom_slab"
+    },
+    "O": {
+      "item": "betterend:mossy_glowshroom_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/betterend/mossy_glowshroom_table"
+  }
+}

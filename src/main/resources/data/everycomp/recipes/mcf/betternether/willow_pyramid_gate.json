@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pyramid",
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "betternether:willow_log"
+    },
+    "C": {
+      "item": "betternether:willow_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/betternether/willow_pyramid_gate"
+  }
+}

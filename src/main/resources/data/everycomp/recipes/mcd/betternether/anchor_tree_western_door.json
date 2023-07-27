@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "western",
+  "pattern": [
+    "  A",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "betternether:anchor_tree_planks"
+    },
+    "B": {
+      "item": "betternether:anchor_tree_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/betternether/anchor_tree_western_door",
+    "count": 3
+  }
+}

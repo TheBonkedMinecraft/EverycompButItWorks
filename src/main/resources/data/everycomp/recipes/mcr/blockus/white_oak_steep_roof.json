@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "steep",
+  "pattern": [
+    " W",
+    "WW",
+    "WS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "blockus:white_oak_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/blockus/white_oak_steep_roof",
+    "count": 4
+  }
+}

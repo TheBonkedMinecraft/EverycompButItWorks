@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "boards",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "charm:ebony_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:ap/charm/ebony_boards",
+    "count": 9
+  }
+}

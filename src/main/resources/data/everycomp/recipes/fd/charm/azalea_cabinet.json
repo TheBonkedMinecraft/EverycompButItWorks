@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "charm:azalea_trapdoor"
+    },
+    "_": {
+      "item": "charm:azalea_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/charm/azalea_cabinet"
+  }
+}

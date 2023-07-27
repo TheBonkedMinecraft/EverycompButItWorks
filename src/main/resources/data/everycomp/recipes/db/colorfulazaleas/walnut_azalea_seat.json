@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_seats",
+  "pattern": [
+    "x  ",
+    "y  "
+  ],
+  "key": {
+    "x": {
+      "item": "colorfulazaleas:walnut_azalea_slab"
+    },
+    "y": {
+      "item": "colorfulazaleas:walnut_azalea_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/colorfulazaleas/walnut_azalea_seat",
+    "count": 2
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "parapets",
+  "pattern": [
+    "AAA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "architects_palette:twisted_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcw/architects_palette/twisted_log_parapet",
+    "count": 5
+  }
+}

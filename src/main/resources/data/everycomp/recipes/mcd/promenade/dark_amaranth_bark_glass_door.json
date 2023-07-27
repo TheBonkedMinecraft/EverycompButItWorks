@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bark",
+  "pattern": [
+    "AB",
+    "BB",
+    "AB"
+  ],
+  "key": {
+    "A": {
+      "item": "promenade:dark_amaranth_stem"
+    },
+    "B": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/promenade/dark_amaranth_bark_glass_door",
+    "count": 3
+  }
+}

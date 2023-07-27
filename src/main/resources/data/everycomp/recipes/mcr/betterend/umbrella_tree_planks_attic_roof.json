@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "attic",
+  "pattern": [
+    " W",
+    "WG"
+  ],
+  "key": {
+    "W": {
+      "item": "betterend:umbrella_tree_planks"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/betterend/umbrella_tree_planks_attic_roof",
+    "count": 2
+  }
+}

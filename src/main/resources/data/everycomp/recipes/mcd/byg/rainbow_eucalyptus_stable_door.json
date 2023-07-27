@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stable",
+  "pattern": [
+    "BB",
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "byg:rainbow_eucalyptus_planks"
+    },
+    "B": {
+      "item": "minecraft:iron_bars"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/byg/rainbow_eucalyptus_stable_door",
+    "count": 3
+  }
+}

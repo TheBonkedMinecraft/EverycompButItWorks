@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "picket",
+  "pattern": [
+    "CBC",
+    "CAC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "vinery:cherry_planks"
+    },
+    "C": {
+      "item": "vinery:cherry_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/vinery/cherry_picket_fence",
+    "count": 3
+  }
+}

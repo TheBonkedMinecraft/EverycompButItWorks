@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "western",
+  "pattern": [
+    "  A",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "colorfulazaleas:walnut_azalea_planks"
+    },
+    "B": {
+      "item": "colorfulazaleas:walnut_azalea_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/colorfulazaleas/walnut_azalea_western_door",
+    "count": 3
+  }
+}

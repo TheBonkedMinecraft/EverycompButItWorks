@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "attic",
+  "pattern": [
+    " W",
+    "WG"
+  ],
+  "key": {
+    "W": {
+      "item": "byg:zelkova_planks"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/byg/zelkova_planks_attic_roof",
+    "count": 2
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "betternether:rubeus_trapdoor"
+    },
+    "_": {
+      "item": "betternether:rubeus_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/betternether/rubeus_cabinet"
+  }
+}

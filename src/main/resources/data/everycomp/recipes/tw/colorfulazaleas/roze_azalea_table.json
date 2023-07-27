@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "colorfulazaleas:roze_azalea_slab"
+    },
+    "O": {
+      "item": "colorfulazaleas:roze_azalea_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/colorfulazaleas/roze_azalea_table"
+  }
+}

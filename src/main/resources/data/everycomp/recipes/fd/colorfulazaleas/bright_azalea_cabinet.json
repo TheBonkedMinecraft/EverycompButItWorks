@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "colorfulazaleas:bright_azalea_trapdoor"
+    },
+    "_": {
+      "item": "colorfulazaleas:bright_azalea_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/colorfulazaleas/bright_azalea_cabinet"
+  }
+}

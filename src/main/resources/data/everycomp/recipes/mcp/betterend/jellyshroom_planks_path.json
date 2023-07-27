@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "betterend:jellyshroom_slab"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcp/betterend/jellyshroom_planks_path",
+    "count": 3
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "blockus:white_oak_slab"
+    },
+    "O": {
+      "item": "blockus:white_oak_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/blockus/white_oak_table"
+  }
+}

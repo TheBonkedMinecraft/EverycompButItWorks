@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "steep",
+  "pattern": [
+    " W",
+    "WW",
+    "WS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "betternether:nether_sakura_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/betternether/nether_sakura_steep_roof",
+    "count": 4
+  }
+}

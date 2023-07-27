@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "shutters",
+  "pattern": [
+    "B",
+    "B",
+    "B"
+  ],
+  "key": {
+    "B": {
+      "item": "byg:zelkova_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcw/byg/zelkova_louvered_shutter",
+    "count": 3
+  }
+}

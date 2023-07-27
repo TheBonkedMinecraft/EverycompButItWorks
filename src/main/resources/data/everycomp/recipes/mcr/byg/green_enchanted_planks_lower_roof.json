@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "lower",
+  "pattern": [
+    " WW",
+    "WWS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "byg:green_enchanted_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/byg/green_enchanted_planks_lower_roof",
+    "count": 4
+  }
+}

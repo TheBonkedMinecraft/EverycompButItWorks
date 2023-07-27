@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_palisades",
+  "pattern": [
+    "xx "
+  ],
+  "key": {
+    "x": {
+      "item": "betterend:dragon_tree_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/betterend/dragon_tree_palisade",
+    "count": 6
+  }
+}

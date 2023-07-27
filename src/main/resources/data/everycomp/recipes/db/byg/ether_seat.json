@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_seats",
+  "pattern": [
+    "x  ",
+    "y  "
+  ],
+  "key": {
+    "x": {
+      "item": "byg:ether_slab"
+    },
+    "y": {
+      "item": "byg:ether_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/byg/ether_seat",
+    "count": 2
+  }
+}

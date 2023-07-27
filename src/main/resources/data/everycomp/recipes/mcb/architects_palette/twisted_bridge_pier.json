@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_piers",
+  "pattern": [
+    "WFW"
+  ],
+  "key": {
+    "F": {
+      "item": "architects_palette:twisted_fence"
+    },
+    "W": {
+      "item": "architects_palette:twisted_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcb/architects_palette/twisted_bridge_pier",
+    "count": 3
+  }
+}

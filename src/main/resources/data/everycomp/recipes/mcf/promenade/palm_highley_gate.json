@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "highley",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "promenade:palm_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/promenade/palm_highley_gate"
+  }
+}

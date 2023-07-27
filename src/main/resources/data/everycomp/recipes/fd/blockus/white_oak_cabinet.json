@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "blockus:white_oak_trapdoor"
+    },
+    "_": {
+      "item": "blockus:white_oak_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/blockus/white_oak_cabinet"
+  }
+}

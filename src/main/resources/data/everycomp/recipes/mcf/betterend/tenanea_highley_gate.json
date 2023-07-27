@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "highley",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "betterend:tenanea_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/betterend/tenanea_highley_gate"
+  }
+}

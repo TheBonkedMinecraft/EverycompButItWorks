@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_seats",
+  "pattern": [
+    "x  ",
+    "y  "
+  ],
+  "key": {
+    "x": {
+      "item": "betterend:lucernia_slab"
+    },
+    "y": {
+      "item": "betterend:lucernia_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/betterend/lucernia_seat",
+    "count": 2
+  }
+}

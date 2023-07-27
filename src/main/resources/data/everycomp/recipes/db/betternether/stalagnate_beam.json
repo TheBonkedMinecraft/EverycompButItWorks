@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "decorative_beams",
+  "pattern": [
+    " x ",
+    " x "
+  ],
+  "key": {
+    "x": {
+      "item": "betternether:stalagnate_stripped_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:db/betternether/stalagnate_beam",
+    "count": 2
+  }
+}

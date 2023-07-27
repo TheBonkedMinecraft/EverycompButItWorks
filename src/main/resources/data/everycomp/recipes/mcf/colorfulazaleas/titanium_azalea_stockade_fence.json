@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stockade",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "colorfulazaleas:titanium_azalea_log"
+    },
+    "B": {
+      "item": "colorfulazaleas:titanium_azalea_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/colorfulazaleas/titanium_azalea_stockade_fence",
+    "count": 3
+  }
+}

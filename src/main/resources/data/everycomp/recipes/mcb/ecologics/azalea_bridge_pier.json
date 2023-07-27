@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_piers",
+  "pattern": [
+    "WFW"
+  ],
+  "key": {
+    "F": {
+      "item": "ecologics:azalea_fence"
+    },
+    "W": {
+      "item": "ecologics:azalea_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcb/ecologics/azalea_bridge_pier",
+    "count": 3
+  }
+}

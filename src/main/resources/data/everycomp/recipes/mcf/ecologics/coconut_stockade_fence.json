@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stockade",
+  "pattern": [
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A": {
+      "item": "ecologics:coconut_log"
+    },
+    "B": {
+      "item": "ecologics:coconut_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/ecologics/coconut_stockade_fence",
+    "count": 3
+  }
+}

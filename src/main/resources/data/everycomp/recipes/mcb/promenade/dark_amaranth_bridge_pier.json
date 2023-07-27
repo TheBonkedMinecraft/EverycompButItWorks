@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_piers",
+  "pattern": [
+    "WFW"
+  ],
+  "key": {
+    "F": {
+      "item": "promenade:dark_amaranth_fence"
+    },
+    "W": {
+      "item": "promenade:dark_amaranth_stem"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcb/promenade/dark_amaranth_bridge_pier",
+    "count": 3
+  }
+}

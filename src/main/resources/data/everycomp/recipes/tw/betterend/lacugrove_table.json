@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "betterend:lacugrove_slab"
+    },
+    "O": {
+      "item": "betterend:lacugrove_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/betterend/lacugrove_table"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ecologics:azalea_slab"
+    }
+  ],
+  "result": {
+    "item": "everycomp:mcp/ecologics/azalea_planks_path",
+    "count": 3
+  }
+}

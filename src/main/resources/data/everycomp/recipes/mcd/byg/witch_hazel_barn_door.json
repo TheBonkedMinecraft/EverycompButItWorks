@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "barn",
+  "pattern": [
+    "BB",
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "byg:witch_hazel_planks"
+    },
+    "B": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcd/byg/witch_hazel_barn_door",
+    "count": 2
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "betterend:helix_tree_trapdoor"
+    },
+    "_": {
+      "item": "betterend:helix_tree_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/betterend/helix_tree_cabinet"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "barn_trapdoors",
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "key": {
+    "A": {
+      "item": "promenade:dark_amaranth_planks"
+    },
+    "B": {
+      "item": "everycomp:mct/promenade/dark_amaranth_glass_trapdoor"
+    }
+  },
+  "result": {
+    "item": "everycomp:mct/promenade/dark_amaranth_barn_trapdoor"
+  }
+}

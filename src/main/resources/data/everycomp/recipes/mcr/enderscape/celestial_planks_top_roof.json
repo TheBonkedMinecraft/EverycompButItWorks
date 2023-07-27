@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "top",
+  "pattern": [
+    "WSW"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "enderscape:celestial_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/enderscape/celestial_planks_top_roof",
+    "count": 2
+  }
+}

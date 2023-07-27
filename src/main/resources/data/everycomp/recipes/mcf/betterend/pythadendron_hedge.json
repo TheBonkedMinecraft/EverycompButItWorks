@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "hedge",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A": {
+      "item": "betterend:pythadendron_leaves"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/betterend/pythadendron_hedge",
+    "count": 4
+  }
+}

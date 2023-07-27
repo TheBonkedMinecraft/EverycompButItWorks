@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "barn_trapdoors",
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "key": {
+    "A": {
+      "item": "byg:lament_planks"
+    },
+    "B": {
+      "item": "everycomp:mct/byg/lament_glass_trapdoor"
+    }
+  },
+  "result": {
+    "item": "everycomp:mct/byg/lament_barn_trapdoor"
+  }
+}

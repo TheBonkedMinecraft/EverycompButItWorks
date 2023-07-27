@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "D D",
+    "___"
+  ],
+  "key": {
+    "D": {
+      "item": "betterend:tenanea_trapdoor"
+    },
+    "_": {
+      "item": "betterend:tenanea_slab"
+    }
+  },
+  "result": {
+    "item": "everycomp:fd/betterend/tenanea_cabinet"
+  }
+}

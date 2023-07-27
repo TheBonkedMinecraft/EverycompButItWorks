@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "pyramid",
+  "pattern": [
+    "ABA",
+    "ACA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "promenade:cherry_oak_log"
+    },
+    "C": {
+      "item": "promenade:cherry_oak_planks"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/promenade/cherry_oak_pyramid_gate"
+  }
+}

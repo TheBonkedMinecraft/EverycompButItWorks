@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "everycomp:ap/betterend/end_lotus_boards"
+    }
+  },
+  "result": {
+    "item": "everycomp:ap/betterend/end_lotus_board_wall",
+    "count": 6
+  }
+}

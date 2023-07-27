@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "upper_steep",
+  "pattern": [
+    " W",
+    " W",
+    "WS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "byg:lament_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcr/byg/lament_upper_steep_roof",
+    "count": 3
+  }
+}

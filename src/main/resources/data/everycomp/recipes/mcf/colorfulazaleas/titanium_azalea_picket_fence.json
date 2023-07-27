@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "picket",
+  "pattern": [
+    "CBC",
+    "CAC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "B": {
+      "item": "colorfulazaleas:titanium_azalea_planks"
+    },
+    "C": {
+      "item": "colorfulazaleas:titanium_azalea_log"
+    }
+  },
+  "result": {
+    "item": "everycomp:mcf/colorfulazaleas/titanium_azalea_picket_fence",
+    "count": 3
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "___",
+    "O O",
+    "O O"
+  ],
+  "key": {
+    "_": {
+      "item": "betternether:wart_slab"
+    },
+    "O": {
+      "item": "betternether:wart_fence"
+    }
+  },
+  "result": {
+    "item": "everycomp:tw/betternether/wart_table"
+  }
+}
