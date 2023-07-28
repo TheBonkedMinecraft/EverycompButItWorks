@@ -32,6 +32,9 @@ dependencies {
     modImplementation(files("lib/another_furniture-fabric-2.1.2-1.19.2.jar"))
     modImplementation(files("lib/architects-palette-fabric-3.0.0.jar"))
     modImplementation(files("lib/Decorative+Blocks-fabric-1.19.2-3.0.0.jar"))
+    modImplementation(files("lib/twigs-3.0.0-fabric-1.19.2.jar"))
+    modImplementation(files("lib/Jankson-1.2.3.jar"))
+    modImplementation(files("lib/owo-lib-0.9.3+1.19.jar"))
     }
 
 processResources {
